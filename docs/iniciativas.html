@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Planejamento Estratégico RP</title>
+
+  <link
+    rel="stylesheet"
+    href="assets/css/main.css"
+  >
+</head>
+
+<body>
+
+  <div class="layout">
+
+    <aside class="sidebar">
+
+      <div class="brand">
+        <div class="brand-mark"></div>
+
+        <div>
+          <h1>Planejamento Estratégico</h1>
+          <p>Rioprevidência</p>
+        </div>
+      </div>
+
+      <nav class="menu">
+        <a class="menu-item " href="index.html">Visão Geral</a>
+        <a class="menu-item " href="objetivos.html">Objetivos Estratégicos</a>
+        <a class="menu-item " href="krs.html">KRs</a>
+        <a class="menu-item active" href="iniciativas.html">Iniciativas</a>
+        <a class="menu-item " href="monitoramento.html">Monitoramento</a>
+      </nav>
+
+    </aside>
+
+    <main class="content">
+
+      <header class="topbar">
+        <div>
+          <h2>Iniciativas Estratégicas</h2>
+          <p>Carteira do Rioprevidência de iniciativas vinculadas aos objetivos estratégicos, KRs e critérios de priorização.</p>
+        </div>
+      </header>
+
+      
+    <section class="filters-panel compact" aria-label="Filtros globais">
+      <div class="filters-grid">
+        
+            <label class="filter-field">
+              <span>Diretoria</span>
+              <select data-filter="diretoria">
+                <option value="">Todos</option>
+<option value="Diretoria de Administração e Finanças">Diretoria de Administração e Finanças</option>
+<option value="Diretoria de Seguridade">Diretoria de Seguridade</option>
+<option value="Diretoria de Tecnologia">Diretoria de Tecnologia</option>
+<option value="Presidência">Presidência</option>
+              </select>
+            </label>
+            
+            <label class="filter-field">
+              <span>Perspectiva</span>
+              <select data-filter="perspectiva">
+                <option value="">Todos</option>
+<option value="Pessoas, Tecnologia e Capacidades">Pessoas, Tecnologia e Capacidades</option>
+<option value="Processos Internos">Processos Internos</option>
+<option value="Resultados Institucionais">Resultados Institucionais</option>
+<option value="Segurados e Beneficiários">Segurados e Beneficiários</option>
+              </select>
+            </label>
+            
+            <label class="filter-field">
+              <span>Status</span>
+              <select data-filter="status">
+                <option value="">Todos</option>
+<option value="Em execução">Em execução</option>
+<option value="Em planejamento">Em planejamento</option>
+<option value="Não iniciada">Não iniciada</option>
+              </select>
+            </label>
+            
+            <label class="filter-field">
+              <span>Quadrante</span>
+              <select data-filter="quadrante">
+                <option value="">Todos</option>
+<option value="Execução Oportunística">Execução Oportunística</option>
+<option value="Ganho Rápido">Ganho Rápido</option>
+<option value="Projeto Estruturante">Projeto Estruturante</option>
+<option value="Reavaliação Estratégica">Reavaliação Estratégica</option>
+              </select>
+            </label>
+            
+            <label class="filter-field">
+              <span>Alerta</span>
+              <select data-filter="alerta">
+                <option value="">Todos</option>
+<option value="Alerta">Alerta</option>
+<option value="Crítico">Crítico</option>
+              </select>
+            </label>
+            
+
+        <button
+          class="filters-clear"
+          type="button"
+          data-clear-filters
+        >
+          Limpar filtros
+        </button>
+      </div>
+
+      <p class="filters-active" data-active-filters>
+        Filtros ativos: Todos
+      </p>
+    </section>
+    
+
+      <section class="portfolio-summary-grid">
+        
+        <article class="portfolio-summary-card">
+          <span>Total de iniciativas</span>
+          <strong>12</strong>
+        </article>
+        
+
+        <article class="portfolio-summary-card">
+          <span>Em execução / Em andamento</span>
+          <strong>6</strong>
+        </article>
+        
+
+        <article class="portfolio-summary-card">
+          <span>Não iniciadas</span>
+          <strong>3</strong>
+        </article>
+        
+
+        <article class="portfolio-summary-card">
+          <span>Concluídas</span>
+          <strong>0</strong>
+        </article>
+        
+
+        <article class="portfolio-summary-card">
+          <span>Em alerta / críticas</span>
+          <strong>5</strong>
+        </article>
+        
+      </section>
+
+      <section class="portfolio-distribution-grid">
+        
+    <article class="distribution-card">
+      <h3>Iniciativas por Diretoria</h3>
+      <div class="distribution-list">
+        
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Presidência</span>
+                <strong>5</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:100%"></div>
+              </div>
+            </div>
+            
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Diretoria de Seguridade</span>
+                <strong>4</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:80%"></div>
+              </div>
+            </div>
+            
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Diretoria de Administração e Finanças</span>
+                <strong>2</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:40%"></div>
+              </div>
+            </div>
+            
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Diretoria de Tecnologia</span>
+                <strong>1</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:20%"></div>
+              </div>
+            </div>
+            
+      </div>
+    </article>
+    
+        
+    <article class="distribution-card">
+      <h3>Distribuição por Status</h3>
+      <div class="distribution-list">
+        
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Em execução</span>
+                <strong>6</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:100%"></div>
+              </div>
+            </div>
+            
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Em planejamento</span>
+                <strong>3</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:50%"></div>
+              </div>
+            </div>
+            
+            <div class="distribution-row">
+              <div class="distribution-label">
+                <span>Não iniciada</span>
+                <strong>3</strong>
+              </div>
+              <div class="distribution-bar">
+                <div style="width:50%"></div>
+              </div>
+            </div>
+            
+      </div>
+    </article>
+    
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h3>Ranking Completo</h3>
+        </div>
+
+        <div class="initiative-list">
+          
+    <div class="initiative-ranking">
+      <div class="initiative-rank-header">
+        <span>#</span>
+        <span>Código</span>
+        <span>Iniciativa</span>
+        <span>Quadrante</span>
+        <span>Status</span>
+        <span>Alerta</span>
+        <span>Prioridade</span>
+        <span>Execução</span>
+        <span>Prazo</span>
+        <span>Tend.</span>
+      </div>
+
+      
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Presidência"
+              data-status="Em execução"
+              data-quadrante="Projeto Estruturante"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                1
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-001
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Escritório de Governança do Pró-Gestão
+                </strong>
+                <span>
+                  Presidência
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--info">
+                Projeto Estruturante
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--info">
+                Em execução
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/12/2026
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Presidência"
+              data-status="Em execução"
+              data-quadrante="Ganho Rápido"
+              data-alerta="Alerta"
+            >
+              <span class="initiative-rank-position">
+                2
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-002
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Painel Executivo de Monitoramento Estratégico
+                </strong>
+                <span>
+                  Presidência
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--success">
+                Ganho Rápido
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--info">
+                Em execução
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--warning">
+                Alerta
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                30/09/2026
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Seguridade"
+              data-status="Em planejamento"
+              data-quadrante="Projeto Estruturante"
+              data-alerta="Alerta"
+            >
+              <span class="initiative-rank-position">
+                3
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-003
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Redesenho do Fluxo de Atendimento Digital
+                </strong>
+                <span>
+                  Diretoria de Seguridade
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--info">
+                Projeto Estruturante
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--muted">
+                Em planejamento
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--warning">
+                Alerta
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/03/2027
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Seguridade"
+              data-status="Em planejamento"
+              data-quadrante="Projeto Estruturante"
+              data-alerta="Crítico"
+            >
+              <span class="initiative-rank-position">
+                4
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-004
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Saneamento e Validação da Base Cadastral Previdenciária
+                </strong>
+                <span>
+                  Diretoria de Seguridade
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--info">
+                Projeto Estruturante
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--muted">
+                Em planejamento
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--danger">
+                Crítico
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/12/2027
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Administração e Finanças"
+              data-status="Em execução"
+              data-quadrante="Ganho Rápido"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                5
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-005
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Programa de Mapeamento de Processos Críticos
+                </strong>
+                <span>
+                  Diretoria de Administração e Finanças
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--success">
+                Ganho Rápido
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--info">
+                Em execução
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/12/2026
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Seguridade"
+              data-status="Não iniciada"
+              data-quadrante="Projeto Estruturante"
+              data-alerta="Alerta"
+            >
+              <span class="initiative-rank-position">
+                6
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-006
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Automação de Rotinas de Concessão e Revisão de Benefícios
+                </strong>
+                <span>
+                  Diretoria de Seguridade
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--info">
+                Projeto Estruturante
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--muted">
+                Não iniciada
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--warning">
+                Alerta
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                30/06/2028
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Presidência"
+              data-status="Em execução"
+              data-quadrante="Projeto Estruturante"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                7
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-007
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Política Integrada de Gestão de Riscos e Controles Internos
+                </strong>
+                <span>
+                  Presidência
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--info">
+                Projeto Estruturante
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--info">
+                Em execução
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                30/11/2026
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Administração e Finanças"
+              data-status="Não iniciada"
+              data-quadrante="Execução Oportunística"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                8
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-008
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Portal de Transparência Previdenciária 2.0
+                </strong>
+                <span>
+                  Diretoria de Administração e Finanças
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--muted">
+                Execução Oportunística
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--muted">
+                Não iniciada
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/03/2027
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Presidência"
+              data-status="Em execução"
+              data-quadrante="Ganho Rápido"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                9
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-009
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Programa de Educação Previdenciária para Segurados e Gestores
+                </strong>
+                <span>
+                  Presidência
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--success">
+                Ganho Rápido
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--info">
+                Em execução
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/12/2026
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Tecnologia"
+              data-status="Não iniciada"
+              data-quadrante="Projeto Estruturante"
+              data-alerta="Crítico"
+            >
+              <span class="initiative-rank-position">
+                10
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-010
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Modernização da Infraestrutura Analítica Previdenciária
+                </strong>
+                <span>
+                  Diretoria de Tecnologia
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--info">
+                Projeto Estruturante
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--muted">
+                Não iniciada
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--danger">
+                Crítico
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/12/2028
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Diretoria de Seguridade"
+              data-status="Em execução"
+              data-quadrante="Execução Oportunística"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                11
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-011
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Pesquisa de Satisfação dos Segurados
+                </strong>
+                <span>
+                  Diretoria de Seguridade
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--muted">
+                Execução Oportunística
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--info">
+                Em execução
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/12/2026
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+            <article
+              class="initiative-item initiative-rank-row"
+              data-diretoria="Presidência"
+              data-status="Em planejamento"
+              data-quadrante="Reavaliação Estratégica"
+              data-alerta="Sem informação"
+            >
+              <span class="initiative-rank-position">
+                12
+              </span>
+
+              <span class="initiative-rank-code">
+                INI-012
+              </span>
+
+              <div class="initiative-rank-name">
+                <strong>
+                  Plano de Desenvolvimento de Competências Estratégicas
+                </strong>
+                <span>
+                  Presidência
+                </span>
+              </div>
+
+              <span class="rank-badge initiative-rank-quadrant rank-badge--warning">
+                Reavaliação Estratégica
+              </span>
+
+              <span class="rank-badge initiative-rank-status rank-badge--muted">
+                Em planejamento
+              </span>
+
+              <span class="rank-badge initiative-rank-alert rank-badge--muted">
+                Sem informação
+              </span>
+
+              <strong class="initiative-rank-priority">
+                n/d
+              </strong>
+
+              <div class="initiative-rank-progress">
+                <span>0%</span>
+                <div class="rank-progress-bar">
+                  <div
+                    class="rank-progress-fill"
+                    style="width:0%"
+                  ></div>
+                </div>
+              </div>
+
+              <span class="initiative-rank-deadline">
+                31/05/2027
+              </span>
+
+              <span class="initiative-rank-trend">
+                
+              </span>
+            </article>
+            
+    </div>
+    
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
