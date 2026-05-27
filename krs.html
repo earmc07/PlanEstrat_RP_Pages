@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-BR">
 
 <head>
@@ -8,7 +8,7 @@
     content="width=device-width, initial-scale=1.0"
   >
 
-  <title>Planejamento Estratégico RP</title>
+  <title>Planejamento EstratÃ©gico RP</title>
 
   <link
     rel="stylesheet"
@@ -26,14 +26,14 @@
         <div class="brand-mark"></div>
 
         <div>
-          <h1>Planejamento Estratégico</h1>
-          <p>Rioprevidência</p>
+          <h1>Planejamento EstratÃ©gico</h1>
+          <p>RioprevidÃªncia</p>
         </div>
       </div>
 
       <nav class="menu">
-        <a class="menu-item " href="index.html">Visão Geral</a>
-        <a class="menu-item " href="objetivos.html">Objetivos Estratégicos</a>
+        <a class="menu-item " href="index.html">VisÃ£o Geral</a>
+        <a class="menu-item " href="objetivos.html">Objetivos EstratÃ©gicos</a>
         <a class="menu-item active" href="krs.html">KRs</a>
         <a class="menu-item " href="metas-gerenciais.html">Metas Gerenciais</a>
         <a class="menu-item " href="iniciativas.html">Iniciativas</a>
@@ -47,16 +47,550 @@
       <header class="topbar">
         <div>
           <h2>Resultados-Chave</h2>
-          <p>Acompanhamento executivo de KRs, metas e confiança.</p>
+          <p>Acompanhamento executivo de KRs, metas e confianÃ§a.</p>
         </div>
       </header>
+
+
+    <section class="filters-panel compact" aria-label="Filtros globais">
+      <div class="filters-grid">
+
+            <label class="filter-field">
+              <span>Diretoria</span>
+              <select data-filter="diretoria">
+                <option value="">Todos</option>
+<option value="Diretoria de AdministraÃ§Ã£o e FinanÃ§as">Diretoria de AdministraÃ§Ã£o e FinanÃ§as</option>
+<option value="Diretoria de Seguridade">Diretoria de Seguridade</option>
+<option value="Diretoria de Tecnologia">Diretoria de Tecnologia</option>
+<option value="PresidÃªncia">PresidÃªncia</option>
+              </select>
+            </label>
+
+            <label class="filter-field">
+              <span>Ãrea ResponsÃ¡vel</span>
+              <select data-filter="area">
+                <option value="">Todos</option>
+<option value="Assessoria de ComunicaÃ§Ã£o e TransparÃªncia">Assessoria de ComunicaÃ§Ã£o e TransparÃªncia</option>
+<option value="Assessoria de ModernizaÃ§Ã£o e GestÃ£o por Resultados">Assessoria de ModernizaÃ§Ã£o e GestÃ£o por Resultados</option>
+<option value="Escola PrevidenciÃ¡ria / ComunicaÃ§Ã£o">Escola PrevidenciÃ¡ria / ComunicaÃ§Ã£o</option>
+<option value="GerÃªncia de Atendimento">GerÃªncia de Atendimento</option>
+<option value="GerÃªncia de BenefÃ­cios">GerÃªncia de BenefÃ­cios</option>
+<option value="GerÃªncia de Cadastro">GerÃªncia de Cadastro</option>
+<option value="GerÃªncia de Controle Interno e Auditoria">GerÃªncia de Controle Interno e Auditoria</option>
+<option value="GerÃªncia de Processos">GerÃªncia de Processos</option>
+<option value="GerÃªncia de Tecnologia da InformaÃ§Ã£o">GerÃªncia de Tecnologia da InformaÃ§Ã£o</option>
+<option value="GestÃ£o de Pessoas">GestÃ£o de Pessoas</option>
+<option value="Ouvidoria e Escola PrevidenciÃ¡ria">Ouvidoria e Escola PrevidenciÃ¡ria</option>
+              </select>
+            </label>
+
+            <label class="filter-field">
+              <span>Perspectiva</span>
+              <select data-filter="perspectiva">
+                <option value="">Todos</option>
+<option value="Pessoas, Tecnologia e Capacidades">Pessoas, Tecnologia e Capacidades</option>
+<option value="Processos Internos">Processos Internos</option>
+<option value="Resultados Institucionais">Resultados Institucionais</option>
+<option value="Segurados e BeneficiÃ¡rios">Segurados e BeneficiÃ¡rios</option>
+              </select>
+            </label>
+
+            <label class="filter-field">
+              <span>Status</span>
+              <select data-filter="status">
+                <option value="">Todos</option>
+<option value="Em execuÃ§Ã£o">Em execuÃ§Ã£o</option>
+<option value="Em planejamento">Em planejamento</option>
+<option value="NÃ£o iniciada">NÃ£o iniciada</option>
+              </select>
+            </label>
+
+            <label class="filter-field">
+              <span>Quadrante</span>
+              <select data-filter="quadrante">
+                <option value="">Todos</option>
+<option value="ExecuÃ§Ã£o OportunÃ­stica">ExecuÃ§Ã£o OportunÃ­stica</option>
+<option value="Ganho RÃ¡pido">Ganho RÃ¡pido</option>
+<option value="Projeto Estruturante">Projeto Estruturante</option>
+<option value="ReavaliaÃ§Ã£o EstratÃ©gica">ReavaliaÃ§Ã£o EstratÃ©gica</option>
+              </select>
+            </label>
+
+            <label class="filter-field">
+              <span>Alerta</span>
+              <select data-filter="alerta">
+                <option value="">Todos</option>
+<option value="Alerta">Alerta</option>
+<option value="CrÃ­tico">CrÃ­tico</option>
+              </select>
+            </label>
+
+
+        <button
+          class="filters-clear"
+          type="button"
+          data-clear-filters
+        >
+          Limpar filtros
+        </button>
+      </div>
+
+      <p class="filters-active" data-active-filters>
+        Filtros ativos: Todos
+      </p>
+    </section>
+
+
+
+    <section class="panel kr-analytics-panel">
+      <div class="kr-analytics-top">
+
+    <label class="kr-selector">
+      <span>KR</span>
+      <select data-kr-selector>
+
+            <option value="KR-1.2.1" selected>
+              KR-1.2.1 - AlcanÃ§ar o nÃ­vel de maturidade IV no PrÃ³-GestÃ£o RPPS atÃ© 2031.
+            </option>
+
+            <option value="KR-2.1.1">
+              KR-2.1.1 - Ter nota mÃ©dia acima ou igual a 8 no Ãndice de SatisfaÃ§Ã£o dos Segurados com o Atendimento.
+            </option>
+
+      </select>
+    </label>
+
+      </div>
+
+            <section
+              class="kr-detail-panel is-active"
+              data-kr-panel="KR-1.2.1"
+              data-area=""
+            >
+              <div class="kr-detail-summary">
+                <div class="kr-mini-gauge" style="--gauge-deg:0.0deg;">
+                  <div class="kr-mini-gauge-meter"></div>
+                  <strong>n/d</strong>
+                  <span>Atingimento atual</span>
+                </div>
+
+                <div class="kr-detail-facts">
+                  <div>
+                    <span>Status/confianÃ§a</span>
+                    <strong>A definir</strong>
+                    <small>Sem informaÃ§Ã£o</small>
+                  </div>
+                  <div>
+                    <span>Ãšltimo ciclo disponÃ­vel</span>
+                    <strong>2027-T4 Â· 2027</strong>
+                    <small></small>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel-header kr-chart-header">
+                <h3>EvoluÃ§Ã£o do atingimento do KR</h3>
+              </div>
+              <div class="empty-state">HistÃ³rico insuficiente para o grÃ¡fico.</div>
+
+    <div class="table-wrap kr-history-table-wrap">
+      <table class="executive-table kr-history-table">
+        <thead>
+          <tr>
+            <th>Ciclo</th>
+            <th>Percentual</th>
+            <th>Status</th>
+            <th>ConfianÃ§a</th>
+            <th>Alerta</th>
+          </tr>
+        </thead>
+        <tbody>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B1 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B2 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B3 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B4 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B5 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B6 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T1 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T2 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T3 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T4 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+        </tbody>
+      </table>
+    </div>
+
+            </section>
+
+            <section
+              class="kr-detail-panel"
+              data-kr-panel="KR-2.1.1"
+              data-area=""
+            >
+              <div class="kr-detail-summary">
+                <div class="kr-mini-gauge" style="--gauge-deg:0.0deg;">
+                  <div class="kr-mini-gauge-meter"></div>
+                  <strong>n/d</strong>
+                  <span>Atingimento atual</span>
+                </div>
+
+                <div class="kr-detail-facts">
+                  <div>
+                    <span>Status/confianÃ§a</span>
+                    <strong>A definir</strong>
+                    <small>Sem informaÃ§Ã£o</small>
+                  </div>
+                  <div>
+                    <span>Ãšltimo ciclo disponÃ­vel</span>
+                    <strong>2027-T4 Â· 2027</strong>
+                    <small></small>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel-header kr-chart-header">
+                <h3>EvoluÃ§Ã£o do atingimento do KR</h3>
+              </div>
+              <div class="empty-state">HistÃ³rico insuficiente para o grÃ¡fico.</div>
+
+    <div class="table-wrap kr-history-table-wrap">
+      <table class="executive-table kr-history-table">
+        <thead>
+          <tr>
+            <th>Ciclo</th>
+            <th>Percentual</th>
+            <th>Status</th>
+            <th>ConfianÃ§a</th>
+            <th>Alerta</th>
+          </tr>
+        </thead>
+        <tbody>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B1 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B2 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B3 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B4 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B5 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2026-B6 Â· 2026</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T1 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T2 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T3 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+            <tr class="kr-history-row" data-area="">
+              <td>2027-T4 Â· 2027</td>
+              <td>n/d</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  A definir
+                </span>
+              </td>
+              <td>Sem informaÃ§Ã£o</td>
+              <td>
+                <span class="rank-badge rank-badge--muted">
+                  Sem informaÃ§Ã£o
+                </span>
+              </td>
+            </tr>
+
+        </tbody>
+      </table>
+    </div>
+
+            </section>
+
+    </section>
+
 
       <section class="panel">
         <div class="panel-header">
           <h3>Tabela Executiva de KRs</h3>
         </div>
 
-        
+
     <div class="table-wrap">
       <table class="executive-table">
         <thead>
@@ -64,30 +598,36 @@
             <th>KR</th>
             <th>Objetivo associado</th>
             <th>Meta</th>
-            <th>Execução</th>
+            <th>ExecuÃ§Ã£o</th>
             <th>Status</th>
-            <th>Confiança</th>
+            <th>ConfianÃ§a</th>
             <th>Metas gerenciais</th>
           </tr>
         </thead>
         <tbody>
-          
-            <tr>
-              <td>Alcançar o nível de maturidade IV no Pró-Gestão RPPS até 2031.</td>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
+              <td>AlcanÃ§ar o nÃ­vel de maturidade IV no PrÃ³-GestÃ£o RPPS atÃ© 2031.</td>
               <td>OE-1.2</td>
-              <td>GT instituído</td>
+              <td>GT instituÃ­do</td>
               <td>100</td>
               <td>
                 <span class="rank-badge rank-badge--info">
                   No prazo
                 </span>
               </td>
-              <td>Satisfatório</td>
+              <td>SatisfatÃ³rio</td>
               <td>1</td>
             </tr>
-            
-            <tr>
-              <td>Alcançar o nível de maturidade IV no Pró-Gestão RPPS até 2031.</td>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
+              <td>AlcanÃ§ar o nÃ­vel de maturidade IV no PrÃ³-GestÃ£o RPPS atÃ© 2031.</td>
               <td>OE-1.2</td>
               <td>Matriz preliminar</td>
               <td>80</td>
@@ -96,25 +636,31 @@
                   No prazo
                 </span>
               </td>
-              <td>Satisfatório</td>
+              <td>SatisfatÃ³rio</td>
               <td>1</td>
             </tr>
-            
-            <tr>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
               <td>KR-3.4.1</td>
               <td>OE-3.4</td>
               <td>Modelo de dados definido</td>
               <td>50</td>
               <td>
                 <span class="rank-badge rank-badge--info">
-                  Atenção
+                  AtenÃ§Ã£o
                 </span>
               </td>
               <td>Alerta</td>
               <td>2</td>
             </tr>
-            
-            <tr>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
               <td>KR-3.4.1</td>
               <td>OE-3.4</td>
               <td>Base integrada inicial</td>
@@ -124,40 +670,49 @@
                   No prazo
                 </span>
               </td>
-              <td>Satisfatório</td>
+              <td>SatisfatÃ³rio</td>
               <td>2</td>
             </tr>
-            
-            <tr>
-              <td>Ter nota média acima ou igual a 8 no Índice de Satisfação dos Segurados com o Atendimento.</td>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
+              <td>Ter nota mÃ©dia acima ou igual a 8 no Ãndice de SatisfaÃ§Ã£o dos Segurados com o Atendimento.</td>
               <td>OE-2.1</td>
-              <td>Diagnóstico iniciado</td>
+              <td>DiagnÃ³stico iniciado</td>
               <td>45</td>
               <td>
                 <span class="rank-badge rank-badge--info">
-                  Atenção
+                  AtenÃ§Ã£o
                 </span>
               </td>
               <td>Alerta</td>
               <td>2</td>
             </tr>
-            
-            <tr>
-              <td>Ter 100% dos processos internos críticos mapeados e documentados.</td>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
+              <td>Ter 100% dos processos internos crÃ­ticos mapeados e documentados.</td>
               <td>OE-3.1</td>
-              <td>Processos críticos selecionados</td>
+              <td>Processos crÃ­ticos selecionados</td>
               <td>75</td>
               <td>
                 <span class="rank-badge rank-badge--info">
                   No prazo
                 </span>
               </td>
-              <td>Satisfatório</td>
+              <td>SatisfatÃ³rio</td>
               <td>1</td>
             </tr>
-            
-            <tr>
-              <td>Ter 100% dos processos internos críticos com planos de contingência e preventivos implementados.</td>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
+              <td>Ter 100% dos processos internos crÃ­ticos com planos de contingÃªncia e preventivos implementados.</td>
               <td>OE-3.2</td>
               <td>Matriz preliminar de riscos</td>
               <td>75</td>
@@ -166,28 +721,31 @@
                   No prazo
                 </span>
               </td>
-              <td>Satisfatório</td>
+              <td>SatisfatÃ³rio</td>
               <td>3</td>
             </tr>
-            
-            <tr>
+
+            <tr
+              class="kr-row"
+              data-area=""
+            >
               <td>KR-4.3.1</td>
               <td>OE-4.3</td>
-              <td>Diagnóstico não iniciado</td>
+              <td>DiagnÃ³stico nÃ£o iniciado</td>
               <td>0</td>
               <td>
                 <span class="rank-badge rank-badge--info">
-                  Crítico
+                  CrÃ­tico
                 </span>
               </td>
-              <td>Crítico</td>
+              <td>CrÃ­tico</td>
               <td>1</td>
             </tr>
-            
+
         </tbody>
       </table>
     </div>
-    
+
       </section>
 
     </main>

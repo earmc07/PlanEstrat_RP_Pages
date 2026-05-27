@@ -52,7 +52,7 @@ const applyGlobalFilters = () => {
   const selects = document.querySelectorAll("[data-filter]");
   const activeText = document.querySelector("[data-active-filters]");
   const filterableElements = document.querySelectorAll(
-    ".objective-card, .objective-perspective-group, .initiative-item, .management-goal-row, .quadrant-bubble, .status-card"
+    ".objective-card, .objective-perspective-group, .initiative-item, .management-goal-row, .quadrant-bubble, .status-card, .kr-row, .kr-detail-panel, .kr-history-row"
   );
   const filters = getActiveFilters(selects);
 
@@ -93,3 +93,25 @@ const setupGlobalFilters = () => {
 };
 
 document.addEventListener("DOMContentLoaded", setupGlobalFilters);
+
+const setupKrSelector = () => {
+  const selector = document.querySelector("[data-kr-selector]");
+  const panels = document.querySelectorAll("[data-kr-panel]");
+
+  if (!selector || !panels.length) {
+    return;
+  }
+
+  const updateSelectedKr = () => {
+    panels.forEach((panel) => {
+      panel.classList.toggle("is-active", panel.dataset.krPanel === selector.value);
+    });
+
+    applyGlobalFilters();
+  };
+
+  selector.addEventListener("change", updateSelectedKr);
+  updateSelectedKr();
+};
+
+document.addEventListener("DOMContentLoaded", setupKrSelector);
