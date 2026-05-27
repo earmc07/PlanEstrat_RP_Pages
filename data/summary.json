@@ -1,14 +1,15 @@
 {
   "project_name": "Planejamento Estratégico RP",
-  "build_datetime": "2026-05-24T15:35:55",
-  "build_datetime_display": "24/05/2026 - 15:35",
+  "build_datetime": "2026-05-27T13:21:21",
+  "build_datetime_display": "27/05/2026 - 13:21",
   "source": "data\\raw\\painel_estrategico.xlsx",
   "sheets_found": [
     "00_Orientacoes",
     "01_dim_objetivos",
     "02_dim_okrs",
     "03_dim_iniciativas",
-    "04_fato_metas_okr",
+    "0401_fato_metas_okr",
+    "0402_fatos_metas_gerenciais",
     "05_fato_etapas",
     "06_fato_ciclos",
     "07_fato_riscos",
@@ -19,5 +20,5 @@
     "12_quadrantes",
     "13_parametros"
   ],
-  "total_sheets": 14
+  "total_sheets": 15
 }
