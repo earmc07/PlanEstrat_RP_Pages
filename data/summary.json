@@ -1,7 +1,7 @@
 {
   "project_name": "Planejamento Estratégico RP",
-  "build_datetime": "2026-08-05T02:49:27+00:00",
-  "build_datetime_display": "05/08/2026 - 02:49",
+  "build_datetime": "2026-08-05T00:13:12-03:00",
+  "build_datetime_display": "05/08/2026 - 00:13",
   "source": "data\\raw\\painel_estrategico.xlsx",
   "sheets_found": [
     "00_Orientacoes",
