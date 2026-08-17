@@ -365,8 +365,8 @@ h1, h2, h3, h4, h5, h6,
   font-size: 30px;
 }
 
-/* ---- Saude estrategica — Etapa 6/7 -------------------------- */
-.saude-estrategica-grid {
+/* ---- Panorama dos resultados — Etapa 6/7 -------------------------- */
+.panorama-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6,
   font-size: 13px;
 }
 
-.saude-estrategica-evolucao h3 {
+.panorama-evolucao h3 {
   margin: 0 0 10px;
   font-size: 14px;
 }
@@ -1065,7 +1065,7 @@ h1, h2, h3, h4, h5, h6,
   .kpi-grid,
   .overview-kpis,
   .objective-page-list,
-  .saude-estrategica-grid {
+  .panorama-grid {
     grid-template-columns: 1fr;
   }
 
