@@ -1,0 +1,32 @@
+[
+  {
+    "sigla": "DAF",
+    "nome": "Diretoria de Administração e Finanças",
+    "tipo": "Diretoria",
+    "ativo": true
+  },
+  {
+    "sigla": "DIN",
+    "nome": "Diretoria de Investimentos",
+    "tipo": "Diretoria",
+    "ativo": true
+  },
+  {
+    "sigla": "DJU",
+    "nome": "Diretoria Jurídica",
+    "tipo": "Diretoria",
+    "ativo": true
+  },
+  {
+    "sigla": "DSE",
+    "nome": "Diretoria de Seguridade",
+    "tipo": "Diretoria",
+    "ativo": true
+  },
+  {
+    "sigla": "PRE",
+    "nome": "Presidência",
+    "tipo": "Presidência",
+    "ativo": true
+  }
+]

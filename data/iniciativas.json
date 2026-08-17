@@ -1,0 +1,5547 @@
+[
+  {
+    "id": "IN-DSE-27",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-07",
+    "diretoria": "DSE",
+    "nome": "Aumento de 80 processos analisados/mês para 100 processos analisados/mês após a realização do acordo com o TCE",
+    "descricao": "Aumento de 25% na capacidade de entrega do setor",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 0.0,
+    "indice_prioridade": 100.0,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-33",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-05",
+    "diretoria": "DSE",
+    "nome": "Programa de Recenseamento dos Beneficiários de Pensão e Aposentadoria. Publicação dos instrumentos normativos.",
+    "descricao": "Instrumentos publicados",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 100.0,
+    "esforco": 0.0,
+    "indice_prioridade": 100.0,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-19",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-09",
+    "diretoria": "PRE",
+    "nome": "Elaboração da Carta de serviços",
+    "descricao": "Atualizar anualmente a Carta de Serviços",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 0.0,
+    "indice_prioridade": 100.0,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-63",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-28",
+    "diretoria": "DAF",
+    "nome": "Manual de Contribuição Previdenciária",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-20",
+    "valor_publico": 100.0,
+    "esforco": 11.0,
+    "indice_prioridade": 96.7,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-76",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-29",
+    "diretoria": "DAF",
+    "nome": "Implantação de rotina de planejamento antecipado das contratações e renovações contratuais",
+    "descricao": "Implantação de rotina de monitoramento dos contratos vigentes e do cronograma de contratações, com definição de marcos de planejamento e alertas para início tempestivo dos processos de contratação e renovação.",
+    "inicio_previsto": "2026-10-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 17.0,
+    "indice_prioridade": 94.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-01",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-01",
+    "id_kr_gerencial": "KR-DSE-01",
+    "diretoria": "DSE",
+    "nome": "Gestão e monitoramento do Plano de Trabalho Atuarial",
+    "descricao": "Plano de Trabalho Atuarial monitorado, com cronograma, responsáveis, evidências e acompanhamento periódico das etapas.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 100.0,
+    "esforco": 17.0,
+    "indice_prioridade": 94.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-35",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-05",
+    "diretoria": "DSE",
+    "nome": "Programa de Recenseamento dos Beneficiários de Pensão e Aposentadoria. Suporte aos canais de atendimento.",
+    "descricao": "Suporte contínuo aos canais de atendimento",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 100.0,
+    "esforco": 17.0,
+    "indice_prioridade": 94.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-10",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-02",
+    "diretoria": "DIN",
+    "nome": "Programa de Imunidade Tributária da Carteira Imobiliária",
+    "descricao": "100% dos imóveis com RGI regular protocolados junto às prefeituras para reconhecimento de imunidade tributária.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 100.0,
+    "esforco": 23.0,
+    "indice_prioridade": 93.1,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-08",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-04",
+    "diretoria": "DSE",
+    "nome": "Programa de Busca Ativa dos servidores com irregularidade previdenciária quando no período de LSV.",
+    "descricao": "Criar processos de cobrança de LSV, através dos relatórios do SIGRH",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-07-31",
+    "valor_publico": 100.0,
+    "esforco": 23.0,
+    "indice_prioridade": 93.1,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-20",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Implantação do Programa de Padronização da Formalização das Contratações",
+    "descricao": "Implantação do Programa de Padronização da Formalização das Contratações por meio da elaboração e disponibilização de guias rápidos, fluxogramas, checklists e demais instrumentos orientativos destinados à padronização da forma de instrução dos processos de contratação.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 100.0,
+    "esforco": 29.0,
+    "indice_prioridade": 91.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-57",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Preparação da documentação dos servidores para aposentadoria em 30 dias",
+    "descricao": "Instruir os processos de aposentadoria em até 30 dias.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": null,
+    "valor_publico": 100.0,
+    "esforco": 29.0,
+    "indice_prioridade": 91.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-08",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-09",
+    "diretoria": "DIN",
+    "nome": "Conciliação e Saneamento Contábil da Carteira Imobiliária",
+    "descricao": "Planilha de conciliação validada e rotina mensal de paridade implantada entre GERPI e GERCO.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 100.0,
+    "esforco": 29.0,
+    "indice_prioridade": 91.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-17",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-06",
+    "diretoria": "DIN",
+    "nome": "Edital de Credenciamento de Avaliadores de Imóveis",
+    "descricao": "Edital de credenciamento de avaliadores de imóveis revisado, aprovado e publicado no Diário Oficial.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-03-31",
+    "valor_publico": 100.0,
+    "esforco": 29.0,
+    "indice_prioridade": 91.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-08",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-26",
+    "id_kr_gerencial": "KR-PRE-19",
+    "diretoria": "PRE",
+    "nome": "Regulamentação da Prestação de Contas Contratual",
+    "descricao": "Normativo interno editado e publicado, disciplinando a forma de prestação de contas da gestão e da fiscalização contratual no âmbito do Rioprevidência.",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2026-07-31",
+    "valor_publico": 100.0,
+    "esforco": 29.0,
+    "indice_prioridade": 91.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-60",
+    "id_oe": "OE 3.4",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-36",
+    "diretoria": "DAF",
+    "nome": "Revisão de manuais normativos da área",
+    "descricao": "Atualização e entrega bimestral",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2026-12-30",
+    "valor_publico": 100.0,
+    "esforco": 34.0,
+    "indice_prioridade": 89.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-34",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-05",
+    "diretoria": "DSE",
+    "nome": "Programa de Recenseamento dos Beneficiários de Pensão e Aposentadoria. Validação da ferramenta digital da prova de vida.",
+    "descricao": "Ferramentas validadas",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 100.0,
+    "esforco": 43.0,
+    "indice_prioridade": 87.1,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-02",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-04",
+    "diretoria": "DIN",
+    "nome": "Atualização da portaria de Credenciamento",
+    "descricao": "Portaria revisada e publicada com atualização do modelo de credenciamento",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 85.0,
+    "esforco": 11.0,
+    "indice_prioridade": 86.2,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-06",
+    "id_oe": "OE 1.4",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-04",
+    "diretoria": "DSE",
+    "nome": "Programa de sensibilização e capacitação dos RHs dos órgãos quanto à regularização previdenciária dos servidores em LSV.",
+    "descricao": "Reuniões com os RHs dos orgãos para alinharmos os processos de LSV e disseminarmos a importância da regularização previdenciária para o servidor",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-07-31",
+    "valor_publico": 90.0,
+    "esforco": 23.0,
+    "indice_prioridade": 86.1,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-75",
+    "id_oe": "OE 4.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-26",
+    "id_kr_gerencial": "KR-DAF-39",
+    "diretoria": "DAF",
+    "nome": "Capacitação de 100% da equipe responsável em temas relacionados à Contratação, Gestão e Fiscalização dos Contratos",
+    "descricao": "Capacitação da equipe da GERTIC por meio da conclusão de cursos, treinamentos e certificações relacionados à contratação pública, gestão contratual e fiscalização de contratos, com emissão de certificados de conclusão.",
+    "inicio_previsto": "2026-10-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 85.0,
+    "esforco": 17.0,
+    "indice_prioridade": 84.4,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-11",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-13",
+    "diretoria": "PRE",
+    "nome": "Mapeamento e Redesenho dos Processos Críticos de Governança",
+    "descricao": "Inventário e cadeia de processos críticos de Governança mapeada em notação BPMN, redesenhada e documentada em Manual de Processos publicado no SharePoint/SEI, com controles internos definidos por processo.",
+    "inicio_previsto": "2026-05-01",
+    "termino_previsto": "2027-03-31",
+    "valor_publico": 85.0,
+    "esforco": 17.0,
+    "indice_prioridade": 84.4,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-01",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-27",
+    "id_kr_gerencial": null,
+    "diretoria": "DIN",
+    "nome": "Regularização dos Demonstrativos DAIR/DPIN",
+    "descricao": "DAIR/DPIN 100% atualizado e validado pela SPREV.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-10-31",
+    "valor_publico": 100.0,
+    "esforco": 57.0,
+    "indice_prioridade": 82.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-09",
+    "id_oe": "OE 1.3",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-13",
+    "id_kr_gerencial": null,
+    "diretoria": "DIN",
+    "nome": "Regularização Registral dos Imóveis da Carteira no RGI",
+    "descricao": "Imóveis com matrícula regularizada em nome do Rioprevidência, com processos de regularização mapeados e priorizados.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 57.0,
+    "indice_prioridade": 82.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-16",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-05",
+    "id_kr_gerencial": "KR-DIN-01",
+    "diretoria": "DIN",
+    "nome": "Avaliação Patrimonial da Carteira Imobiliária",
+    "descricao": "Laudos de avaliação patrimonial homologados para 100% dos imóveis da carteira até 2028.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2030-12-31",
+    "valor_publico": 100.0,
+    "esforco": 57.0,
+    "indice_prioridade": 82.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-74",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-31",
+    "diretoria": "DAF",
+    "nome": "Otimização do processo de instrução e encaminhamento de processos de pagamento da GERTIC",
+    "descricao": "Implantação e padronização de procedimentos de controle, acompanhamento e instrução dos processos de pagamento, incluindo monitoramento de prazos e fluxo interno de tramitação.",
+    "inicio_previsto": "2026-10-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 75.0,
+    "esforco": 0.0,
+    "indice_prioridade": 82.5,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-14",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-08",
+    "diretoria": "DIN",
+    "nome": "Atualização dos Manuais de Procedimentos de Gestão Imobiliária",
+    "descricao": "Manuais de procedimentos de locação, cobrança, regularização e alienação revisados, aprovados e disponibilizados.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 75.0,
+    "esforco": 0.0,
+    "indice_prioridade": 82.5,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-15",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-08",
+    "diretoria": "DSE",
+    "nome": "Ações de conscientização com os RHs envolvidos nos processos de concessão de aposentadoria",
+    "descricao": "Ações junto aos Rhs de normatização dos processos de concessão de aposentadorias",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 90.0,
+    "esforco": 40.0,
+    "indice_prioridade": 81.0,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-19",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-09",
+    "diretoria": "DSE",
+    "nome": "Ações de conscientização com os RHs envolvidos nos processos de homologação de CTC",
+    "descricao": "Ações junto aos Rhs de normatização dos processos de homolagação de CTCs",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 90.0,
+    "esforco": 40.0,
+    "indice_prioridade": 81.0,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-51",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-26",
+    "diretoria": "DAF",
+    "nome": "Elaboração e divulgação mensal do relatório de atividades da Coordenadoria de Prestação de Contas - COOPRE",
+    "descricao": "Relatórios gerenciais mensais compilando o status de atendimento de processos de prestação de contas executados pela COOPRE.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 85.0,
+    "esforco": 29.0,
+    "indice_prioridade": 80.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-72",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-01",
+    "diretoria": "DAF",
+    "nome": "Programa de Identificação Integral das Receitas do exercício corrente",
+    "descricao": "Implantação de rotina padronizada de identificação, classificação e monitoramento das receitas",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-01",
+    "valor_publico": 85.0,
+    "esforco": 29.0,
+    "indice_prioridade": 80.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-73",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-02",
+    "diretoria": "DAF",
+    "nome": "Projeto de Conciliação Financeira do exercício corrente",
+    "descricao": "Procedimento padronizado para controle das conciliações financeiras.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-01",
+    "valor_publico": 85.0,
+    "esforco": 29.0,
+    "indice_prioridade": 80.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-18",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-10",
+    "diretoria": "DIN",
+    "nome": "Contratação de Serviço de Ronda Motorizada da Carteira Imobiliária",
+    "descricao": "Contrato de prestação de serviço de ronda motorizada vigente, com cronograma de visitas, roteiro definido por imóvel e relatórios mensais de ocorrências entregues à COOGI.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-06-30",
+    "valor_publico": 85.0,
+    "esforco": 29.0,
+    "indice_prioridade": 80.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-13",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-09",
+    "id_kr_gerencial": null,
+    "diretoria": "PRE",
+    "nome": "Mapeamento e Registro das Operações de Tratamento de Dados (ROPA)",
+    "descricao": "Inventário completo das operações de tratamento (ROPA), estimado em 100 operações, com finalidade, base legal, categorias de dados, ciclo de vida, responsáveis e medidas de segurança, publicado no SharePoint e mantido atualizado pelo DPO.",
+    "inicio_previsto": "2026-05-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 85.0,
+    "esforco": 29.0,
+    "indice_prioridade": 80.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-04",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-19",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Publicização de dashboard da execução orçamentária",
+    "descricao": "Disponibilização de um dashboard no site do Rioprevidência, atualizado mensalmente.",
+    "inicio_previsto": "2026-07-13",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 90.0,
+    "esforco": 46.0,
+    "indice_prioridade": 79.2,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-05",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-20",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Publicização de dashboard de execução da folha de inativos e pensionistas",
+    "descricao": "Disponibilização de um dashboard no site do Rioprevidência, atualizado mensalmente.",
+    "inicio_previsto": "2026-08-07",
+    "termino_previsto": "2027-08-02",
+    "valor_publico": 90.0,
+    "esforco": 46.0,
+    "indice_prioridade": 79.2,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-04",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-08",
+    "id_kr_gerencial": null,
+    "diretoria": "DIN",
+    "nome": "Transparência da Gestão de Investimentos",
+    "descricao": "Relatórios e demonstrativos publicados conforme calendário regulatório.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 71.0,
+    "indice_prioridade": 78.7,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-09",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-26",
+    "id_kr_gerencial": "KR-PRE-20",
+    "diretoria": "PRE",
+    "nome": "Implantação da Nota Técnica Anual de Avaliação Contratual",
+    "descricao": "Processo anual formalizado de manifestação técnica do controle interno sobre a atuação dos gestores e fiscais de contratos, com escopo, metodologia e critérios de análise definidos, nota técnica emitida ao final de cada exercício e seção específica incorporada à Prestação de Contas Anual de Gestão.",
+    "inicio_previsto": "2026-10-01",
+    "termino_previsto": "2027-04-30",
+    "valor_publico": 100.0,
+    "esforco": 71.0,
+    "indice_prioridade": 78.7,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-10",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-08",
+    "diretoria": "PRE",
+    "nome": "Plano de Conformidade ao Ranking de Transparência da CGE-RJ",
+    "descricao": "Checklist completo dos critérios da CGE-RJ com gap analysis, plano de correção item a item com responsáveis e prazos, e processo formal de atualização contínua do Portal de Transparência.",
+    "inicio_previsto": "2026-05-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 100.0,
+    "esforco": 71.0,
+    "indice_prioridade": 78.7,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-20",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-14",
+    "id_kr_gerencial": null,
+    "diretoria": "PRE",
+    "nome": "Escritório de Governança do Pró-Gestão Nível IV",
+    "descricao": "Estrutura de governança do Pró-Gestão com matriz de responsabilidades por desdobramento, calendário de validação, sistema de acompanhamento (SharePoint/Power BI) e reuniões mensais de progresso por eixo.",
+    "inicio_previsto": "2026-05-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 71.0,
+    "indice_prioridade": 78.7,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-56",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-26",
+    "diretoria": "DAF",
+    "nome": "Elaboração e atualização de manuais normativos da Coordenadoria de Administração de Pessoal (COOAPE)",
+    "descricao": "Manuais normativos atualizados.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": null,
+    "valor_publico": 75.0,
+    "esforco": 17.0,
+    "indice_prioridade": 77.4,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-61",
+    "id_oe": "OE 3.4",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-38",
+    "diretoria": "DAF",
+    "nome": "Mapeamento das competências de funções no Rioprevidência",
+    "descricao": "Relatórios bimestrais",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-10-30",
+    "valor_publico": 100.0,
+    "esforco": 77.0,
+    "indice_prioridade": 76.9,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-62",
+    "id_oe": "OE 3.4",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-38",
+    "diretoria": "DAF",
+    "nome": "Mapeamento das necessidades de capacitação",
+    "descricao": "Plano Setorial de Capacitação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-10-30",
+    "valor_publico": 100.0,
+    "esforco": 77.0,
+    "indice_prioridade": 76.9,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-03",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-01",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Desenvolvimento de sistema atuarial auditável",
+    "descricao": "Sistema ou conjunto estruturado de módulos de cálculo atuarial com documentação, versionamento, saídas intermediárias, trilhas de auditoria e relatórios de validação.",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 77.0,
+    "indice_prioridade": 76.9,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-03",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-12",
+    "diretoria": "DJU",
+    "nome": "Estudos de viabilidade e Desenvolvimento e treinamento da IA Agente",
+    "descricao": "IA que auxilie na elaboração dos pareceres.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 90.0,
+    "esforco": 54.0,
+    "indice_prioridade": 76.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-22",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-03",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Parametrização das regras de aposentadorias da educação e segurança",
+    "descricao": "Parametrizar regras de aposentadoria",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 90.0,
+    "esforco": 57.0,
+    "indice_prioridade": 75.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-14",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-10",
+    "id_kr_gerencial": null,
+    "diretoria": "PRE",
+    "nome": "Elaboração dos Relatórios de Impacto à Proteção de Dados Pessoais (RIPD)",
+    "descricao": "RIPD elaborado para cada operação de tratamento de alto risco identificada no ROPA, com descrição do tratamento, necessidade e proporcionalidade, riscos identificados e medidas de mitigação, validado e mantido atualizado pelo DPO.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 85.0,
+    "esforco": 46.0,
+    "indice_prioridade": 75.7,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-21",
+    "id_oe": "OE 3.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-14",
+    "diretoria": "PRE",
+    "nome": "Programa de Oficinas de Conscientização Ética e Prevenção ao Assédio",
+    "descricao": "Programa de oficinas periódicas de conscientização ética e prevenção ao assédio, destinado aos servidores e colaboradores do Rioprevidência, com conteúdo sobre código de ética, canais de denúncia, condutas vedadas e responsabilidades institucionais, ministrado em formato presencial e/ou remoto, com registro de participação e avaliação de aprendizagem.",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 70.0,
+    "esforco": 11.0,
+    "indice_prioridade": 75.7,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-77",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-30",
+    "id_kr_gerencial": "KR-DAF-35",
+    "diretoria": "DAF",
+    "nome": "Programa de gestão e transformação do acervo previdenciário",
+    "descricao": "Programa implantado com inventário, atendimento e instrumentos arquivísticos.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 83.0,
+    "indice_prioridade": 75.1,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-107",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Modelo de RAPP relativo à Licitação",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nPesquisa de Preços",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2028-06-30",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-108",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Modelo de RAPP relativo à Renovação Contratual",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nPesquisa de Preços",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2028-06-30",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-109",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Modelo de RAPP relativo a Atas de Registro de Preços",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nPesquisa de Preços",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2028-06-30",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-110",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação relativos ao Processo Eletrônico de Dispensa (PED)",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-111",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação por Inexigibilidade",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-112",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação relativos a Atas de Registro de Preços",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-113",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação relativos a reajustes por Apostilamento",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-114",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação relativos a Termos Aditivos (prorrogação de prazo e alteração quali/quantitativa)",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-115",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação relativos a doações de bens móveis",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-22",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração dos Manuais de Padronização dos Procedimentos de Pesquisa de Preços",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nPesquisa de Preços",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2028-06-30",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-23",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-22",
+    "diretoria": "DAF",
+    "nome": "Elaboração do Manual de Padronização dos Procedimentos de Contratação relativos a Processos Licitatórios",
+    "descricao": "Manuais de Padronização dos Procedimentos de \nContratação",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 75.0,
+    "esforco": 29.0,
+    "indice_prioridade": 73.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-01",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-06",
+    "diretoria": "DJU",
+    "nome": "Realização de pesquisa e estudos para elaboração do boletim jurídicos",
+    "descricao": "Boletim jurídico informativo.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 100.0,
+    "esforco": 89.0,
+    "indice_prioridade": 73.3,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-02",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-05",
+    "diretoria": "PRE",
+    "nome": "Reformulação da Interface do Portal da Transparência",
+    "descricao": "Portal da Transparência 100% reformulado visualmente até set/2026: design responsivo, tabelas com filtros/ordenação, navegação intuitiva, checklist de conformidade.",
+    "inicio_previsto": "2026-05-01",
+    "termino_previsto": "2026-09-30",
+    "valor_publico": 100.0,
+    "esforco": 89.0,
+    "indice_prioridade": 73.3,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-07",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-26",
+    "id_kr_gerencial": "KR-PRE-18",
+    "diretoria": "PRE",
+    "nome": "Implantação dos Formulários de Acompanhamento Contratual",
+    "descricao": "Rotina institucional padronizada de acompanhamento da gestão e da execução contratual, com formulários oficialmente adotados, orientações formalizadas aos gestores e fiscais de contratos e registros inseridos nos processos administrativos correspondentes.",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2026-10-31",
+    "valor_publico": 85.0,
+    "esforco": 54.0,
+    "indice_prioridade": 73.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-08",
+    "id_oe": "OE 2.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-04",
+    "diretoria": "DJU",
+    "nome": "Programa de Capticação da Assessoria de Modernização da DIRJU",
+    "descricao": "Realizar capacitações anuais",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 75.0,
+    "esforco": 34.0,
+    "indice_prioridade": 72.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-09",
+    "id_oe": "OE 2.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-05",
+    "diretoria": "DJU",
+    "nome": "Programa de Capticação da Coordenadoria do Contencioso Jurídico da DIRJU",
+    "descricao": "Realizar capacitações anuais",
+    "inicio_previsto": "2026-01-08",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 75.0,
+    "esforco": 34.0,
+    "indice_prioridade": 72.3,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-50",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-24",
+    "diretoria": "DAF",
+    "nome": "Elaboração e divulgação mensal do relatório de atividades da Coordenadoria de Gestão Tributária - COOGT",
+    "descricao": "Relatórios consolidados mensais das obrigações, guias de recolhimento e análises fiscais finalizadas pela COOGT.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 0.0,
+    "indice_prioridade": 72.0,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-89",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-34",
+    "diretoria": "DAF",
+    "nome": "Revisão da Tabela de Temporalidade e Plano de Classificação Documental",
+    "descricao": "Revisão técnica, validação, aprovação e implantação da Tabela de Temporalidade e do Plano de Classificação do Acervo Previdenciário, em conformidade com a legislação arquivística e as diretrizes do Sistema de Arquivos do Estado do Rio de Janeiro (SIARQ-RJ).",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 75.0,
+    "esforco": 40.0,
+    "indice_prioridade": 70.5,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-16",
+    "id_oe": "OE 1.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-07",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Implantação e Consolidação da Nova Sede Cultural da Rua Marechal Floriano",
+    "descricao": "Implantação e consolidação de espaço permanente destinado à cultura, memória institucional, educação previdenciária, convivência e promoção do envelhecimento saudável.",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 100.0,
+    "esforco": 100.0,
+    "indice_prioridade": 70.0,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-13",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-07",
+    "diretoria": "DIN",
+    "nome": "Implantação do Webservice de Inscrição em Dívida Ativa",
+    "descricao": "Webservice integrado ao sistema GERPI para inscrição automatizada de notas de débito em Dívida Ativa.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-06-30",
+    "valor_publico": 100.0,
+    "esforco": 100.0,
+    "indice_prioridade": 70.0,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-16",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-08",
+    "diretoria": "DSE",
+    "nome": "Elaborar normativos internos de concessão de aposentadoria",
+    "descricao": "Normas internas de padronização dos processos de concessão de aposentadorias",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 17.0,
+    "indice_prioridade": 66.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-17",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-08",
+    "diretoria": "DSE",
+    "nome": "Atualização da Resolução sobre Concessão de aposentadoria",
+    "descricao": "Resolução padronizando dos processos de concessão de aposentadorias",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 17.0,
+    "indice_prioridade": 66.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-18",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-08",
+    "diretoria": "DSE",
+    "nome": "Atualização da Resolução sobre manutenção e revisão de aposentadoria",
+    "descricao": "Resolução padronizando dos processos de revisão e manutenção de aposentadorias",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 17.0,
+    "indice_prioridade": 66.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-20",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-09",
+    "diretoria": "DSE",
+    "nome": "Elaborar normativos internos para homologação de CTC",
+    "descricao": "Normas internas de padronização dos processos de homologação de CTCs",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 17.0,
+    "indice_prioridade": 66.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-21",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-09",
+    "diretoria": "DSE",
+    "nome": "Atualização da Portaria para homologação de CTCs",
+    "descricao": "Portaria padronizando dos processos de Homologação de CTCs",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 17.0,
+    "indice_prioridade": 66.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-23",
+    "id_oe": "OE 2.2",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-08",
+    "diretoria": "DSE",
+    "nome": "Atualizar normativos internos de manutenção e revisão de aposentadoria",
+    "descricao": "Normas internas de padronização dos processos de manutenção e revisão de aposentadorias",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 17.0,
+    "indice_prioridade": 66.9,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-03",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-20",
+    "diretoria": "DAF",
+    "nome": "Automação da Folha de Pagamento de Ativos do Rioprevidência",
+    "descricao": "Automatização da execução da folha de pagamento de ativos do Rioprevidência.",
+    "inicio_previsto": "2025-09-22",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 75.0,
+    "esforco": 57.0,
+    "indice_prioridade": 65.4,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-49",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-25",
+    "diretoria": "DAF",
+    "nome": "Elaboração e divulgação mensal do relatório de atividades da Coordenadoria de Contabilidade - COOCO",
+    "descricao": "Relatórios de atividades operacionais mensais da COOCO formalizados e despachados à gerência.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 50.0,
+    "esforco": 0.0,
+    "indice_prioridade": 65.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-15",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-05",
+    "diretoria": "DIN",
+    "nome": "Programa de Vistoria Física da Carteira Imobiliária",
+    "descricao": "Rotina de vistoria anual implantada, com cronograma, fichas padronizadas e relatórios por imóvel registrados no sistema.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 50.0,
+    "esforco": 0.0,
+    "indice_prioridade": 65.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-30",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-29",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Programa de Prova de Vida Digital. Publicação dos instrumentos normativos",
+    "descricao": "Instrumentos publicados",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2026-07-15",
+    "valor_publico": 50.0,
+    "esforco": 0.0,
+    "indice_prioridade": 65.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-84",
+    "id_oe": "OE 3.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-37",
+    "diretoria": "DAF",
+    "nome": "Inventário de ativos críticos",
+    "descricao": "GLPI populado com 100% dos ativos críticos, com detalhamento completo.",
+    "inicio_previsto": "2026-10-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 75.0,
+    "esforco": 60.0,
+    "indice_prioridade": 64.5,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-02",
+    "id_oe": "OE 3.3",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-11",
+    "diretoria": "DJU",
+    "nome": "Desenvolvimento, implementação e atualização de um Banco de Dados de Parecer Jurídico",
+    "descricao": "Implantar e manter banco de dados estruturado de pareceres jurídicos.",
+    "inicio_previsto": "2026-11-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 85.0,
+    "esforco": 89.0,
+    "indice_prioridade": 62.8,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-04",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-09",
+    "diretoria": "DJU",
+    "nome": "Revisão e Manualização de Programas de Automatização de Ofícios de Guias de Requisição de Pequeno Valor",
+    "descricao": "Revisar a automação e elaborar manual.",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 85.0,
+    "esforco": 89.0,
+    "indice_prioridade": 62.8,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DJU-05",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-10",
+    "diretoria": "DJU",
+    "nome": "Revisão e Manualização de Programas de Automatização de Ofícios de Bloqueios",
+    "descricao": "Revisar a automação e elaborar manual.",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 85.0,
+    "esforco": 89.0,
+    "indice_prioridade": 62.8,
+    "quadrante": {
+      "codigo": "Q1",
+      "rotulo": "Projeto Estruturante"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-32",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-29",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Programa de Prova de Vida Digital. Suporte aos canais de atendimento",
+    "descricao": "Suporte contínuo aos canais de atendimento",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2026-09-30",
+    "valor_publico": 50.0,
+    "esforco": 17.0,
+    "indice_prioridade": 59.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-01",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-17",
+    "id_kr_gerencial": "KR-PRE-04",
+    "diretoria": "PRE",
+    "nome": "Programa de Comunicação e Transparência Institucional para Fortalecimento da Credibilidade do Rioprevidência",
+    "descricao": "Programa estruturado com: (1) Fórum bimestral de geração de pautas; (2) 36 vídeos/ano com gestores (meta 3M views); (3) Calendário público de comunicação; (4) Relatórios trimestrais de impacto; (5) Ferramenta de clipping implementada.",
+    "inicio_previsto": "2026-04-15",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 50.0,
+    "esforco": 29.0,
+    "indice_prioridade": 56.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-48",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-24",
+    "diretoria": "DAF",
+    "nome": "Implantação do boletim mensal de atualização tributária",
+    "descricao": "Informativo ou boletim técnico mensal de atualizações e normativos fiscais distribuído oficialmente no âmbito interno.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 60.0,
+    "esforco": 54.0,
+    "indice_prioridade": 55.8,
+    "quadrante": {
+      "codigo": "Q2",
+      "rotulo": "Ganho Rápido / Quick Win"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": true,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-08",
+    "id_oe": "OE 2.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-11",
+    "diretoria": "DAF",
+    "nome": "Programa Arte e Expressão",
+    "descricao": "Programa permanente de oficinas de música, dança, artesanato, exposições e palestras culturais.",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 11.0,
+    "indice_prioridade": 54.7,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-31",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-29",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Programa de Prova de Vida Digital. Validação da ferramenta digital da prova de vida",
+    "descricao": "Ferramentas validadas",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2026-07-30",
+    "valor_publico": 50.0,
+    "esforco": 43.0,
+    "indice_prioridade": 52.1,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-05",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-03",
+    "diretoria": "DIN",
+    "nome": "Revisão do formato e diretrizes do Comitê de Investimentos",
+    "descricao": "Estudo final sobre a revisão do comitê, com medidas propositivas ou ajustes pontuais.",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2027-06-30",
+    "valor_publico": 50.0,
+    "esforco": 46.0,
+    "indice_prioridade": 51.2,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-28",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-41",
+    "diretoria": "DAF",
+    "nome": "Padronização dos Campos, Status e Critérios de Contagem dos Chamados de Infraestrutura Predial",
+    "descricao": "Definição de dicionário de dados dos chamados, campos obrigatórios, status padronizados, regras de contagem do prazo, hipóteses de suspensão, reabertura, cancelamento e encerramento",
+    "inicio_previsto": "2027-06-01",
+    "termino_previsto": "2027-08-01",
+    "valor_publico": 35.0,
+    "esforco": 17.0,
+    "indice_prioridade": 49.4,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-30",
+    "id_oe": "OE 3.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-41",
+    "diretoria": "DAF",
+    "nome": "Apuração da Linha de Base e Classificação dos Gargalos de Atendimento dos Chamados de Infraestrutura Predial",
+    "descricao": "Relatório de linha de base com tempo médio, mediana, volume de chamados, backlog, reincidência, tipos de demanda, gargalos, limitações metodológicas e referência inicial para a meta gerencial",
+    "inicio_previsto": "2028-11-01",
+    "termino_previsto": "2030-05-01",
+    "valor_publico": 35.0,
+    "esforco": 17.0,
+    "indice_prioridade": 49.4,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-33",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Criação de Matriz de Requisitos e Checklist de Conformidade para DOD, ETP, Mapa de Risco e TR da COOIPA",
+    "descricao": "Matriz de requisitos e checklist único para validação de DOD, ETP, Mapa de Risco e TR, com critérios mínimos de completude, coerência, motivação, riscos, obrigações, estimativa e validação antes do encaminhamento",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2027-02-01",
+    "valor_publico": 35.0,
+    "esforco": 17.0,
+    "indice_prioridade": 49.4,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-34",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Modelos Padronizados de DOD, ETP, Mapa de Risco e TR para Contratações Recorrentes da COOIPA",
+    "descricao": "Modelos-base padronizados de DOD, ETP, Mapa de Risco e TR, adaptados às contratações recorrentes da COOIPA e vinculados ao checklist de conformidade.  Manuais.",
+    "inicio_previsto": "2027-03-01",
+    "termino_previsto": "2027-11-01",
+    "valor_publico": 35.0,
+    "esforco": 17.0,
+    "indice_prioridade": 49.4,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-37",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Implantação do Fluxo Obrigatório de Checklist e Registro de Validação Humana nas Contratações da COOIPA",
+    "descricao": "Fluxo obrigatório implantado, com checklist anexado ou registrado em cada contratação, indicação do responsável pela revisão e acompanhamento mensal do percentual de aderência",
+    "inicio_previsto": "2028-05-01",
+    "termino_previsto": "2029-01-01",
+    "valor_publico": 35.0,
+    "esforco": 17.0,
+    "indice_prioridade": 49.4,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-07",
+    "id_oe": "OE 2.1",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-11",
+    "diretoria": "DAF",
+    "nome": "Programa Biblioteca RP Cultural e Programa de Incentivo à Leitura",
+    "descricao": "Implantação de biblioteca institucional e programa permanente de incentivo à leitura, formação de plateia e difusão cultural.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 29.0,
+    "indice_prioridade": 49.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-09",
+    "id_oe": "OE 2.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-12",
+    "diretoria": "DAF",
+    "nome": "Programa RP Run e Qualidade de Vida",
+    "descricao": "Programa permanente de esporte, saúde física, saúde mental e envelhecimento saudável.",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 29.0,
+    "indice_prioridade": 49.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-10",
+    "id_oe": "OE 2.1",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-13",
+    "diretoria": "DAF",
+    "nome": "Programa de Integração e Valorização Institucional",
+    "descricao": "Calendário anual de eventos institucionais, campanhas solidárias e ações de valorização.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 29.0,
+    "indice_prioridade": 49.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-11",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-03",
+    "diretoria": "DAF",
+    "nome": "Programa de Preparação para a Aposentadoria e Envelhecimento Ativo",
+    "descricao": "Programa desenvolvido em parceria com a Escola Previdenciária voltado à preparação para aposentadoria e envelhecimento ativo.",
+    "inicio_previsto": "2026-10-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 29.0,
+    "indice_prioridade": 49.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-11",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-05",
+    "id_kr_gerencial": null,
+    "diretoria": "DIN",
+    "nome": "Programa de Incremento da Arrecadação Imobiliária",
+    "descricao": "Diagnóstico da carteira concluído, estratégia de incremento definida e rotina de cobrança e locação aprimorada.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 40.0,
+    "esforco": 29.0,
+    "indice_prioridade": 49.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-58",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-27",
+    "diretoria": "DAF",
+    "nome": "Mapeamento e Manualização de Processos da COOFP",
+    "descricao": "Manuais operacionais contendo fluxos, responsáveis, legislação aplicável, procedimentos de execução e forma de comprovação das principais atividades selecionadas.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-15",
+    "valor_publico": 25.0,
+    "esforco": 0.0,
+    "indice_prioridade": 47.5,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-59",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-36",
+    "diretoria": "DAF",
+    "nome": "Revisão e Atualização dos Modelos Padronizados da COOFP",
+    "descricao": "Banco de modelos padronizados revisados, atualizados e disponibilizados à equipe em repositório eletrônico ou pasta compartilhada.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-11-30",
+    "valor_publico": 25.0,
+    "esforco": 0.0,
+    "indice_prioridade": 47.5,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-14",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-04",
+    "diretoria": "DAF",
+    "nome": "Rede de Parcerias Institucionais",
+    "descricao": "Rede estruturada de cooperação com instituições culturais, educacionais e de promoção do bem-estar.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 40.0,
+    "indice_prioridade": 46.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-27",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-41",
+    "diretoria": "DAF",
+    "nome": "Modelagem do Fluxo Operacional dos Chamados de Infraestrutura Predial",
+    "descricao": "Modelagem e validação do fluxo operacional mínimo dos chamados de infraestrutura predial, com definição de papéis, marcos temporais, critérios de encerramento, reabertura, suspensão de prazo e responsabilidades da COOIPA, áreas demandantes e eventuais fornecedores",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2027-06-01",
+    "valor_publico": 35.0,
+    "esforco": 29.0,
+    "indice_prioridade": 45.8,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-26",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-07",
+    "diretoria": "DSE",
+    "nome": "Celebração de acordo de cooperação técnica com TCE para ter acesso às imagens dos processos de aposentadoria para realizar os envios ao TCE para fins de registro de benefício de pensão",
+    "descricao": "Acordo de cooperação assinado",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 50.0,
+    "esforco": 66.0,
+    "indice_prioridade": 45.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-18",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-21",
+    "diretoria": "DAF",
+    "nome": "Treinamento e Capacitação com foco na Gestão de Contratos",
+    "descricao": "Redução do índice de nulidades processuais e suspensões de editais por parte do TCE/RJ.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 40.0,
+    "esforco": 43.0,
+    "indice_prioridade": 45.1,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-01",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-18",
+    "diretoria": "DAF",
+    "nome": "Otimização do processo de pagamento de consignado da folha de inativos e pensionistas",
+    "descricao": "Redução em 40% de documentos emitidos e maior confiabilidade das informações.",
+    "inicio_previsto": "2026-05-15",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 35.0,
+    "esforco": 34.0,
+    "indice_prioridade": 44.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-12",
+    "id_oe": "OE 2.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-10",
+    "diretoria": "DAF",
+    "nome": "Programa de Atendimento Cultural e Bem-Estar para Aposentados e Pensionistas",
+    "descricao": "Programação cultural, educativa e de bem-estar voltada aos aposentados e pensionistas.",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 46.0,
+    "indice_prioridade": 44.2,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-17",
+    "id_oe": "OE 1.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-09",
+    "diretoria": "DAF",
+    "nome": "Edição de normativo interno fixando redução gradual dos tempo concedidos para cada etapa da preparação do processo de contratação",
+    "descricao": "Redução do tempo médio que um processo leva da abertura da demanda até a assinatura do contrato",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 11.0,
+    "indice_prioridade": 44.2,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-19",
+    "id_oe": "OE 1.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-12",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Manualização e Padronização de Procedimentos com foco na Gestão de Contratos",
+    "descricao": "Redução do percentual de licitações desertas ou fracassadas",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 11.0,
+    "indice_prioridade": 44.2,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-21",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": "KR-DAF-23",
+    "diretoria": "DAF",
+    "nome": "Implantação do Programa de Referências Técnicas para Contratações",
+    "descricao": "Implantação do Programa de Referências Técnicas para Contratações mediante elaboração e disponibilização de referenciais técnicos organizados por tipo de contratação, contemplando requisitos específicos do objeto, exigências legais e normativas, orientações de órgãos de controle e de apoio, entendimentos recorrentes, processos de referência e demais informações relevantes à adequada formalização das contratações.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2029-12-31",
+    "valor_publico": 40.0,
+    "esforco": 46.0,
+    "indice_prioridade": 44.2,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-39",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-04",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Auditoria da folha de pagamento do ERJ",
+    "descricao": "Higienização da base da folha de pagamentos",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 25.0,
+    "esforco": 17.0,
+    "indice_prioridade": 42.4,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-07",
+    "id_oe": "OE 1.4",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-04",
+    "diretoria": "DSE",
+    "nome": "Elaborar ações de conscientização previdenciária para as redes sociais oficiais do Rioprevidência",
+    "descricao": "Videos/lives com açoes de conscientização previdenciária para o servidores do ERJ",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 30.0,
+    "esforco": 29.0,
+    "indice_prioridade": 42.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-125",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal - Centro de Documentação, Informação e Memória (CEDIM)",
+    "descricao": "Novo Portal Rioprevidencia CEDIM desenvolvido em plataforma CMS Drupal (free) tendo todos os seus conteúdos migrados do antigo portal.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2026-08-31",
+    "valor_publico": 50.0,
+    "esforco": 77.0,
+    "indice_prioridade": 41.9,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-126",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal - Rioprevidência Cultural",
+    "descricao": "Novo Portal Rioprevidencia Cultural desenvolvido em plataforma CMS Drupal (free) tendo todos os seus conteúdos migrados do antigo portal.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2026-08-31",
+    "valor_publico": 50.0,
+    "esforco": 77.0,
+    "indice_prioridade": 41.9,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-127",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal - Escola de Educação Previdenciária",
+    "descricao": "Novo Portal da Escola de Educ. Previdenciária desenvolvido em plataforma CMS Drupal (free) tendo todos os seus conteúdos migrados do antigo portal.",
+    "inicio_previsto": "2026-07-20",
+    "termino_previsto": "2026-09-15",
+    "valor_publico": 50.0,
+    "esforco": 77.0,
+    "indice_prioridade": 41.9,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-06",
+    "id_oe": "OE 2.1",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-11",
+    "diretoria": "DAF",
+    "nome": "Programa RP Cultural – Cultura, Bem-Estar e Pertencimento",
+    "descricao": "Programa permanente de cultura, educação, bem-estar e integração institucional, com calendário anual de ações.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 54.0,
+    "indice_prioridade": 41.8,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-03",
+    "id_oe": "OE 4.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-12",
+    "diretoria": "DIN",
+    "nome": "Recomposição da Equipe Técnica da GERIN",
+    "descricao": "Servidores incorporados à DIRIN com perfil técnico compatível via mobilidade interna.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-06-30",
+    "valor_publico": 20.0,
+    "esforco": 11.0,
+    "indice_prioridade": 40.7,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-28",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-06",
+    "diretoria": "DSE",
+    "nome": "Realizar reuniões com os órgãos para obter informações da composição da remuneração dos ex-servidores",
+    "descricao": "Obter informações remuneratórias dos ex-segurados",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 23.0,
+    "indice_prioridade": 40.6,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-36",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-04",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Divulgar o SICOPREV buscando novos convênios",
+    "descricao": "Base integrada ao SICOPREV",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 25.0,
+    "esforco": 23.0,
+    "indice_prioridade": 40.6,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-22",
+    "id_oe": "OE 4.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-22",
+    "diretoria": "PRE",
+    "nome": "Capacitação e Treinamento da equipe de Ouvidoria",
+    "descricao": "Nivelamento do conhecimento",
+    "inicio_previsto": "2026-04-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 15.0,
+    "esforco": 0.0,
+    "indice_prioridade": 40.5,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-02",
+    "id_oe": "OE 4.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-12",
+    "diretoria": "DSE",
+    "nome": "Programa de capacitação da COOAA em análise de dados e programação",
+    "descricao": "Trilha de capacitação plurianual em análise de dados, Python/R/SQL, automação, visualização e programação aplicada às rotinas previdenciárias e atuariais.",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 60.0,
+    "indice_prioridade": 40.0,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-70",
+    "id_oe": "OE 2.2",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-16",
+    "diretoria": "DAF",
+    "nome": "Levantamento de todas as etapas entre o encerramento da folha e a efetivação do pagamento",
+    "descricao": "Conhecer as fases necessárias em cada etapa do pagamento",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-08-01",
+    "valor_publico": 20.0,
+    "esforco": 17.0,
+    "indice_prioridade": 38.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-06",
+    "id_oe": "OE 4.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-12",
+    "diretoria": "DIN",
+    "nome": "Plano de Capacitação e Certificação da Equipe de Investimentos",
+    "descricao": "Percentual da equipe capacitado conforme planejamento",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2028-12-31",
+    "valor_publico": 25.0,
+    "esforco": 29.0,
+    "indice_prioridade": 38.8,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-100",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Auxílio Educação",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo Auxílio Educação do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-101",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Dependentes",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo Dependentes do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-08-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-102",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Vale Transporte",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo Vale Transporte do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-09-30",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-103",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Férias",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Ferias do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-09-30",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-104",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Registrar Frequência",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo registrar Frequencia do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-08-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-105",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Dados Bancários",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Dados Bancários do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-01-08",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-106",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Experiência Educacional (NOVO)",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo Experiencia Educacional do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-01-10",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-121",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Financeiro - RPV",
+    "descricao": "Implantação de módulo na plataforma ConectaRP destinado à automação, padronização e controle do processo de pagamento de RPVs, contemplando o recebimento das informações, tratamento dos dados, geração de documentos orçamentários e financeiros, integrações corporativas e acompanhamento das etapas de execução.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2026-10-31",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-122",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Financeiro - FPA – Folha de Pagamento de Ativos​",
+    "descricao": "Implantação de módulo na plataforma ConectaRP destinado à automação, padronização e controle do planejamento, processamento e pagamento da folha de ativos, integrando as etapas operacionais e promovendo maior controle sobre a execução do processo.",
+    "inicio_previsto": "2026-01-08",
+    "termino_previsto": "2026-11-15",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-123",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Financeiro - FPAP – Folha de Pagamento de Aposentados​ e Pensionistas",
+    "descricao": "Implantação de módulo na plataforma ConectaRP destinado à automação, padronização e controle do processamento e pagamento da folha de aposentados e pensionistas, promovendo maior eficiência e controle sobre as atividades executadas.",
+    "inicio_previsto": "2026-08-15",
+    "termino_previsto": "2027-01-31",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-124",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Financeiro - FPC – Folha de Pagamento de Consignado​",
+    "descricao": "Implantação de módulo na plataforma ConectaRP destinado à automação, padronização e controle das atividades de apuração, retenção e pagamento das consignações, promovendo maior integração e controle operacional do processo.",
+    "inicio_previsto": "2026-09-15",
+    "termino_previsto": "2027-02-15",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-38",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Inventário e Classificação dos Serviços da COOIPA para Implementação no GLPI",
+    "descricao": "Inventário validado dos serviços da COOIPA, com classificação por tipo, área responsável, canal atual, criticidade, recorrência, necessidade de SLA e prioridade de implementação no GLPI",
+    "inicio_previsto": "2027-06-01",
+    "termino_previsto": "2027-09-01",
+    "valor_publico": 35.0,
+    "esforco": 54.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-79",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Administrativo - Contratação",
+    "descricao": "A entrega versa na implantação do novo módulo de Contratação da plataforma ConectaRP, substituindo o módulo correspondente do sistema SIGAP e garantindo a continuidade operacional dos processos de negócio associados.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2026-08-15",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-80",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Administrativo - Transporte",
+    "descricao": "A entrega versa na implantação do novo módulo de Transporte da plataforma ConectaRP, substituindo o módulo correspondente do sistema SIGAP e garantindo a continuidade operacional dos processos de negócio associados.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2026-08-15",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-81",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Administrativo - Almoxarifado",
+    "descricao": "A entrega versa na implantação do novo módulo de Almoxarifado da plataforma ConectaRP, substituindo o módulo correspondente do sistema SIGAP e garantindo a continuidade operacional dos processos de negócio associados.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2026-09-30",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-82",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Gestão de Documentos GPD",
+    "descricao": "A entrega versa na implantação do novo módulo de Gestão de Documentos da plataforma ConectaRP, substituindo o módulo correspondente do sistema SIGAP e garantindo a continuidade operacional dos processos de negócio associados.",
+    "inicio_previsto": "2026-01-08",
+    "termino_previsto": "2026-10-10",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-83",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - Jurídico",
+    "descricao": "A entrega versa na implantação do novo módulo de Jurídico da plataforma ConectaRP, substituindo o módulo correspondente do sistema SIGAP e garantindo a continuidade operacional dos processos de negócio associados.",
+    "inicio_previsto": "2026-06-08",
+    "termino_previsto": "2026-10-15",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-91",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Funcionários/ Servidores",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Funcionários do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-92",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Cadastros",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Cadastros do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-31",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-93",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Relatórios",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Relatórios do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-94",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Folha",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo Folha do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-08-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-95",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Controles",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Controles do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-08-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-96",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Configurações",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Configurações do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-97",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conecta RP - APS - Quadro de avisos",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Quadro de Avisos do Sistema APS o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-08-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-98",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Informações Cadastrais",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo de Informações Cadastrais do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-99",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-31",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Novo Portal do Servidor - Auxilio Saúde",
+    "descricao": "A entrega versa sobre a disponibilização em ambiente de produção do modulo Auxílio Saúde do Portal do Servidor o qual também se integrará à nova plataforma ConectaRP.",
+    "inicio_previsto": "2026-07-15",
+    "termino_previsto": "2027-01-11",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-12",
+    "id_oe": "OE 3.4",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DIN-11",
+    "diretoria": "DIN",
+    "nome": "Dashboard Executivo da Carteira Imobiliária",
+    "descricao": "Dashboard executivo em Power BI com status físico, jurídico e financeiro de 100% dos ativos imobiliários atualizado mensalmente.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 50.0,
+    "esforco": 89.0,
+    "indice_prioridade": 38.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-66",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-28",
+    "diretoria": "DAF",
+    "nome": "Manual de Encerramento de Folha",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2027-06-01",
+    "valor_publico": 10.0,
+    "esforco": 0.0,
+    "indice_prioridade": 37.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-67",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-27",
+    "diretoria": "DAF",
+    "nome": "Manual de Pagamento - Bolsa Estagiário",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2028-01-01",
+    "termino_previsto": "2028-06-01",
+    "valor_publico": 10.0,
+    "esforco": 0.0,
+    "indice_prioridade": 37.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-68",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-27",
+    "diretoria": "DAF",
+    "nome": "Manual de Pagamento - Aux. Saúde/Educação",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-20",
+    "valor_publico": 10.0,
+    "esforco": 0.0,
+    "indice_prioridade": 37.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-13",
+    "id_oe": "OE 2.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-11",
+    "diretoria": "DAF",
+    "nome": "Plataforma Digital RP Cultural",
+    "descricao": "Plataforma de conteúdos digitais, transmissões online e acervo virtual.",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 71.0,
+    "indice_prioridade": 36.7,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-36",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Projeto piloto de contratação assistida por IA da COOIPA",
+    "descricao": "Piloto com contratações selecionadas, aplicando modelos, prompts de IA e checklist, com registro das falhas, ajustes, tempo de elaboração, retrabalho e percentual de conformidade",
+    "inicio_previsto": "2028-09-01",
+    "termino_previsto": "2028-04-01",
+    "valor_publico": 35.0,
+    "esforco": 60.0,
+    "indice_prioridade": 36.5,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-42",
+    "id_oe": "OE 3.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Monitoramento da Aderência e Qualidade dos Serviços da COOIPA no GLPI",
+    "descricao": "Painel ou relatório mensal de aderência dos serviços ao GLPI, com percentual de serviços implementados, chamados por serviço, demandas fora do GLPI, pendências de parametrização e plano de correção",
+    "inicio_previsto": "2029-10-01",
+    "termino_previsto": "2030-05-01",
+    "valor_publico": 35.0,
+    "esforco": 60.0,
+    "indice_prioridade": 36.5,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-44",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-33",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Saneamento e Padronização da Base de Bens Patrimoniais para Integração Sistêmica",
+    "descricao": "Base saneada e padronizada dos bens patrimoniais, com identificação, descrição, localização, responsável, situação, unidade administrativa e pendências classificadas",
+    "inicio_previsto": "2028-04-01",
+    "termino_previsto": "2028-07-01",
+    "valor_publico": 35.0,
+    "esforco": 60.0,
+    "indice_prioridade": 36.5,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-04",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-02",
+    "diretoria": "DSE",
+    "nome": "Celebração de acordo de cooperação técnica com TCE para ter acesso às imagens dos processos de aposentadoria para realizar a compensação previdenciária",
+    "descricao": "Acesso às imagens dos processos de compensação previdenciária para aumentar a celeridade na analise dos processos que encontram-se no estoque de passivos",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 25.0,
+    "esforco": 40.0,
+    "indice_prioridade": 35.5,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-37",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-04",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Contrato com o SIRC",
+    "descricao": "Base integrada ao SIRC",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 40.0,
+    "indice_prioridade": 35.5,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-05",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-02",
+    "diretoria": "DSE",
+    "nome": "Aumentar análise do estoque de passivo, relacionados ao COMPREV, de 350 para 500 processos por mês",
+    "descricao": "Aumento de 70% na capacidade de análise no setor, sem a necessidade de aumentar a força de trabalho",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2028-12-31",
+    "valor_publico": 25.0,
+    "esforco": 43.0,
+    "indice_prioridade": 34.6,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-29",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-41",
+    "diretoria": "DAF",
+    "nome": "Implantação de Registro Gerencial Padronizado dos Chamados de Infraestrutura Predial",
+    "descricao": "Implantação de formulário, planilha controlada, GLPI ou solução institucional equivalente, contendo campos obrigatórios, status, responsáveis, criticidade, tipo de serviço, datas relevantes e motivo de pendência",
+    "inicio_previsto": "2027-09-01",
+    "termino_previsto": "2028-10-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-31",
+    "id_oe": "OE 4.3",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-41",
+    "diretoria": "DAF",
+    "nome": "Piloto de Priorização e SLA Operacional para Chamados Críticos de Infraestrutura Predial",
+    "descricao": "Piloto com matriz de criticidade, prazos de primeira resposta, solução, escalonamento, justificativa de atraso e acompanhamento específico de chamados críticos e recorrentes",
+    "inicio_previsto": "2030-06-01",
+    "termino_previsto": "2031-02-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-32",
+    "id_oe": "OE 3.4",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-41",
+    "diretoria": "DAF",
+    "nome": "Implantação de Painel Mensal de Monitoramento dos Chamados de Infraestrutura Predial",
+    "descricao": "Painel mensal com indicadores de tempo médio, mediana, volume, backlog, reincidência, chamados por tipo, cumprimento de SLA, principais causas e plano de ação trimestral",
+    "inicio_previsto": "2031-03-01",
+    "termino_previsto": "2031-12-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-35",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-24",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Base de Conhecimento e Prompts de IA para Elaboração Assistida dos Documentos da Fase Preparatória",
+    "descricao": "Base de conhecimento mínima e conjunto de prompts padronizados para apoiar a geração assistida de DOD, ETP, Mapa de Risco e TR, com instruções para não inventar dados, indicar premissas, apontar lacunas e manter coerência entre documentos",
+    "inicio_previsto": "2027-12-01",
+    "termino_previsto": "2028-08-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-39",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Desenho do Catálogo de Serviços e Campos Obrigatórios da COOIPA no GLPI",
+    "descricao": "Modelo de catálogo de serviços da COOIPA para o GLPI, contendo categorias, subcategorias, campos obrigatórios, critérios de abertura, responsáveis, criticidade e regras mínimas de tratamento",
+    "inicio_previsto": "2027-10-01",
+    "termino_previsto": "2028-04-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-40",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Parametrização Inicial dos Serviços Prioritários da COOIPA no GLPI",
+    "descricao": "Parametrização dos serviços prioritários da COOIPA no GLPI, com categorias, responsáveis, campos, regras de atribuição, status, criticidade e teste de abertura/encerramento de chamados",
+    "inicio_previsto": "2028-05-01",
+    "termino_previsto": "2029-01-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-41",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Expansão Gradual para 100% dos Serviços da COOIPA no GLPI",
+    "descricao": "Implantação de todos os serviços mapeados da COOIPA no GLPI, com registro de validação, testes funcionais, responsáveis definidos e orientação mínima aos usuários internos",
+    "inicio_previsto": "2029-02-01",
+    "termino_previsto": "2029-09-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-43",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-33",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Definição do Escopo e dos Requisitos de Integração do Sistema de Gestão de Bens Patrimoniais",
+    "descricao": "Documento de escopo da integração patrimonial, contendo processos abrangidos, bases envolvidas, responsáveis, requisitos mínimos, sistemas relacionados, critérios de aceite e indicador de integração",
+    "inicio_previsto": "2028-01-01",
+    "termino_previsto": "2028-03-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-46",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-33",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Piloto de Integração do Sistema Patrimonial com Unidades e Processos Selecionados",
+    "descricao": "Piloto de integração com unidades ou fluxos selecionados, abrangendo cadastro, movimentação, termo de responsabilidade, inventário, relatório e correção de inconsistências",
+    "inicio_previsto": "2028-10-01",
+    "termino_previsto": "2028-11-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-47",
+    "id_oe": "OE 3.4",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-33",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Implantação Integral e Monitoramento da Aderência do Sistema de Gestão de Bens Patrimoniais",
+    "descricao": "Implantação integral do sistema para o escopo validado, com relatório mensal de aderência, pendências, movimentações fora do sistema, inconsistências e plano de correção",
+    "inicio_previsto": "2028-12-01",
+    "termino_previsto": "2028-02-01",
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-05",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-10",
+    "diretoria": "PRE",
+    "nome": "Projeto de Governança de Demandas Externas",
+    "descricao": "Sistema de controle operacional das demandas externas com registro, acompanhamento, monitoramento e geração de relatórios gerenciais.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": 35.0,
+    "esforco": 71.0,
+    "indice_prioridade": 33.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-02",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-19",
+    "diretoria": "DAF",
+    "nome": "Mapeamento e manualização de execução orçamentária",
+    "descricao": "Mapeamento dos processos existentes, elaboração e validação dos Procedimentos Operacionais Padrão.",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 10.0,
+    "esforco": 17.0,
+    "indice_prioridade": 31.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-69",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-28",
+    "diretoria": "DAF",
+    "nome": "Manual de Bloqueio Judicial de Terceiros (Relatório 821)",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2030-01-01",
+    "termino_previsto": "2030-06-01",
+    "valor_publico": 10.0,
+    "esforco": 17.0,
+    "indice_prioridade": 31.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-24",
+    "id_oe": "OE 2.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-09",
+    "diretoria": "DSE",
+    "nome": "Diagnosticar melhorias nos processos de Homologação de CTC",
+    "descricao": "Relatório de diagnóstico anual dos processos de Homologação de CTC",
+    "inicio_previsto": "2026-09-02",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 10.0,
+    "esforco": 17.0,
+    "indice_prioridade": 31.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-25",
+    "id_oe": "OE 2.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-08",
+    "diretoria": "DSE",
+    "nome": "Diagnosticar melhorias nos processos de concessão de aposentadoria",
+    "descricao": "Relatório de diagnóstico anual dos processos de concessão de aposentadoria",
+    "inicio_previsto": "2026-09-03",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 10.0,
+    "esforco": 17.0,
+    "indice_prioridade": 31.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-12",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-32",
+    "id_kr_gerencial": null,
+    "diretoria": "PRE",
+    "nome": "Sistema de Automação e Rotinas Administrativas",
+    "descricao": "Portfólio institucional de automações em produção, com priorização por impacto e esforço, incluindo fluxos com Power Automate, Power BI, scripts Python, integrações entre sistemas (SIAFE-Rio, SEI-RJ, CADPROC) e robôs de coleta de dados usando diversas API's.",
+    "inicio_previsto": "2026-05-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 40.0,
+    "esforco": 89.0,
+    "indice_prioridade": 31.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-64",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-28",
+    "diretoria": "DAF",
+    "nome": "Manual de Movimentação Financeira",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2029-01-01",
+    "termino_previsto": "2029-06-30",
+    "valor_publico": 0.0,
+    "esforco": 0.0,
+    "indice_prioridade": 30.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-65",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-28",
+    "diretoria": "DAF",
+    "nome": "Manual de Bloqueio Judicial - Arresto",
+    "descricao": "Entrega do manual",
+    "inicio_previsto": "2031-01-01",
+    "termino_previsto": "2031-06-01",
+    "valor_publico": 0.0,
+    "esforco": 0.0,
+    "indice_prioridade": 30.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-71",
+    "id_oe": "OE 2.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-16",
+    "diretoria": "DAF",
+    "nome": "Implantação do cronograma de pagamentos integrado",
+    "descricao": "Cronograma de Pagamento",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-07-01",
+    "valor_publico": 0.0,
+    "esforco": 0.0,
+    "indice_prioridade": 30.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-09",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-11",
+    "diretoria": "DSE",
+    "nome": "Publicação da portaria sobre encerramento de folha de pensionista",
+    "descricao": "Portaria pacificando o entendimento sobre encerramento de folha de pensionista",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-10-31",
+    "valor_publico": 0.0,
+    "esforco": 0.0,
+    "indice_prioridade": 30.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-18",
+    "id_oe": "OE 2.3",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-21",
+    "diretoria": "PRE",
+    "nome": "Elaboração de manuais de Ouvidoria",
+    "descricao": "Manualizar todos os procedimentos realizados na Ouvidoria.",
+    "inicio_previsto": "2026-06-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 0.0,
+    "esforco": 0.0,
+    "indice_prioridade": 30.0,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-85",
+    "id_oe": "OE 3.1",
+    "pilar": "Relacionamento e Excelência no Atendimento",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-30",
+    "diretoria": "DAF",
+    "nome": "Melhoria da experiência do usuário no GLPI",
+    "descricao": "Autonomia na abertura de chamados, analistas de nível 3 disponíveis para projetos e melhorias e pesquisa de satisfação implantada e monitorada.",
+    "inicio_previsto": "2026-10-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 25.0,
+    "esforco": 60.0,
+    "indice_prioridade": 29.5,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-45",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-33",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Desenvolvimento de Sistema de controle de bens materiais",
+    "descricao": "Parametrização dos fluxos críticos no sistema patrimonial, com perfis de acesso, etapas, responsáveis, status, campos obrigatórios, documentos vinculados e trilhas de auditoria",
+    "inicio_previsto": "2028-08-01",
+    "termino_previsto": "2028-09-01",
+    "valor_publico": 35.0,
+    "esforco": 89.0,
+    "indice_prioridade": 27.8,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-116",
+    "id_oe": "OE 3.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Disponibilizar o fluxo de pagamento das despesas de condominios sem a cobrança de juros e mora",
+    "descricao": "Entregar os processos num prazo razoaável para que seja realizado a liquidação e pagamento até a data do vencimento da obrigação",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 71.0,
+    "indice_prioridade": 26.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-117",
+    "id_oe": "OE 3.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Disponibilizar o fluxo de pagamento das despesas de concessionarias de serviço publico sem a cobrança de juros e mora",
+    "descricao": "Entregar os processos num prazo razoaável para que seja realizado a liquidação e pagamento até a data do vencimento da obrigação",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 71.0,
+    "indice_prioridade": 26.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-24",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-44",
+    "diretoria": "DAF",
+    "nome": "Centralização dos serviços do Rioprevidência, relacionados aos transportes em um único sistema contratado (Conecta RP)",
+    "descricao": "Padronizar fluxo, gerar indicadores automáticos e aprimorar a resposta às demandas internas",
+    "inicio_previsto": "2026-08-03",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 25.0,
+    "esforco": 71.0,
+    "indice_prioridade": 26.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-25",
+    "id_oe": "OE 3.3",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-44",
+    "diretoria": "DAF",
+    "nome": "Migração do SIGAP e de planilhas para o Conecta RP em relação ao serviço de transporte por determinação da Autarquia",
+    "descricao": "Controle da frota e condutores, manutenção preventiva, consumo de combustível e percentual de atendimento as solicitações.",
+    "inicio_previsto": "2026-08-03",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 25.0,
+    "esforco": 71.0,
+    "indice_prioridade": 26.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-26",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-29",
+    "diretoria": "DAF",
+    "nome": "Gerir Sistema de Acompanhamento de vigência de contratos",
+    "descricao": "Objetivo com o Sistema - disponibilizar as informações dos Contratos para todas as areas Gestoras e emitir alertas sobre o tempo de vigencia do contrato, proximidade do término e data de reajuste",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 25.0,
+    "esforco": 71.0,
+    "indice_prioridade": 26.2,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-04",
+    "id_oe": "OE 3.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-25",
+    "id_kr_gerencial": null,
+    "diretoria": "PRE",
+    "nome": "Projeto de Padronização e Controle Processual",
+    "descricao": "Checklist padronizado de conformidade para utilização obrigatória nos processos encaminhados à assinatura da Presidência.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": 20.0,
+    "esforco": 60.0,
+    "indice_prioridade": 26.0,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-12",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-10",
+    "diretoria": "DSE",
+    "nome": "Mapeamento, coleta de informações e redação de Relatório Executivo do processo de encerramento de folha",
+    "descricao": "O mapeamento da área e documentação dos dados possibilitará a identificação dos possiveis problemas e dependências do processo.",
+    "inicio_previsto": "2027-01-01",
+    "termino_previsto": "2027-03-31",
+    "valor_publico": 0.0,
+    "esforco": 17.0,
+    "indice_prioridade": 24.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-38",
+    "id_oe": "OE 1.1",
+    "pilar": "Sustentabilidade Financeira e Atuarial",
+    "id_kr_institucional": "KR-INS-04",
+    "id_kr_gerencial": null,
+    "diretoria": "DSE",
+    "nome": "Diagnosticar possibilidade de automatização das consultas do CENSEC",
+    "descricao": "Entrega do diagnostico da automatização da consulta",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 0.0,
+    "esforco": 17.0,
+    "indice_prioridade": 24.9,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-06",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-01",
+    "diretoria": "PRE",
+    "nome": "Projeto de Saneamento e Redução do Passivo Processual",
+    "descricao": "Plano de saneamento do passivo processual com monitoramento periódico e tratamento prioritário dos processos pendentes.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": 10.0,
+    "esforco": 43.0,
+    "indice_prioridade": 24.1,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-10",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-11",
+    "diretoria": "DSE",
+    "nome": "Publicação da Resolução Conjunta sobre encerramento de folha de inativos",
+    "descricao": "Resolução conjunta pacificando o entendimento sobre encerramento de folha de inativo",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 0.0,
+    "esforco": 23.0,
+    "indice_prioridade": 23.1,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-13",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-10",
+    "diretoria": "DSE",
+    "nome": "Elaboração dos novos processos de encerramento de folha",
+    "descricao": "Necessidade de clareza dos possiveis problemas / ineficiências e dependencias transversais ajudará na precisão clara do diagnóstico",
+    "inicio_previsto": "2027-04-01",
+    "termino_previsto": "2027-09-30",
+    "valor_publico": 0.0,
+    "esforco": 29.0,
+    "indice_prioridade": 21.3,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-15",
+    "id_oe": "OE 1.2",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-05",
+    "diretoria": "DAF",
+    "nome": "Centro de Documentação, Informação e Memória",
+    "descricao": "Programa permanente de preservação, catalogação, digitalização e difusão da memória institucional.",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": 25.0,
+    "esforco": 89.0,
+    "indice_prioridade": 20.8,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-11",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-10",
+    "diretoria": "DSE",
+    "nome": "Elaboração de diagnóstico referente ao processo de encerramento de folha",
+    "descricao": "A definição de um escopo claro e uma metodologia consistente com este escopo permitirá o mapeamento correto da área e a colheta de dados necessários para o diagnóstico",
+    "inicio_previsto": "2026-11-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 0.0,
+    "esforco": 34.0,
+    "indice_prioridade": 19.8,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-14",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-10",
+    "diretoria": "DSE",
+    "nome": "Elaboração e execução do plano de ação dos processos de encerramento de folha",
+    "descricao": "Um diagnoóstico claro e preciso revelará a possibilidade de melhoria e um plano de ação orientará para que alcancemos o potencial de melhoria almejado",
+    "inicio_previsto": "2027-10-01",
+    "termino_previsto": "2027-12-31",
+    "valor_publico": 0.0,
+    "esforco": 34.0,
+    "indice_prioridade": 19.8,
+    "quadrante": {
+      "codigo": "Q4",
+      "rotulo": "Execução Oportunística"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-PRE-03",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-PRE-12",
+    "diretoria": "PRE",
+    "nome": "Projeto de Gestão de Fluxos Processuais da Chefia de Gabinete",
+    "descricao": "Metodologia formalizada de classificação de processos por criticidade, com definição de níveis de prioridade e respectivos SLAs de tramitação.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": 10.0,
+    "esforco": 60.0,
+    "indice_prioridade": 19.0,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DSE-29",
+    "id_oe": "OE 1.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DSE-06",
+    "diretoria": "DSE",
+    "nome": "Criação de um instrumento para realizar a revisão de pensão, através de base de informação, nos casos de EC47 e 70.",
+    "descricao": "Criar instrumento sistêmico para execução dos cálculos para as pensões fundamentadas pelas EC 70 e EC47",
+    "inicio_previsto": "2026-07-01",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 15.0,
+    "esforco": 77.0,
+    "indice_prioridade": 17.4,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DIN-07",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-INS-23",
+    "id_kr_gerencial": null,
+    "diretoria": "DIN",
+    "nome": "Criação/ Contratação sistema de gestão de investimentos.",
+    "descricao": "Sistema de gestão de investimentos implantado e operacional, com possibilidade de integração de dados de custodiante e instituições financeiras credenciadas.",
+    "inicio_previsto": "2026-09-01",
+    "termino_previsto": "2028-12-31",
+    "valor_publico": 10.0,
+    "esforco": 89.0,
+    "indice_prioridade": 10.3,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-78",
+    "id_oe": "OE 3.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": "KR-DAF-32",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Criação de um Modelo de Gestão de Desenvolvimento de Software (MGDS) para o Rioprevidencia",
+    "descricao": "Modelo de Gestão de Desenvolvimento de Software contendo padrões, processos e fluxos de desenvolvimento bem consolidados para qualquer software que venha ser desevolvido no rioprevidencia.",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2026-12-31",
+    "valor_publico": 0.0,
+    "esforco": 77.0,
+    "indice_prioridade": 6.9,
+    "quadrante": {
+      "codigo": "Q3",
+      "rotulo": "Reavaliação Estratégica"
+    },
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "IN-DAF-118",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Elaborar Manual com passo a passo para solicitação de serviços de transporte através do Conecta RP",
+    "descricao": null,
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "vulnerabilidade_legal",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-119",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Conscientização de todos os usuários sobre o uso do Conecta RP (serviço de transporte)",
+    "descricao": null,
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "vulnerabilidade_legal",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-120",
+    "id_oe": "OE 3.1",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Parametrização dos Fluxos Críticos do Sistema de Gestão de Bens Patrimoniais",
+    "descricao": null,
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "vulnerabilidade_legal",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-52",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-24",
+    "diretoria": "DAF",
+    "nome": "Programa de Manualização de Processos da Coordenadoria de Gestão Tributária - COOGT",
+    "descricao": "Manuais, fluxogramas e checklists dos 5 principais processos da COOGT, formalizados e aprovados pela chefia.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-53",
+    "id_oe": "OE 3.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-25",
+    "diretoria": "DAF",
+    "nome": "Programa de Manualização de Processos da Coordenadoria de Contabilidade - COOCO",
+    "descricao": "Manuais, fluxogramas e checklists dos 5 principais processos da COOCO, formalizados e aprovados pela chefia.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-54",
+    "id_oe": "OE 4.1",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-25",
+    "diretoria": "DAF",
+    "nome": "Capacitação de servidores da Coordenadoria de Contabilidade em configuração contábil no Siafe-Rio",
+    "descricao": "4 servidores da COOCO capacitados e habilitados no perfil técnico de configuração contábil do Siafe-Rio, com certificação oficial.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-55",
+    "id_oe": "OE 2.3",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DAF-17",
+    "diretoria": "DAF",
+    "nome": "Revisão e Aperfeiçoamento das Notas Explicativas das Demonstrações Contábeis",
+    "descricao": "Documento final consolidado das Notas Explicativas revisadas e refinadas, no total de 4, publicadas junto às demonstrações contábeis.",
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-86",
+    "id_oe": "OE 2.1",
+    "pilar": null,
+    "id_kr_institucional": "KR-INS-16",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Realização da Audiência Pública",
+    "descricao": null,
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "vulnerabilidade_legal",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-87",
+    "id_oe": "OE 3.4",
+    "pilar": "Governança e Integridade",
+    "id_kr_institucional": "KR-INS-34",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Edital de Bolsas de Formação para Servidores",
+    "descricao": "Processo seletivo de 30 bolsas de estudo oferecidas aos servidores do Rioprevidência por meio do Edital DIRAF 01/2026 (5 de graduação para nível médio, 20 de pós-graduação Lato sensu e 5 de pós-graduação Stricto sensu, nível de Mestrado)",
+    "inicio_previsto": "2026-01-09",
+    "termino_previsto": "2028-01-12",
+    "valor_publico": 50.0,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": false,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-88",
+    "id_oe": "OE 4.1",
+    "pilar": null,
+    "id_kr_institucional": "KR-INS-35",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Realização de Concurso Público para Áreas Específicas",
+    "descricao": null,
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem etapas",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "vulnerabilidade_legal",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DAF-90",
+    "id_oe": "OE 4.1",
+    "pilar": null,
+    "id_kr_institucional": "KR-DAF-40",
+    "id_kr_gerencial": null,
+    "diretoria": "DAF",
+    "nome": "Pesquisa de Clima Organizacional",
+    "descricao": null,
+    "inicio_previsto": null,
+    "termino_previsto": null,
+    "valor_publico": null,
+    "esforco": null,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "gravidade",
+        "vulnerabilidade_legal",
+        "impacto",
+        "complexidade",
+        "grau_articulacao",
+        "necessita_ti"
+      ]
+    }
+  },
+  {
+    "id": "IN-DJU-06",
+    "id_oe": "OE 2.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-01",
+    "diretoria": "DJU",
+    "nome": "Programa de Capacitação em Matéria Jurídica para a Assessoria Jurídica",
+    "descricao": "Realizar capacitações anuais",
+    "inicio_previsto": "2026-01-07",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": null,
+    "esforco": 34.0,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "vulnerabilidade_legal"
+      ]
+    }
+  },
+  {
+    "id": "IN-DJU-07",
+    "id_oe": "OE 2.2",
+    "pilar": "Inovação e Modernização Institucional",
+    "id_kr_institucional": null,
+    "id_kr_gerencial": "KR-DJU-03",
+    "diretoria": "DJU",
+    "nome": "Programa de Capacitação em Matéria jurídica para a equipe da Coordenadoria de Consultoria",
+    "descricao": "Realizar capacitações anuais",
+    "inicio_previsto": "2026-08-01",
+    "termino_previsto": "2031-12-31",
+    "valor_publico": null,
+    "esforco": 34.0,
+    "indice_prioridade": null,
+    "quadrante": null,
+    "status_iniciativa": "Sem apuração",
+    "projeto_estrategico": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "vulnerabilidade_legal"
+      ]
+    }
+  }
+]

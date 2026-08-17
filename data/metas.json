@@ -1,0 +1,5882 @@
+[
+  {
+    "id_kr": "KR-DAF-01",
+    "ano": 2026,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-01",
+    "ano": 2027,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-01",
+    "ano": 2028,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-01",
+    "ano": 2029,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-01",
+    "ano": 2030,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-01",
+    "ano": 2031,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-02",
+    "ano": 2026,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-02",
+    "ano": 2027,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-02",
+    "ano": 2028,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-02",
+    "ano": 2029,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-02",
+    "ano": 2030,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-02",
+    "ano": 2031,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-03",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-03",
+    "ano": 2027,
+    "meta": 9.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-03",
+    "ano": 2028,
+    "meta": 18.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-03",
+    "ano": 2029,
+    "meta": 29.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-03",
+    "ano": 2030,
+    "meta": 42.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-03",
+    "ano": 2031,
+    "meta": 58.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-04",
+    "ano": 2026,
+    "meta": 3.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-04",
+    "ano": 2027,
+    "meta": 9.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-04",
+    "ano": 2028,
+    "meta": 13.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-04",
+    "ano": 2029,
+    "meta": 18.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-04",
+    "ano": 2030,
+    "meta": 24.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-04",
+    "ano": 2031,
+    "meta": 30.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-05",
+    "ano": 2026,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-05",
+    "ano": 2027,
+    "meta": 14.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-05",
+    "ano": 2028,
+    "meta": 24.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-05",
+    "ano": 2029,
+    "meta": 34.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-05",
+    "ano": 2030,
+    "meta": 44.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-05",
+    "ano": 2031,
+    "meta": 54.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-06",
+    "ano": 2026,
+    "meta": 18.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-06",
+    "ano": 2027,
+    "meta": 42.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-06",
+    "ano": 2028,
+    "meta": 48.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-06",
+    "ano": 2029,
+    "meta": 54.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-06",
+    "ano": 2030,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-06",
+    "ano": 2031,
+    "meta": 66.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-07",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-07",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-07",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-07",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-07",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-07",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-08",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-08",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-08",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-08",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-08",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-08",
+    "ano": 2031,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-09",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-09",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-09",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-09",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-09",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-09",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-10",
+    "ano": 2026,
+    "meta": 300.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-10",
+    "ano": 2027,
+    "meta": 950.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-10",
+    "ano": 2028,
+    "meta": 1300.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-10",
+    "ano": 2029,
+    "meta": 1800.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-10",
+    "ano": 2030,
+    "meta": 2100.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-10",
+    "ano": 2031,
+    "meta": 2500.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-11",
+    "ano": 2026,
+    "meta": 8.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-11",
+    "ano": 2027,
+    "meta": 38.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-11",
+    "ano": 2028,
+    "meta": 68.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-11",
+    "ano": 2029,
+    "meta": 103.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-11",
+    "ano": 2030,
+    "meta": 143.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-11",
+    "ano": 2031,
+    "meta": 188.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-12",
+    "ano": 2026,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-12",
+    "ano": 2027,
+    "meta": 16.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-12",
+    "ano": 2028,
+    "meta": 30.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-12",
+    "ano": 2029,
+    "meta": 46.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-12",
+    "ano": 2030,
+    "meta": 64.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-12",
+    "ano": 2031,
+    "meta": 84.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-13",
+    "ano": 2026,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-13",
+    "ano": 2027,
+    "meta": 14.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-13",
+    "ano": 2028,
+    "meta": 25.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-13",
+    "ano": 2029,
+    "meta": 38.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-13",
+    "ano": 2030,
+    "meta": 52.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-13",
+    "ano": 2031,
+    "meta": 68.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-14",
+    "ano": 2026,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-14",
+    "ano": 2027,
+    "meta": 28.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-14",
+    "ano": 2028,
+    "meta": 32.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-14",
+    "ano": 2029,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-14",
+    "ano": 2030,
+    "meta": 40.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-14",
+    "ano": 2031,
+    "meta": 44.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-15",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-15",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-15",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-15",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-15",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-15",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-16",
+    "ano": 2026,
+    "meta": 30.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-16",
+    "ano": 2027,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-16",
+    "ano": 2028,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-16",
+    "ano": 2029,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-16",
+    "ano": 2030,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-16",
+    "ano": 2031,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-17",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-17",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-17",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-17",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-17",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-17",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-18",
+    "ano": 2026,
+    "meta": 760.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-18",
+    "ano": 2027,
+    "meta": 720.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-18",
+    "ano": 2028,
+    "meta": 680.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-18",
+    "ano": 2029,
+    "meta": 640.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-18",
+    "ano": 2030,
+    "meta": 600.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-18",
+    "ano": 2031,
+    "meta": 560.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-19",
+    "ano": 2026,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-19",
+    "ano": 2027,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-19",
+    "ano": 2028,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-19",
+    "ano": 2029,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-19",
+    "ano": 2030,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-19",
+    "ano": 2031,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-20",
+    "ano": 2026,
+    "meta": 0.97,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-20",
+    "ano": 2027,
+    "meta": 0.99,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-20",
+    "ano": 2028,
+    "meta": 0.99,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-20",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-20",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-20",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-21",
+    "ano": 2026,
+    "meta": 9.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-21",
+    "ano": 2027,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-21",
+    "ano": 2028,
+    "meta": 6.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-21",
+    "ano": 2029,
+    "meta": 6.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-21",
+    "ano": 2030,
+    "meta": 6.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-21",
+    "ano": 2031,
+    "meta": 6.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-22",
+    "ano": 2026,
+    "meta": 0.3,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-22",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-22",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-22",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-22",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-22",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-23",
+    "ano": 2026,
+    "meta": 0.1,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-23",
+    "ano": 2027,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-23",
+    "ano": 2028,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-23",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-23",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-23",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-24",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-24",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-24",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-24",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-24",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-24",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-25",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-25",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-25",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-25",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-25",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-25",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-26",
+    "ano": 2026,
+    "meta": 0.2,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-26",
+    "ano": 2027,
+    "meta": 0.6,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-26",
+    "ano": 2028,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-26",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-26",
+    "ano": 2030,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-26",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-27",
+    "ano": 2026,
+    "meta": 0.2,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-27",
+    "ano": 2027,
+    "meta": 0.45,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-27",
+    "ano": 2028,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-27",
+    "ano": 2029,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-27",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-27",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-28",
+    "ano": 2026,
+    "meta": 0.285714285714286,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-28",
+    "ano": 2027,
+    "meta": 0.571428571428571,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-28",
+    "ano": 2028,
+    "meta": 0.714285714285714,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-28",
+    "ano": 2029,
+    "meta": 0.857142857142857,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-28",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-28",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-29",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-29",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-29",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-29",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-29",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-29",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-30",
+    "ano": 2026,
+    "meta": 3.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-30",
+    "ano": 2027,
+    "meta": 4.5,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-30",
+    "ano": 2028,
+    "meta": 4.5,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-30",
+    "ano": 2029,
+    "meta": 4.5,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-30",
+    "ano": 2030,
+    "meta": 4.5,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-30",
+    "ano": 2031,
+    "meta": 4.5,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-31",
+    "ano": 2026,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-31",
+    "ano": 2027,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-31",
+    "ano": 2028,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-31",
+    "ano": 2029,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-31",
+    "ano": 2030,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-31",
+    "ano": 2031,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-32",
+    "ano": 2026,
+    "meta": 0.05,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-32",
+    "ano": 2027,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-32",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-32",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-32",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-32",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-33",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-33",
+    "ano": 2027,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-33",
+    "ano": 2028,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-33",
+    "ano": 2029,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-33",
+    "ano": 2030,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-33",
+    "ano": 2031,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-34",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-34",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-34",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-34",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-34",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-34",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-35",
+    "ano": 2026,
+    "meta": 0.52,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-35",
+    "ano": 2027,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-35",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-35",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-35",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-35",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-36",
+    "ano": 2026,
+    "meta": 0.2,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-36",
+    "ano": 2027,
+    "meta": 0.45,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-36",
+    "ano": 2028,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-36",
+    "ano": 2029,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-36",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-36",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-37",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-37",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-37",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-37",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-37",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-37",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-38",
+    "ano": 2026,
+    "meta": 0.4,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-38",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-38",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-38",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-38",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-38",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-39",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-39",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-39",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-39",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-39",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-39",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-40",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-40",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-40",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-40",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-40",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-40",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-41",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-41",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-41",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-41",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-41",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-41",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-42",
+    "ano": 2026,
+    "meta": 0.25,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-42",
+    "ano": 2027,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-42",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-42",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-42",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-42",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-43",
+    "ano": 2026,
+    "meta": 200.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-43",
+    "ano": 2027,
+    "meta": 180.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-43",
+    "ano": 2028,
+    "meta": 180.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-43",
+    "ano": 2029,
+    "meta": 180.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-43",
+    "ano": 2030,
+    "meta": 180.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-43",
+    "ano": 2031,
+    "meta": 180.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-44",
+    "ano": 2026,
+    "meta": 0.6,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-44",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-44",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-44",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-44",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-44",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-45",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-45",
+    "ano": 2027,
+    "meta": 0.27,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-45",
+    "ano": 2028,
+    "meta": 0.55,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-45",
+    "ano": 2029,
+    "meta": 0.86,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-45",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-45",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-46",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-46",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-46",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-46",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-46",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-46",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DAF-47",
+    "ano": 2026,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DAF-47",
+    "ano": 2027,
+    "meta": 0.45,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DAF-47",
+    "ano": 2028,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DAF-47",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DAF-47",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DAF-47",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-01",
+    "ano": 2026,
+    "meta": 0.04,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-01",
+    "ano": 2027,
+    "meta": 0.25,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-01",
+    "ano": 2028,
+    "meta": 0.45,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-01",
+    "ano": 2029,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-01",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-01",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-02",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-02",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-02",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-02",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-02",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-02",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-03",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-03",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T2"
+  },
+  {
+    "id_kr": "KR-DIN-03",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-03",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-03",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-03",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-04",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-04",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-04",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-04",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-04",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-04",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-05",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-05",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-05",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-05",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-05",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-05",
+    "ano": 2031,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-06",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-06",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-06",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-06",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-06",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-06",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-07",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-07",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T2"
+  },
+  {
+    "id_kr": "KR-DIN-07",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-07",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-07",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-07",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-08",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-08",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-08",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-08",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-08",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-08",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-09",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-09",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-09",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-09",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-09",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-09",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-10",
+    "ano": 2026,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-10",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-10",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-10",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-10",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-10",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-11",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-11",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-11",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-11",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-11",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-11",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DIN-12",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DIN-12",
+    "ano": 2027,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DIN-12",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DIN-12",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DIN-12",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DIN-12",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-01",
+    "ano": 2026,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-01",
+    "ano": 2027,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-01",
+    "ano": 2028,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-01",
+    "ano": 2029,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-01",
+    "ano": 2030,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-01",
+    "ano": 2031,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-02",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-02",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-02",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-02",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-02",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-02",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-03",
+    "ano": 2026,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-03",
+    "ano": 2027,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-03",
+    "ano": 2028,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-03",
+    "ano": 2029,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-03",
+    "ano": 2030,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-03",
+    "ano": 2031,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-04",
+    "ano": 2026,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-04",
+    "ano": 2027,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-04",
+    "ano": 2028,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-04",
+    "ano": 2029,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-04",
+    "ano": 2030,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-04",
+    "ano": 2031,
+    "meta": 20.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-05",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-05",
+    "ano": 2027,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-05",
+    "ano": 2028,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-05",
+    "ano": 2029,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-05",
+    "ano": 2030,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-05",
+    "ano": 2031,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-06",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-06",
+    "ano": 2027,
+    "meta": 3.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-06",
+    "ano": 2028,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-06",
+    "ano": 2029,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-06",
+    "ano": 2030,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-06",
+    "ano": 2031,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-07",
+    "ano": 2026,
+    "meta": 17.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-07",
+    "ano": 2027,
+    "meta": 14.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-07",
+    "ano": 2028,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-07",
+    "ano": 2029,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-07",
+    "ano": 2030,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-07",
+    "ano": 2031,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-08",
+    "ano": 2026,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-08",
+    "ano": 2027,
+    "meta": 10.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-08",
+    "ano": 2028,
+    "meta": 8.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-08",
+    "ano": 2029,
+    "meta": 8.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-08",
+    "ano": 2030,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-08",
+    "ano": 2031,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-09",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-09",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-09",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-09",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-09",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-09",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-10",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-10",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-10",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-10",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-10",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-10",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-11",
+    "ano": 2026,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-11",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-11",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-11",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-11",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-11",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DJU-12",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DJU-12",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DJU-12",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DJU-12",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DJU-12",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DJU-12",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-01",
+    "ano": 2026,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-01",
+    "ano": 2027,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-01",
+    "ano": 2028,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-01",
+    "ano": 2029,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-01",
+    "ano": 2030,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-01",
+    "ano": 2031,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-02",
+    "ano": 2026,
+    "meta": 1000.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-02",
+    "ano": 2027,
+    "meta": 1500.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-02",
+    "ano": 2028,
+    "meta": 6895.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-02",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-02",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-02",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-03",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-03",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-03",
+    "ano": 2028,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-03",
+    "ano": 2029,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-03",
+    "ano": 2030,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-03",
+    "ano": 2031,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-04",
+    "ano": 2026,
+    "meta": 235.62,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-04",
+    "ano": 2027,
+    "meta": 20.790000000000003,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-04",
+    "ano": 2028,
+    "meta": 43.89,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-04",
+    "ano": 2029,
+    "meta": 62.37,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-04",
+    "ano": 2030,
+    "meta": 73.92,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-04",
+    "ano": 2031,
+    "meta": 85.47,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-05",
+    "ano": 2026,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-05",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-05",
+    "ano": 2028,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-05",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-05",
+    "ano": 2030,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-05",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-06",
+    "ano": 2026,
+    "meta": 0.6,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-06",
+    "ano": 2027,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-06",
+    "ano": 2028,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-06",
+    "ano": 2029,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-06",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-06",
+    "ano": 2031,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-07",
+    "ano": 2026,
+    "meta": 21400.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-07",
+    "ano": 2027,
+    "meta": 20200.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-07",
+    "ano": 2028,
+    "meta": 19000.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-07",
+    "ano": 2029,
+    "meta": 17800.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-07",
+    "ano": 2030,
+    "meta": 16600.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-07",
+    "ano": 2031,
+    "meta": 15400.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-08",
+    "ano": 2026,
+    "meta": 0.25,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-08",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-08",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-08",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-08",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-08",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-09",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-09",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-09",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-09",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-09",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-09",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-10",
+    "ano": 2026,
+    "meta": 0.0909090909090909,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-10",
+    "ano": 2027,
+    "meta": 0.909090909090909,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-10",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-10",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-10",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-10",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-11",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-11",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T2"
+  },
+  {
+    "id_kr": "KR-DSE-11",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-11",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-11",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-11",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-DSE-12",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-DSE-12",
+    "ano": 2027,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-DSE-12",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-DSE-12",
+    "ano": 2029,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-DSE-12",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-DSE-12",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-01",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-01",
+    "ano": 2027,
+    "meta": 0.55,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-01",
+    "ano": 2028,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-01",
+    "ano": 2029,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-01",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-01",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-02",
+    "ano": 2026,
+    "meta": 1348651.796,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-02",
+    "ano": 2027,
+    "meta": 4045955.3880000003,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-02",
+    "ano": 2028,
+    "meta": 6068933.082,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-02",
+    "ano": 2029,
+    "meta": 9440562.572,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-02",
+    "ano": 2030,
+    "meta": 11463540.266,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-02",
+    "ano": 2031,
+    "meta": 12812192.062,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-03",
+    "ano": 2026,
+    "meta": 0.1,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-03",
+    "ano": 2027,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-03",
+    "ano": 2028,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-03",
+    "ano": 2029,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-03",
+    "ano": 2030,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-03",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-04",
+    "ano": 2026,
+    "meta": 12.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-04",
+    "ano": 2027,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-04",
+    "ano": 2028,
+    "meta": 70.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-04",
+    "ano": 2029,
+    "meta": 80.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-04",
+    "ano": 2030,
+    "meta": 90.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-04",
+    "ano": 2031,
+    "meta": 100.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-05",
+    "ano": 2026,
+    "meta": 107.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-05",
+    "ano": 2027,
+    "meta": 115.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-05",
+    "ano": 2028,
+    "meta": 119.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-05",
+    "ano": 2029,
+    "meta": 124.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-05",
+    "ano": 2030,
+    "meta": 127.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-05",
+    "ano": 2031,
+    "meta": 130.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-06",
+    "ano": 2026,
+    "meta": 0.3,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-06",
+    "ano": 2027,
+    "meta": 0.6,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-06",
+    "ano": 2028,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-06",
+    "ano": 2029,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-06",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-06",
+    "ano": 2031,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-07",
+    "ano": 2026,
+    "meta": 0.25,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-07",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-07",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-07",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-07",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-07",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-08",
+    "ano": 2026,
+    "meta": 14.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-08",
+    "ano": 2027,
+    "meta": 59.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-08",
+    "ano": 2028,
+    "meta": 100.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-08",
+    "ano": 2029,
+    "meta": 141.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-08",
+    "ano": 2030,
+    "meta": 182.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-08",
+    "ano": 2031,
+    "meta": 225.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-09",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-09",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-09",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-09",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-09",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-09",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-10",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-10",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-10",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-10",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-10",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-10",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-11",
+    "ano": 2026,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-11",
+    "ano": 2027,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-11",
+    "ano": 2028,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-11",
+    "ano": 2029,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-11",
+    "ano": 2030,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-11",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-12",
+    "ano": 2026,
+    "meta": 0.09375,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-12",
+    "ano": 2027,
+    "meta": 0.03125,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-12",
+    "ano": 2028,
+    "meta": 0.03125,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-12",
+    "ano": 2029,
+    "meta": 0.03125,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-12",
+    "ano": 2030,
+    "meta": 0.03125,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-12",
+    "ano": 2031,
+    "meta": 0.03125,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-13",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-13",
+    "ano": 2027,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-13",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-13",
+    "ano": 2029,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-13",
+    "ano": 2030,
+    "meta": 0.95,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-13",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-14",
+    "ano": 2026,
+    "meta": 3.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-14",
+    "ano": 2027,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-14",
+    "ano": 2028,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-14",
+    "ano": 2029,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-14",
+    "ano": 2030,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-14",
+    "ano": 2031,
+    "meta": 4.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-15",
+    "ano": 2026,
+    "meta": 18.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-15",
+    "ano": 2027,
+    "meta": 42.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-15",
+    "ano": 2028,
+    "meta": 48.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-15",
+    "ano": 2029,
+    "meta": 54.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-15",
+    "ano": 2030,
+    "meta": 60.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-15",
+    "ano": 2031,
+    "meta": 66.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-16",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-16",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-16",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-16",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-16",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-16",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-17",
+    "ano": 2026,
+    "meta": 0.73,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-17",
+    "ano": 2027,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-17",
+    "ano": 2028,
+    "meta": 0.78,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-17",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-17",
+    "ano": 2030,
+    "meta": 0.83,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-17",
+    "ano": 2031,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-18",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-18",
+    "ano": 2027,
+    "meta": 0.35,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-18",
+    "ano": 2028,
+    "meta": 0.3,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-18",
+    "ano": 2029,
+    "meta": 0.2,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-18",
+    "ano": 2030,
+    "meta": 0.1,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-18",
+    "ano": 2031,
+    "meta": 0.1,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-19",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-19",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-19",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-19",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-19",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-19",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-20",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-20",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-20",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-20",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-20",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-20",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-21",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-21",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-21",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-21",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-21",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-21",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-22",
+    "ano": 2026,
+    "meta": 0.4,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-22",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-22",
+    "ano": 2028,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-22",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-22",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-22",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-23",
+    "ano": 2026,
+    "meta": 0.1,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-23",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-23",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-23",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-23",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-23",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-24",
+    "ano": 2026,
+    "meta": 0.09,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-24",
+    "ano": 2027,
+    "meta": 0.35,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-24",
+    "ano": 2028,
+    "meta": 0.96,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-24",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-24",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-24",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-25",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-25",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-25",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-25",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-25",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-25",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-26",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-26",
+    "ano": 2027,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-26",
+    "ano": 2028,
+    "meta": 0.65,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-26",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-26",
+    "ano": 2030,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-26",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-27",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-27",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-27",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-27",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-27",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-27",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-28",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-28",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-28",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-28",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-28",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-28",
+    "ano": 2031,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-29",
+    "ano": 2026,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-29",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-29",
+    "ano": 2028,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-29",
+    "ano": 2029,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-29",
+    "ano": 2030,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-29",
+    "ano": 2031,
+    "meta": 0.85,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-30",
+    "ano": 2026,
+    "meta": 0.17,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-30",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-30",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-30",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-30",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-30",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-31",
+    "ano": 2026,
+    "meta": 6.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-31",
+    "ano": 2027,
+    "meta": 25.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-31",
+    "ano": 2028,
+    "meta": 45.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-31",
+    "ano": 2029,
+    "meta": 65.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-31",
+    "ano": 2030,
+    "meta": 75.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-31",
+    "ano": 2031,
+    "meta": 85.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-32",
+    "ano": 2026,
+    "meta": 6.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-32",
+    "ano": 2027,
+    "meta": 14.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-32",
+    "ano": 2028,
+    "meta": 22.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-32",
+    "ano": 2029,
+    "meta": 30.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-32",
+    "ano": 2030,
+    "meta": 38.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-32",
+    "ano": 2031,
+    "meta": 46.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-33",
+    "ano": 2026,
+    "meta": 0.15,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-33",
+    "ano": 2027,
+    "meta": 0.65,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-33",
+    "ano": 2028,
+    "meta": 0.75,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-33",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-33",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-33",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-34",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-34",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T2"
+  },
+  {
+    "id_kr": "KR-INS-34",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-34",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-34",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-34",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-INS-35",
+    "ano": 2026,
+    "meta": 0.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-INS-35",
+    "ano": 2027,
+    "meta": 0.3,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-INS-35",
+    "ano": 2028,
+    "meta": 0.6,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-INS-35",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-INS-35",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-INS-35",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-01",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-01",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-01",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-01",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-01",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-01",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-02",
+    "ano": 2026,
+    "meta": 0.65,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-02",
+    "ano": 2027,
+    "meta": 0.6,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-02",
+    "ano": 2028,
+    "meta": 0.55,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-02",
+    "ano": 2029,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-02",
+    "ano": 2030,
+    "meta": 0.5,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-02",
+    "ano": 2031,
+    "meta": 0.4,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-03",
+    "ano": 2026,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-03",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-03",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-03",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-03",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-03",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-04",
+    "ano": 2026,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-04",
+    "ano": 2027,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-04",
+    "ano": 2028,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-04",
+    "ano": 2029,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-04",
+    "ano": 2030,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-04",
+    "ano": 2031,
+    "meta": 36.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-05",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-05",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-05",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-05",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-05",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-05",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-06",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-06",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-06",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-06",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-06",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-06",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-07",
+    "ano": 2026,
+    "meta": 50000.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-07",
+    "ano": 2027,
+    "meta": 300000.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-07",
+    "ano": 2028,
+    "meta": 500000.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-07",
+    "ano": 2029,
+    "meta": 1000000.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-07",
+    "ano": 2030,
+    "meta": 1700000.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-07",
+    "ano": 2031,
+    "meta": 3000000.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-08",
+    "ano": 2026,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-08",
+    "ano": 2027,
+    "meta": 0.9,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-08",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-08",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-08",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-08",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-09",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-09",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-09",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-09",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-09",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-09",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-10",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-10",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-10",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-10",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-10",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-10",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-11",
+    "ano": 2026,
+    "meta": 0.1,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-11",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-11",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-11",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-11",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-11",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-12",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-12",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-12",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-12",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-12",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-12",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-13",
+    "ano": 2026,
+    "meta": 0.3,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-13",
+    "ano": 2027,
+    "meta": 0.7,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-13",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-13",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-13",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-13",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-14",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-14",
+    "ano": 2027,
+    "meta": 3.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-14",
+    "ano": 2028,
+    "meta": 5.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-14",
+    "ano": 2029,
+    "meta": 7.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-14",
+    "ano": 2030,
+    "meta": 9.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-14",
+    "ano": 2031,
+    "meta": 11.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-15",
+    "ano": 2026,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-15",
+    "ano": 2027,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-15",
+    "ano": 2028,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-15",
+    "ano": 2029,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-15",
+    "ano": 2030,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-15",
+    "ano": 2031,
+    "meta": 0.8,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-16",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-16",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-16",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-16",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-16",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-16",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-17",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-17",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-17",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-17",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-17",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-17",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-18",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-18",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-18",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-18",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-18",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-18",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-19",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B5"
+  },
+  {
+    "id_kr": "KR-PRE-19",
+    "ano": 2027,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-19",
+    "ano": 2028,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-19",
+    "ano": 2029,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-19",
+    "ano": 2030,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-19",
+    "ano": 2031,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-20",
+    "ano": 2026,
+    "meta": null,
+    "status_meta": null,
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-20",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-20",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-20",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-20",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-20",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-21",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-21",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-21",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-21",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-21",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-21",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  },
+  {
+    "id_kr": "KR-PRE-22",
+    "ano": 2026,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2026-B6"
+  },
+  {
+    "id_kr": "KR-PRE-22",
+    "ano": 2027,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2027-T4"
+  },
+  {
+    "id_kr": "KR-PRE-22",
+    "ano": 2028,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2028"
+  },
+  {
+    "id_kr": "KR-PRE-22",
+    "ano": 2029,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2029"
+  },
+  {
+    "id_kr": "KR-PRE-22",
+    "ano": 2030,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2030"
+  },
+  {
+    "id_kr": "KR-PRE-22",
+    "ano": 2031,
+    "meta": 1.0,
+    "status_meta": "Definida",
+    "origem": "2031"
+  }
+]

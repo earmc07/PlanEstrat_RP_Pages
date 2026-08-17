@@ -1,0 +1,2980 @@
+[
+  {
+    "id": "KR-DAF-01",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Reduzir o volume de receitas não identificadas do exercício corrente para 15% ou menos até 2026.",
+    "justificativa": "A identificação tempestiva das receitas reduz valores pendentes de classificação, melhora a confiabilidade dos registros contábeis e fortalece a gestão financeira do RPPS.",
+    "indicador": "Percentual de receitas identificadas",
+    "fonte_dados": "Extratos bancários, SIAFE e controles da COOAR",
+    "formula_calculo": "(Valor das receitas identificadas / Valor total das receitas recebidas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Decrescente",
+    "linha_base": 0.6,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-02",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Reduzir o percentual de conciliações financeiras não concluídas do exercício corrente para 15% ou menos até 2026",
+    "justificativa": "A conciliação financeira reduz inconsistências, fortalece os controles internos e melhora a confiabilidade dos registros financeiros e previdenciários — um resultado de controle institucional, não apenas de eficiência da COOAR. A COOAR controla diretamente a execução das conciliações.",
+    "indicador": "Percentual de conciliações financeiras concluídas",
+    "fonte_dados": "Extratos bancários, SIAFE e controles da COOAR",
+    "formula_calculo": "(Quantidade de conciliações realizadas / quantidade de conciliações previstas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Decrescente",
+    "linha_base": 0.6,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-03",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Realizar pelo menos 58 ações de preparação para a aposentadoria, educação previdenciária e envelhecimento saudável até 2031.",
+    "justificativa": "Apoiar os segurados na transição para a aposentadoria e promover envelhecimento ativo e qualidade de vida em parceria com a Escola Previdenciária.",
+    "indicador": "Número de ações realizadas no âmbito do Programa de Preparação para a Aposentadoria e educação previdenciária.",
+    "fonte_dados": "Relatórios do Centro Cultural e da Escola Previdenciária, processos SEI e registros administrativos.",
+    "formula_calculo": "Quantidade de ações realizadas no período.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-04",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Firmar pelo menos 30 Acordo de Cooperação Técnica para parcerias culturais até 2031",
+    "justificativa": "Potencializar recursos, ampliar a oferta de serviços e fortalecer a atuação em rede do Rioprevidência.",
+    "indicador": "Número de parcerias formalizadas e número de ações realizadas em cooperação.",
+    "fonte_dados": "Acordos de cooperação, processos SEI e relatórios de execução.",
+    "formula_calculo": "Quantidade de parcerias formalizadas. Evidenciar com o ACT.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-05",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Realizar pelo menos 54 ações  de preservação e difusão da memória institucional até 2031.",
+    "justificativa": "Valorizar a trajetória do Rioprevidência e preservar seu patrimônio histórico, documental e cultural.",
+    "indicador": "Número de ações de preservação e difusão da memória institucional realizadas por ano.",
+    "fonte_dados": "Centro de Documentação, Informação e Memória, inventário patrimonial, processos SEI e relatórios da área.",
+    "formula_calculo": "Quantidade de ações realizadas no período.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-06",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Realizar no mínimo 66 capacitações internas, voltadas a servidores, dirigentes, conselheiros e membros de comitês até 2031",
+    "justificativa": "Atender as ações de capacitação em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária, em temas previdenciários, administrativos, atuariais, financeiros, jurídicos e de governança.",
+    "indicador": "Capacitações internas realizadas",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Capacitações realizadas no períodp",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-07",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Capacitar servidores conforme inscrição, com crescimento de +5% (2026) e +20% (a partir de 2027) em relação à linha de base.",
+    "justificativa": "Atender as ações de capacitação em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária.",
+    "indicador": "Servidores capacitados",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Somatória do número total de servidores capacitados no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DAF-08",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Garantir que pelo menos 80% das avaliações dos participantes nas ações de capacitação e diálogo da Escola de Educação Previdenciária (EPP) tenham nota igual ou superior a 8.",
+    "justificativa": "Controle de qualidade das ações da EEP, em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária.",
+    "indicador": "Satisfação dos participantes",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Percentual de respostas com nota igual ou acima de 8 (escala de 0 a 10) ÷ total de respostas × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Manter",
+    "linha_base": 0.8,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-09",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.3",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Revisar, padronizar e publicar 100% dos manuais e fluxos de licitação e contratos da Comissão de Contratação até 2027.",
+    "justificativa": "A publicação de manuais e fluxos padronizados reduz falhas de planejamento e instrução processual que contribuem para licitações desertas ou fracassadas, apoiando a redução desse percentual no nível institucional.",
+    "indicador": "Percentual de manuais e fluxos de licitação revisados e publicados",
+    "fonte_dados": "CPL",
+    "formula_calculo": "Manuais publicados / total de manuais previstos",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-10",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Alcançar 2.500 participações de servidores, aposentados e pensionistas em ações culturais, educativas e de promoção do bem-estar até 2031.",
+    "justificativa": "Fortalecer o relacionamento do Rioprevidência com seus públicos por meio da ampliação do acesso à cultura, educação e qualidade de vida. Mede o alcance agregado dos programas temáticos do Centro Cultural (cultura/educação, saúde/qualidade de vida, integração, preparação para aposentadoria e memória institucional).",
+    "indicador": "Número anual de participações nas ações promovidas pelo RP Cultural",
+    "fonte_dados": "Relatórios da Coordenação do Centro Cultural, listas de presença, processos SEI e planilhas de monitoramento",
+    "formula_calculo": "Soma do número de participações registradas nas ações realizadas no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-11",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Realizar pelo menos 188 ações culturais, educativas e artísticas por ano até 2031.",
+    "justificativa": "Democratizar o acesso à cultura, promover o desenvolvimento humano e ampliar a oferta de ações presenciais e digitais voltadas aos servidores, aposentados e pensionistas.",
+    "indicador": "Número de ações culturais, educativas e artísticas realizadas por ano.",
+    "fonte_dados": "Relatórios da Coordenação do Centro Cultural, processos SEI e planilhas de monitoramento.",
+    "formula_calculo": "Quantidade de ações culturais, educativas e artísticas realizadas no período.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 32.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-12",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Realizar pelo menos 84 ações de promoção da saúde, esporte, envelhecimento ativo e qualidade de vida até 2031.",
+    "justificativa": "Contribuir para a melhoria da qualidade de vida e incentivar hábitos saudáveis entre servidores, aposentados e pensionistas.",
+    "indicador": "Número de ações de saúde, esporte e qualidade de vida realizadas por ano.",
+    "fonte_dados": "Centro Cultural, listas de presença e processos SEI.",
+    "formula_calculo": "Quantidade de ações de promoção da saúde e qualidade de vida realizadas no período.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-13",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Realizar pelo menos 68 ações  de integração, valorização e pertencimento da comunidade previdenciária até 2031.",
+    "justificativa": "Fortalecer o sentimento de pertencimento e promover a integração entre servidores, aposentados, pensionistas e familiares.",
+    "indicador": "Número de ações de integração e valorização realizadas por ano.",
+    "fonte_dados": "Calendário institucional, relatórios de eventos, pesquisas de satisfação, registros administrativos e processos SEI.",
+    "formula_calculo": "Quantidade de ações realizadas no período.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-14",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Publicar no mínimo 44 cartilhas ou informativos até 2031.",
+    "justificativa": "Orientar segurados e sociedade por meio de materiais informativos, em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária.",
+    "indicador": "Cartilhas ou informativos publicados",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Somatória do número total de cartilhas ou informativos publicados no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DAF-15",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Ampliar a participação de segurados nas ações de diálogo, conforme inscrição, com crescimento de +5% (2026) e +10% (a partir de 2027) em relação à linha de base.",
+    "justificativa": "Orientar segurados ativos, aposentados, pensionistas e dependentes, em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária.",
+    "indicador": "Segurados participantes",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Somatória do número total de segurados participantes no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DAF-16",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Reduzir o prazo de pagamento do encerramento de folha de 45 para 7 dias úteis até 2027.",
+    "justificativa": "O atraso no pagamento do encerramento de folha gera reclamações dos beneficiários e afeta diretamente quem depende desse pagamento (pensionistas, dependentes, sucessores) — um resultado de atendimento direto ao público, que extravasa a governabilidade interna da COOED. A COOED controla diretamente o prazo de processamento, uma vez recebido o processo com as informações corretas.",
+    "indicador": "Tempo de pagamento",
+    "fonte_dados": "SEI e SIAFE-Rio",
+    "formula_calculo": "Diferença entre a data de geração da ordem bancária e a data de recebimento do processo com as informações e procedimentos corretos para pagamento",
+    "unidade_medida": "Dias úteis",
+    "direcao_meta": "Decrescente",
+    "linha_base": 45.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-17",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Aperfeiçoar e manter 100% das Notas Explicativas das Demonstrações Contábeis com base nas melhores práticas e normas de controle a partir de dezembro de 2026.",
+    "justificativa": "Este KR é vital porque eleva a qualidade informacional das demonstrações contábeis, garantindo maior clareza, transparência e aderência às normas técnicas de contabilidade pública. A revisão analítica das notas explicativas mitiga lacunas de informação, fornecendo o suporte necessário para a tomada de decisões da gestão e dos segurados. Além disso, blinda a autarquia contra riscos de interpretações equívocas, assegurando plena conformidade técnica perante as auditorias e as exigências do Tribunal de Contas (TCE-RJ)",
+    "indicador": "Aperfeiçoamento das Notas Explicativas em 31/12/2026",
+    "fonte_dados": "DIRAF/Assessoria",
+    "formula_calculo": "Contagem absoluta de notas explicativas revisadas e formalmente publicadas, no total de 4 previstas",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-18",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Reduzir em 30% o número de documentos necessários para pagamento da folha de benefícios do Plano Financeiro até 2031.",
+    "justificativa": "A redução da quantidade de documentos representa diretamente o ganho de eficiência operacional, simplificação dos processos, redução do retrabalho e maior facilidade de conferência pelos setores envolvidos. Será feito pela consolidação das informações por fonte de recurso e credor, tornando o processo mais eficiente e transparente.",
+    "indicador": "Quantidade de documentos emitidos para processamento da folha de pagamento.",
+    "fonte_dados": "Por meio de relatórios internos do SIAFE.",
+    "formula_calculo": "Contagem do número de documentos usados",
+    "unidade_medida": "Documentos",
+    "direcao_meta": "Decrescente",
+    "linha_base": 800.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-19",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Elaborar e manter atualizados 10 Procedimentos Operacionais Padrão (POPs) dos processos críticos da ASSPLAN até 2031.",
+    "justificativa": "A padronização dos processos  permite medir objetivamente os ganhos obtidos, identificar oportunidades de melhoria e fortalecer a governança institucional.",
+    "indicador": "Número de Procedimentos Operacionais Padrão (POPs) entregues",
+    "fonte_dados": "Manuais aprovados em DIREX.",
+    "formula_calculo": "Contagem cumulativa de POPs entregues e aprovados em DIREX",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-20",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Elevar o Índice de Processamento Correto da Folha (IPCF) das últimas 13 folhas para 100% até 2031",
+    "justificativa": "Mede diretamente a eficiência, qualidade e confiabilidade da solução implantada para a folha de pagamento de servidores ativos.",
+    "indicador": "Índice de Processamento Correto da Folha (IPCF).",
+    "fonte_dados": "Por meio de relatórios internos do SIAFE.",
+    "formula_calculo": "IPCF (%) = (Número de folhas processadas sem erro ÷ Número total de folhas processadas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 96.0,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-21",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Reduzir o tempo médio entre a abertura da DOD (Documento Oficialização da Demanda) e a assinatura do contrato de 12 para seis meses até 2028.",
+    "justificativa": "Reduz o tempo médio que um processo leva da abertura da demanda até a assinatura do contrato",
+    "indicador": "Datas de tramitação processual no SEI",
+    "fonte_dados": "SEI",
+    "formula_calculo": "Aferição de SLA (tempo de atendimento). Mensuração em meses.",
+    "unidade_medida": "Meses",
+    "direcao_meta": "Decrescente",
+    "linha_base": 12.0,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-22",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Alcançar e manter atualizado 100% de implantação do Programa de Padronização da Formalização das Contratações.",
+    "justificativa": "Construção dos instrumentos (guias rápidos, fluxogramas, checklists) que viabilizam a padronização da formalização das contratações. Meta de entrega/construção da própria Assessoria; o resultado institucional de adoção desses instrumentos pelas contratações é acompanhado no KR vinculado (ver aba 01, KR01).",
+    "indicador": "% de implantação do Programa de Padronização da Formalização das Contratações",
+    "fonte_dados": "Assessoria de Apoio às Contratações",
+    "formula_calculo": "Instrumentos previstos implantados ÷ instrumentos previstos no Programa × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-23",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Alcançar e manter 100% de implantação do Programa de Referências Técnicas para Contratações.",
+    "justificativa": "Elaboração dos referenciais técnicos por tipo de contratação. Meta de entrega/construção da própria Assessoria; o resultado institucional de adoção desses referenciais pelas contratações é acompanhado no KR vinculado (ver aba 01, KR02).",
+    "indicador": "% de implantação do Programa de Referências Técnicas para Contratações",
+    "fonte_dados": "Assessoria de Apoio às Contratações",
+    "formula_calculo": "Instrumentos previstos implantados ÷ instrumentos previstos no Programa × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-24",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Manualizar e manter atualizado 100% dos  processos críticos da Coordenadoria de Gestão Tributária a partir de dezembro de 2026.",
+    "justificativa": "Transforma o conhecimento individual em ativo institucional, mitigando riscos de continuidade ao eliminar a dependência de pessoas específicas, reduzindo a margem para erros e multas e acelerando o treinamento de novos colaboradores na COOGT.",
+    "indicador": "Número de manuais concluídos e aprovados",
+    "fonte_dados": "DIRAF/Assessoria",
+    "formula_calculo": "Manuais concluídos e aprovados ÷ manuais previstos (5) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-25",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Manualizar e manter atualizado 100% dos  processos críticos da Coordenadoria de Contabilidade a partir de dezembro de 2026.",
+    "justificativa": "Transforma o conhecimento individual em ativo institucional, mitigando riscos de continuidade ao eliminar a dependência de pessoas específicas, reduzindo a margem para erros e multas e acelerando o treinamento de novos colaboradores na COOCO.",
+    "indicador": "Número de manuais concluídos e aprovados",
+    "fonte_dados": "DIRAF/Assessoria",
+    "formula_calculo": "Manuais concluídos e aprovados ÷ manuais previstos (5) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-26",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Manualizar e manter atualizado 100% do trâmite dos processos administrativos da Coordenadoria de Administração de Pessoal (COOAPE) até 2031.",
+    "justificativa": "Promove a padronização dos procedimentos operacionais, reduz riscos de descontinuidade administrativa, preserva o conhecimento institucional e facilita a capacitação de servidores da unidade. Documentação interna de uma única área, sem efeito institucional direto que justifique status de KR.",
+    "indicador": "Percentual de atividades manualizadas",
+    "fonte_dados": "Relação de atividades mapeadas, manuais concluídos e repositório eletrônico/pasta compartilhada da COOAPE",
+    "formula_calculo": "(Número de atividades manualizadas e/ou atualizadas ÷ número total de atividades mapeadas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-27",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Manualizar e manter atualizado 100% dos processos críticos da Coordenadoria de Gestão das Folhas de Pagamento até 2031.",
+    "justificativa": "Fortalece a governança da folha de pagamento, preserva o conhecimento institucional e reduz o risco operacional decorrente da concentração de conhecimento em poucos servidores. Documentação interna de uma única área, sem efeito institucional direto que justifique status de KR.",
+    "indicador": "Percentual de atividades manualizadas",
+    "fonte_dados": "Relação de atividades mapeadas, manuais aprovados e repositório eletrônico/pasta compartilhada da COOFP",
+    "formula_calculo": "(Número de atividades manualizadas ÷ número total de atividades mapeadas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-28",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Mapear, manualizar e manter atualizado 100% dos processos críticos até 2030.",
+    "justificativa": "Reduz a dependência de conhecimento individual nas rotinas críticas da GERTE, mitigando risco de continuidade operacional e facilitando o treinamento de novos servidores.",
+    "indicador": "Processos manualizados",
+    "fonte_dados": "Intranet",
+    "formula_calculo": "(Somatório de processos mapeados / Total de de processos) x 100",
+    "unidade_medida": "quantidade",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-29",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Garantir que 100% dos processos licitatórios de contratação e renovação contratual sejam iniciados com antecedência mínima de 180 dias em relação ao término da vigência contratual ou à data prevista para início da contratação, até junho de 2027.",
+    "justificativa": "Fortalecer o planejamento das contratações e renovações contratuais, reduzindo riscos de descontinuidade dos serviços, contratações emergenciais e atrasos processuais, promovendo maior eficiência, previsibilidade e governança nas aquisições institucionais.",
+    "indicador": "Percentual de processos de contratação e renovação iniciados com antecedência mínima de 180 dias.",
+    "fonte_dados": "Processos SEI, Plano de Contratações Anual (PCA), cronogramas de contratação e controles internos da GERTIC.",
+    "formula_calculo": "Data final do contrato subtraída da data atual",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.5,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-30",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Melhorar continuamente a experiência do usuário no atendimento de TI alcançando a nota 4,5 até 2031.",
+    "justificativa": "Uma experiência de atendimento ruim gera retrabalho, reaberturas constantes de chamados e escalonamentos desnecessários, inflando o custo operacional do Service Desk. Ao melhorar continuamente a experiência (medida por fatores como resolução no primeiro contato e clareza na comunicação), reduzimos o volume de interações repetitivas e liberamos a equipe de TI para focar em iniciativas de inovação, otimizando o custo total de propriedade (TCO) dos serviços de tecnologia.",
+    "indicador": "Nota média da pesquisa de satisfação (0 a 5)",
+    "fonte_dados": "GLPI",
+    "formula_calculo": "Média simples das notas",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-31",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Garantir que 90% dos processos de pagamento da GERTIC sejam instruídos e encaminhados em até 5 dias úteis após o recebimento da nota fiscal.",
+    "justificativa": "Aprimorar a eficiência e a celeridade dos processos de pagamento dos contratos sob gestão da GERTIC, reduzindo o tempo de instrução processual, minimizando riscos de atraso nos pagamentos e fortalecendo a gestão contratual e financeira da instituição.",
+    "indicador": "Percentual de processos de pagamento instruídos e encaminhados em até 5 dias úteis após o recebimento da nota fiscal.",
+    "fonte_dados": "Processos SEI, registros de recebimento de notas fiscais, notas técnicas e Power BI da GERTIC.",
+    "formula_calculo": "(Quantidade de processos de pagamento instruídos e encaminhados em até 5 dias úteis ÷ Quantidade total de processos de pagamento recebidos no período) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.5,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-32",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Padronizar 100% dos Ambientes de Desenvolvimento até 2028.",
+    "justificativa": "Reduzir risco de invasão.\nGestão e Compartilhamento de Conhecimento.",
+    "indicador": "Quantidade de ambientes padronizados",
+    "fonte_dados": "Planilha TI",
+    "formula_calculo": "Porcentagem de ambientes padronizados / Total de ambientes",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-33",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Atender 95% das solicitações ao Arquivo de Processos Físicos em até 5 dias úteis a partir de 2027.",
+    "justificativa": "Padronizar e monitorar o prazo de atendimento das solicitações documentais, assegurando maior eficiência operacional, rastreabilidade e acesso tempestivo às informações institucionais.",
+    "indicador": "Percentual de solicitações atendidas no prazo",
+    "fonte_dados": "Sistema/protocolo",
+    "formula_calculo": "(Solicitações atendidas em até 5 dias / Total de solicitações) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-34",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Revisar tabela de temporalidade e plano de classificação do Rio Previdência até 2027.",
+    "justificativa": "Atualizar os instrumentos arquivísticos para padronizar a gestão documental, assegurar conformidade legal, facilitar a recuperação da informação e apoiar a transformação digital institucional.",
+    "indicador": "Percentual de implantação dos instrumentos",
+    "fonte_dados": "Relatórios técnicos",
+    "formula_calculo": "((Etapas concluídas / Etapas previstas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-35",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Concluir 100% do inventário arquivístico do acervo previdenciário até março de 2028",
+    "justificativa": "O inventário arquivístico atualmente em execução permitirá identificar e quantificar o acervo documental, fornecendo subsídios para a utilização estratégica do contrato vigente de digitalização e atendimento de solicitações ao arquivo",
+    "indicador": "Percentual do inventário concluído",
+    "fonte_dados": "Relatórios do contrato",
+    "formula_calculo": "(Unidades documentais inventariadas ÷ Total previstos no plano de inventário) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.28,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-36",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.4",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Manualizar e manter atualizado 100% dos normativos da Coordenadoria de Desenvolvimento até 2031.",
+    "justificativa": "Normatiza procedimentos da área de Desenvolvimento de Pessoas e Educação Corporativa, mantendo orientações atualizadas para os servidores. Documentação interna de uma única área, sem efeito institucional direto que justifique status de KR.",
+    "indicador": "Quantidade de procedimentos manualizados",
+    "fonte_dados": "Publicação na Intranet do Rioprevidência",
+    "formula_calculo": "(Número de procedimentos manualizados/atualizados ÷ número total de procedimentos previstos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-37",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.4",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Manter 100% dos ativos críticos  de TI com registro completo e atualizado em sistema de inventário da Gerência de Tecnologia até 2027.",
+    "justificativa": "Garante o controle total sobre o inventário de hardware e software, permitindo uma gestão de riscos eficiente e a resposta rápida a incidentes nos ativos que sustentam a operação da empresa",
+    "indicador": "Percentual de ativos críticos cadastrados no GLPI",
+    "fonte_dados": "GLPI",
+    "formula_calculo": "Ativos críticos inventariados / Total de ativos documentados × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.5,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-38",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DAF",
+    "descricao": "Garantir que 100% das Coordenadorias do Rioprevidência tenham suas necessidades de capacitação (lacunas de competências) mapeadas, subsidiando o Plano Setorial de Capacitação até 2027.",
+    "justificativa": "O mapeamento de lacunas de capacitação abrange todas as Coordenadorias e alimenta diretamente o Plano Setorial de Capacitação institucional — é um insumo de inteligência institucional que extravasa a governabilidade de uma única área e orienta a política de capacitação de toda a autarquia.",
+    "indicador": "Percentual de Coordenadorias com necessidades de capacitação mapeadas",
+    "fonte_dados": "Planilhas de acompanhamento",
+    "formula_calculo": "(Número de Coordenadorias com mapeamento de lacunas concluído ÷ número total de Coordenadorias) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-39",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DAF",
+    "descricao": "Capacitar 100% da equipe da Gerência de Tecnologia em temas relacionados à Contratação, Gestão e Fiscalização de Contratos até o 2º trimestre de 2027.",
+    "justificativa": "Promover o desenvolvimento contínuo dos servidores da GERTIC, assegurando que a equipe responsável pelas contratações e pela gestão contratual possua conhecimentos atualizados sobre legislação, governança e boas práticas, contribuindo para a eficiência administrativa e mitigação de riscos.",
+    "indicador": "Percentual de servidores capacitados em Contratação, Gestão e Fiscalização de Contratos.",
+    "fonte_dados": "Certificados emitidos pela EV.G/ENAP e registros internos de capacitação da GERTIC.",
+    "formula_calculo": "(Quantidade de servidores capacitados ÷ Quantidade total de servidores da equipe) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-40",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DAF",
+    "descricao": "Realizar Pesquisa de Clima Organizacional anualmente a partir de 2026",
+    "justificativa": "A pesquisa de clima organizacional é o instrumento que permite captar, de forma sistemática e comparável ano a ano, a percepção dos servidores sobre liderança, comunicação interna, condições de trabalho, reconhecimento e satisfação institucional. Sem essa medição recorrente, a gestão de pessoas do Rioprevidência fica restrita a percepções informais e pontuais, sem evidência objetiva para orientar ações de melhoria do ambiente de trabalho, retenção de talentos e prevenção de riscos psicossociais.",
+    "indicador": "Pesquisa realizada",
+    "fonte_dados": "Publicação na Intranet",
+    "formula_calculo": "Entrega binária (sim ou não)",
+    "unidade_medida": "Número",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-41",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Reduzir em 20% o tempo médio de atendimento dos chamados de infraestrutura predial",
+    "justificativa": "Chamados sem fluxo, prioridade e SLA dificultam previsibilidade, gestão de demanda e comunicação com usuários internos.",
+    "indicador": "Tempo médio de atendimento de chamados de infraestrutura",
+    "fonte_dados": "GLPI ou sistema equivalente; planilha de chamados; registros de abertura e encerramento",
+    "formula_calculo": "Σ tempo entre abertura e encerramento dos chamados concluídos no período / total de chamados concluídos no período",
+    "unidade_medida": "Dias ou horas úteis",
+    "direcao_meta": "Decrescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DAF-42",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Alcançar e manter 100% de padronização dos procedimentos da pesquisa de preços a partir de 2028.",
+    "justificativa": "Pro Gestão.  Maior eficiência. Melhoria da integridade e Conformidade",
+    "indicador": "Procedimentos da Pesquisa de Preços padronizados e validados",
+    "fonte_dados": "COOAPM",
+    "formula_calculo": "Quantidade de documentos previstos para padronização elaborados e validados/ total de documentos previstos para padronização x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-43",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Otimizar o tempo de preparação de contratos e aditivos, atingindo a marca estável de 180 dias de antecedência a partir de 2027.",
+    "justificativa": "Propiciar Gestão contratual eficaz",
+    "indicador": "Dias de tramitação",
+    "fonte_dados": "DIRAF/GERAD",
+    "formula_calculo": "Data final do contrato - Data atual",
+    "unidade_medida": "Dias",
+    "direcao_meta": "Decrescente",
+    "linha_base": 210.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-44",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Implantar 100%  dos serviços relacionados ao transporte no sistema Conecta RP a partir de 2027.",
+    "justificativa": "Migração de sistemas por decisão da Autarquia e implantação efetiva do novo",
+    "indicador": "Sistema com todas as suas funcionalidades implantados",
+    "fonte_dados": "GERAD",
+    "formula_calculo": "% implantação do sitema",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-45",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Alcançar e manter 100% dos contratos firmados de prestação de  serviços monitorados  em ambiente digital a partir de 2030.",
+    "justificativa": "Centralização de serviços em um único sistema (Central de serviçoes - GLPI)",
+    "indicador": "Contratos firmados com acompanhamento digital dos respectivos serviços",
+    "fonte_dados": "Processos SEI, planilhas de controle, COOIPA",
+    "formula_calculo": "Somatório das solicitações registradas em sistema GLPI",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-46",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Garantir o atendimento de 100% das solicitações realizadas no Conecta RP a partir de 2027.",
+    "justificativa": "Maior eficiência e transparência",
+    "indicador": "Conecta RP implantado",
+    "fonte_dados": "DIRAF/GERAD/COSERV",
+    "formula_calculo": "% serviços atendidas em relação ao solicitado",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DAF-47",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DAF",
+    "descricao": "Alcançar e manter 100% de padronização de procedimentos de contratação a partir de 2029.",
+    "justificativa": "Pro Gestão. Maior eficiência. Melhoria da integridade e Conformidade",
+    "indicador": "Procedimentos da Contratação padronizados e validados",
+    "fonte_dados": "COOAPM",
+    "formula_calculo": "Quantidade de documentos previstos para padronização elaborados e validados/ Total de sete documentos previstos para padronização x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-01",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DIN",
+    "descricao": "Concluir a avaliação patrimonial de 100% da carteira imobiliária até 2030.",
+    "justificativa": "Prepara a carteira para alienação direta ou leilão e atualiza o balanço contábil da autarquia com valores de mercado.",
+    "indicador": "Taxa de Avaliação Patrimonial Concluída",
+    "fonte_dados": "Laudos de Avaliação Homologados",
+    "formula_calculo": "(Imóveis com laudo de avaliação homologado / Total de imóveis da carteira) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 1.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-02",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DIN",
+    "descricao": "Alcançar e manter 100% de protocolos de pedido de imunidade tributária para os imóveis com regularidade registral a partir de 2026.",
+    "justificativa": "Mitiga o passivo de IPTU e prepara o imóvel para alienação ou devolução, dependendo apenas do esforço interno de protocolo.",
+    "indicador": "Taxa de Protocolos de Imunidade",
+    "fonte_dados": "Planilha de Controle / Sistema GERPI",
+    "formula_calculo": "(Imóveis com protocolo de imunidade / Imóveis com RGI regular em nome do RP) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 30.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-03",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DIN",
+    "descricao": "Revisar o formato e as diretrizes do Comitê de Investimentos, atendendo a todas as previsões legais e regulamentares aplicáveis até 2027.",
+    "justificativa": "Atendimento de recomendação formal do Ministério Público do Estado do Rio de Janeiro (MPERJ). O não atendimento expõe a instituição a risco legal e de questionamento externo sobre a governança de investimentos — um resultado que extravasa a governabilidade da própria GEROI e afeta a instituição como um todo. A GEROI controla diretamente a condução da revisão.",
+    "indicador": "Etapas concluídas do processo de revisão",
+    "fonte_dados": "SEI / Atas",
+    "formula_calculo": "(Etapas concluídas / Total de etapas previstas) X 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-04",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Publicar revisão da Portaria nº 606/2026 de credenciamento até 2026.",
+    "justificativa": "Ação gerencial para modernização da estrutura de credenciamento.",
+    "indicador": "Status de conclusão do edital (% etapas)",
+    "fonte_dados": "DOERJ / SEI",
+    "formula_calculo": "(Etapas concluídas / Total de 3 etapas) X 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-05",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Manter 80% da carteira imobiliária com vistoria física atualizada no ano corrente a partir de 2027.",
+    "justificativa": "Garante a precisão técnica, evita degradação e invasão do patrimônio e atualiza o status de ocupação.",
+    "indicador": "Índice de Vistoria Anual",
+    "fonte_dados": "Relatórios de Vistoria / Processo SEI",
+    "formula_calculo": "(Imóveis vistoriados no ano corrente / Total de imóveis da carteira) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 30.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-06",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Publicar o Edital de Credenciamento de Avaliadores de Imóveis até 2026.",
+    "justificativa": "Pré-requisito legal e operacional para ampliar a capacidade de avaliações patrimoniais da carteira.",
+    "indicador": "Edital de Credenciamento Publicado",
+    "fonte_dados": "Diário Oficial (D.O.) / Processo SEI",
+    "formula_calculo": "Etapa Concluída (Sim/Não)",
+    "unidade_medida": "Binário",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-07",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Implantar o Webservice de inscrição de nota de débito em Dívida Ativa até 2027.",
+    "justificativa": "Agiliza o procedimento de inscrição em dívida ativa, possibilitando maior eficiência na gestão de passivos imobiliários.",
+    "indicador": "Webservice de Dívida Ativa implantado",
+    "fonte_dados": "GERPI / GERTIC",
+    "formula_calculo": "Contagem absoluta de notas explicativas revisadas e formalmente publicadas, no total de 4 previstas",
+    "unidade_medida": "Binário",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-08",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Mapear e manter atualizado 100% dos manuais de procedimentos de gestão imobiliária a partir de 2026.",
+    "justificativa": "Visa a melhorar a eficiência na execução das atividades, padronizar processos e reduzir riscos operacionais.",
+    "indicador": "% de manuais atualizados",
+    "fonte_dados": "GERPI / Processo SEI",
+    "formula_calculo": "(Manuais atualizados / Total de manuais identificados) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-09",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Alcançar e manter 100% de paridade contábil entre os registros da GERPI e da GERCO.",
+    "justificativa": "Atende diretamente aos requisitos de Controles Internos e Governança do Pró-Gestão Nível IV, eliminando divergências que comprometem a integridade patrimonial.",
+    "indicador": "Índice de Paridade GERPI × GERCO",
+    "fonte_dados": "Relatórios SIAFE vs. Banco de Dados GERPI",
+    "formula_calculo": "(Imóveis conciliados contábil e fisicamente / Total de imóveis registrados) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 70.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-10",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Contratar e implantar serviço de ronda motorizada para 100% dos imóveis desocupados da carteira imobiliária, localizados nos municípios do Rio de Janeiro e Niterói até 2027.",
+    "justificativa": "A ausência de monitoramento físico periódico expõe o patrimônio do RPPS ao risco de invasão e turbação da posse, com impacto direto no valor e na alienabilidade dos imóveis. O TCE/RJ apontou reiteradamente essa vulnerabilidade em auditorias.",
+    "indicador": "% da carteira de imóveis desocupados coberta pelo serviço de ronda",
+    "fonte_dados": "Contrato de prestação de serviço / Relatórios mensais da empresa contratada / GERPI",
+    "formula_calculo": "(Imóveis desocupados cobertos pela ronda / Total de imóveis desocupados da carteira) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 25.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-11",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.4",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Manter 100% dos ativos imobiliários mapeados e com status atualizado no dashboard executivo a partir de 2026.",
+    "justificativa": "Melhoria da capacidade de monitoramento e tomada de decisão da alta gestão sobre a carteira.",
+    "indicador": "Mapeamento Executivo da Carteira",
+    "fonte_dados": "Dashboard Power BI / Sistema GERPI",
+    "formula_calculo": "(Imóveis mapeados no dashboard / Total de imóveis da carteira) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 30.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DIN-12",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DIN",
+    "descricao": "Capacitar e/ou treinar 100% os servidores da área de investimentos até 2028, seja com cursos externos ou programas internos da GEROI.",
+    "justificativa": "Ação gerencial para garantir desenvolvimento de competências técnicas da equipe.",
+    "indicador": "Nº inscritos / Total elegíveis",
+    "fonte_dados": "RH / Escola Previdenciária / Certificadoras",
+    "formula_calculo": "(Membros inscritos / Total elegíveis) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-01",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DJU",
+    "descricao": "Realizar, em temas ligados à matéria forense, no mínimo 10 horas anuais de capacitação para a Assessoria Jurídica em 2026 e no mínimo 20 horas anuais entre 2027 e 2031.",
+    "justificativa": "Atualização do conhecimento",
+    "indicador": "Carga horária",
+    "fonte_dados": "Certificados",
+    "formula_calculo": "Horas capacitadas",
+    "unidade_medida": "Horas",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-02",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DJU",
+    "descricao": "Manualizar e manter atualizado 100% dos processos críticos da Consultoria Jurídica a partir de 2026.",
+    "justificativa": "Padronização dos procedimentos internos",
+    "indicador": "Manuais publicados",
+    "fonte_dados": "Intranet",
+    "formula_calculo": "(Manuais concluídos e aprovados / Total de 5 manuais previstos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-03",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DJU",
+    "descricao": "Realizar, em temas ligados à matéria jurídica, no mínimo 10 horas anuais de capacitação para a equipe da Coordenadoria de Consultoria em 2026 e no mínimo 20 horas anuais a partir de 2027 até 2031.",
+    "justificativa": "Atualização do conhecimento",
+    "indicador": "Carga horária",
+    "fonte_dados": "Servidores Capacitados \nEvidência: Certificados",
+    "formula_calculo": "Horas capacitadas",
+    "unidade_medida": "Horas",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-04",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DJU",
+    "descricao": "Realizar no mínimo 10 horas anuais de capacitação para o gestor da Assessoria de Modernização em 2026 e no mínimo 20 horas anuais a partir de 2027 até 2031.",
+    "justificativa": "Atualização do conhecimento",
+    "indicador": "Carga horária",
+    "fonte_dados": "Certificados",
+    "formula_calculo": "Horas capacitadas",
+    "unidade_medida": "Horas",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-05",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DJU",
+    "descricao": "Capacitar, anualmente, 50% da equipe da Coordenadoria do Contencioso Jurídico em temas ligados à matéria jurídica e à modernização da gestão.",
+    "justificativa": "Atualização do conhecimento",
+    "indicador": "Equipe capacitada",
+    "fonte_dados": "Certificados",
+    "formula_calculo": "(Número de servidores capacitados / Total de servidores da Coordenadoria do Contencioso Jurídico) X 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-06",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DJU",
+    "descricao": "Publicar 60 boletins jurídicos até 2031.",
+    "justificativa": "Disseminação de conhecimento jurídico",
+    "indicador": "Boletim publicado",
+    "fonte_dados": "Intranet",
+    "formula_calculo": "Somatória do número total de boletins publicados",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-07",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Reduzir, em até dez dias úteis, o tempo médio de análise dos processos de matéria contratual até 2031, excluídos os processos de alta complexidade.",
+    "justificativa": "Maior celeridade no atendimento das demandas internas.",
+    "indicador": "Dias de tramitação",
+    "fonte_dados": "SEI",
+    "formula_calculo": "SLA de atendimento no período estabelecido",
+    "unidade_medida": "Dias úteis",
+    "direcao_meta": "Decrescente",
+    "linha_base": 20.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-08",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Reduzir, em até sete dias úteis, o tempo médio de análise dos processos de matéria previdenciária e pessoal até 2031, excluídos os processos de alta complexidade.",
+    "justificativa": "Maior celeridade no atendimento das demandas internas.",
+    "indicador": "Dias de tramitação",
+    "fonte_dados": "SEI",
+    "formula_calculo": "SLA de atendimento no período estabelecido",
+    "unidade_medida": "Dias úteis",
+    "direcao_meta": "Decrescente",
+    "linha_base": 15.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-09",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Mapear, manualizar e manter atualizado o processo de automotização de Ofício de Guias de Requisição de Pequeno Valor (RPV) a partir de 2026.",
+    "justificativa": "Padronização dos procedimentos internos",
+    "indicador": "Manuais publicados",
+    "fonte_dados": "Intranet",
+    "formula_calculo": "(Manuais publicados / Total de processos críticos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-10",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Mapear, manualizar e manter atualizado o processo de automotização de Ofício de Bloqueios a partir de 2026.",
+    "justificativa": "Padronização dos procedimentos internos",
+    "indicador": "Manuais publicados",
+    "fonte_dados": "Intranet",
+    "formula_calculo": "(Manuais publicados / Total de processos críticos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-11",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Implementar e atualizar um banco de dados de Pareceres Jurídicos a partir de junho de 2027.",
+    "justificativa": "Gestão de Conhecimento",
+    "indicador": "Banco de dados implementado",
+    "fonte_dados": "Banco de Dados",
+    "formula_calculo": "(Percentual de fases concluídas / Percentual de fases planejadas) x 100",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DJU-12",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Implementação de uma IA Agente para o desenvolvimento de pareceres jurídicos até 2027.",
+    "justificativa": "Aumentar a produtividade e qualidade dos pareceres realizados",
+    "indicador": "Percentual de implantação do sistema",
+    "fonte_dados": "SEI",
+    "formula_calculo": "(Número de módulos ou etapas do sistema concluídos e homologados / número total de módulos ou etapas previstos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-01",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Alcançar 95% de cumprimento das etapas do Plano de Trabalho Atuarial dentro dos prazos  estabelecidos até 2026.",
+    "justificativa": "O Plano de Trabalho Atuarial estrutura as atividades necessárias para a elaboração tempestiva da avaliação atuarial, do DRAA e dos estudos correlatos, contribuindo para a governança, transparência e sustentabilidade dos regimes administrados.",
+    "indicador": "Índice de cumprimento do PTA",
+    "fonte_dados": "Planilha de acompanhamento do PTA",
+    "formula_calculo": "(Número de etapas concluídas no prazo / Número total de etapas previstas para o período) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DSE-02",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Analisar 15.295 processos que estão em exigências de COMPREV até o fim de 2028",
+    "justificativa": "Aumentar o fluxo de receita, através da compensação previdenciária.",
+    "indicador": "Número cumulativo de processos de COMPREV analisados",
+    "fonte_dados": "Sistema COMPREV/DATAPREV",
+    "formula_calculo": "Soma cumulativa de processos analisados",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-03",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Analisar novas entradas de exigência de COMPREV em um prazo de até 60 dias úteis, a partir de julho de 2028",
+    "justificativa": "Aumentar o fluxo de receita, através da compensação previdenciária.",
+    "indicador": "Prazo médio de análise das novas exigências de COMPREV, em dias úteis",
+    "fonte_dados": "Sistema COMPREV/DATAPREV",
+    "formula_calculo": "(data de saída do processo) - (data de entrada do processo)",
+    "unidade_medida": "Dias úteis",
+    "direcao_meta": "Manter",
+    "linha_base": null,
+    "ano_linha_base": 2028,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DSE-04",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Regularizar o número de servidores participantes da Licença Sem vencimento (LSV)  em 20% até 2031.",
+    "justificativa": "Regularizar a situação previdenciária do servidor.",
+    "indicador": "Aumento de arrecadação",
+    "fonte_dados": "Planilha de controle GEREP",
+    "formula_calculo": "((Número de participantes do período atual − Número de participantes do período data-base) / Número de participantes do período data-base) × 100",
+    "unidade_medida": "Comparação com 2026 (2026 = 100)",
+    "direcao_meta": "Crescente",
+    "linha_base": 231.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-05",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Recensear 90% dos beneficiários de pensão e aposentadoria, mantendo a base cadastral atualizada, em cada ciclo bienal.",
+    "justificativa": "A base cadastral de beneficiários é insumo direto para o cálculo atuarial, para a folha de pagamento e para o combate a fraudes — sua atualização afeta a integridade da informação usada por toda a instituição, e não apenas pela COOAT. Atendimento às Leis Federais nº 9.717/98 e nº 10.887/04.",
+    "indicador": "Percentual de beneficiários de pensão e aposentadoria recenseados",
+    "fonte_dados": "Base de dados de beneficiários",
+    "formula_calculo": "(Total recenseado / Total de beneficiários) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-DSE-06",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.4",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Realizar a revisão de pensão de 80% dos beneficiários que possuem direito à paridade em até 90 dias após a concessão dos reajustes para os servidores ativos até 2031.",
+    "justificativa": "Garante o pagamento correto e tempestivo do benefício de pensão por morte aos beneficiários com direito à paridade. O atraso na revisão expõe a instituição a risco de pagamento a menor (com efeito retroativo) e de judicialização — um resultado que afeta diretamente os beneficiários e a reputação institucional, não apenas a eficiência interna da COOMAPE.",
+    "indicador": "Percentual de pensões com revisão por paridade realizada em até 90 dias",
+    "fonte_dados": "SIGRH",
+    "formula_calculo": "(Revisões realizadas em até 90 dias / Total de pensões elegíveis à paridade) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.3,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-07",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.4",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Reduzir 6.600 processos do passivo (de um total de 22.000 processos) de publicação e envio de atos de pensão para fins de registro no TCE até 2031.",
+    "justificativa": "Atender à deliberação nº 260 do TCE-RJ. Trata-se de obrigação de registro perante órgão de controle externo: o não cumprimento expõe a autarquia a risco de sanção e a apontamentos de auditoria que afetam a instituição como um todo, e não apenas a COOPE.",
+    "indicador": "Número de processos do passivo de atos de pensão pendentes de registro no TCE",
+    "fonte_dados": "SEI",
+    "formula_calculo": "Estoque de passivo − número de processos enviados ao TCE no período (acumulado)",
+    "unidade_medida": "Número",
+    "direcao_meta": "Decrescente",
+    "linha_base": 22000.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-08",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DSE",
+    "descricao": "Padronizar e manter atualizado 100% dos processos de concessão de aposentadoria até 2027.",
+    "justificativa": "Diminuir erros e retrabalhos nos processos de concessão de aposentadoria, por meio de ações de conscientização com RHs, elaboração de normativos internos e externos.",
+    "indicador": "Percentual de fases concluídas da frente de conscientização (cronograma definido → ações iniciadas com servidores → ações recorrentes com RHs)",
+    "fonte_dados": "Planilha de controle GERCAP/COOAP",
+    "formula_calculo": "(Fases concluídas / Total de 3 fases previstas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-09",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DSE",
+    "descricao": "Padronizar e manter atualizado 100% dos processos de Homologação de Certidão de tempo de contribuição - CTC até 2027.",
+    "justificativa": "Diminuir erros e retrabalhos",
+    "indicador": "Percentual de fases concluídas da frente de conscientização (cronograma definido → ações iniciadas com servidores → ações recorrentes com RHs)",
+    "fonte_dados": "Planilha de controle GERCAP/COOCTC",
+    "formula_calculo": "(Percentual de fases concluídas / Total de fases previstas) X 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-10",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DSE",
+    "descricao": "Ter 100% dos processos críticos internos mapeados, manualizados e atualizados até 2028.",
+    "justificativa": "Padronizar e melhorar processos institucionais internos da GERCAP.",
+    "indicador": "Percentual de manuais concluídos e atualizados da área",
+    "fonte_dados": "Planilha de controle GERCAP/COOCAP",
+    "formula_calculo": "(Número de processos manualizados / Total de 11 processos críticos mapeados) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-11",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DSE",
+    "descricao": "Publicar 1 portaria e 1 resolução conjunta para normatizar o encerramento de folha  até 2027",
+    "justificativa": "Pacificar o entendimento sobre o encerramento de folha de pensionistas e inativos, reduzindo o risco de pagamento incorreto e de judicialização.",
+    "indicador": "Número de normativos publicados (portaria + resolução conjunta)",
+    "fonte_dados": "D.O.",
+    "formula_calculo": "Contagem de normativos publicados no Diário Oficial no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-DSE-12",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DSE",
+    "descricao": "Capacitar 100% dos servidores da área atuarial em análise de dados e programação aplicada à previdência",
+    "justificativa": "Aumenta a autonomia técnica da área para tratamento de bases, geração de informações gerenciais, automação de rotinas e interlocução qualificada com áreas de tecnologia, consultorias e órgãos de controle. Trata-se de capacidade de uma única área (COOAA), sem efeito direto e mensurável sobre o resultado institucional como um todo — por isso reclassificada como Meta Gerencial, e não como KR Institucional.",
+    "indicador": "Percentual de servidores capacitados",
+    "fonte_dados": "Certificados, registros de participação e plano de capacitação da COOAA",
+    "formula_calculo": "(Servidores capacitados / servidores elegíveis) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-01",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Implantar sistema de cálculo atuarial auditável, com rastreabilidade das etapas de cálculo e saídas intermediárias até 2031",
+    "justificativa": "A constituição de sistema atuarial próprio, transparente e auditável reduz dependência operacional, facilita a validação dos resultados, permite rastreabilidade das premissas e etapas de cálculo e melhora a compreensão por atuários internos, atuários externos, gestores do RPPS e órgãos de controle.",
+    "indicador": "Percentual de implantação do sistema atuarial auditável",
+    "fonte_dados": "Plano de projeto, repositório de códigos, documentação técnica, registros de testes, homologações e relatórios de validação",
+    "formula_calculo": "(Número de módulos ou etapas do sistema concluídos e homologados / número total de módulos ou etapas previstos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-02",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Aumentar em 50% a receita de Compensação Previdenciária para Rioprevidência até 2031",
+    "justificativa": "Garantir o equilíbrio financeiro e atuarial da autarquia",
+    "indicador": "Aumento do fluxo de receitas em comparação com o data-base",
+    "fonte_dados": "Fluxo de caixa da autarquia",
+    "formula_calculo": "((Receita do período atual − Receita do período data-base) ÷ Receita do período data-base) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 13486517.96,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-03",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Parametrizar 100% das regras de aposentadorias da educação e segurança no SIGRH até 2031",
+    "justificativa": "Garantir o cumprimento de normas legais",
+    "indicador": "Regras parametrizadas e homologadas",
+    "fonte_dados": "Relatório GERCAP/COOAP",
+    "formula_calculo": "(Regras parametrizadas ÷ total de regras a serem parametrizadas x 100)",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-04",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DSE",
+    "descricao": "Aumentar o número para 100 bases utilizadas nas auditorias de conformidade dos beneficiários até 2031.",
+    "justificativa": "Fortalecer a estrutura de auditoria previdenciária do Rioprevidência por meio da ampliação das fontes de dados, aperfeiçoamento dos mecanismos de controle, desenvolvimento de cruzamentos automatizados e implementação de ações preventivas voltadas à mitigação de riscos previdenciários.",
+    "indicador": "Número de bases",
+    "fonte_dados": "Controle interno GERPE",
+    "formula_calculo": "n° de base de dados disponíveis para batimento",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 7.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-05",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DIN",
+    "descricao": "Aumentar a arrecadação anual gerada pela carteira imobiliária em pelo menos 30% em relação a 2025.",
+    "justificativa": "O aumento da arrecadação gera fluxo de caixa imediato e reverte capital para o Fundo Previdenciário, contribuindo para a sustentabilidade financeira do RPPS.",
+    "indicador": "Arrecadação Imobiliária Anual",
+    "fonte_dados": "SIAFE / Relatórios GERCO / Sistema GERPI",
+    "formula_calculo": "(Arrecadação Ano Atual / Arrecadação Ano Anterior − 1) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-06",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.1",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Aumentar e manter até  80% das manifestações do Sistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ) nível 3 no prazo legal até 2030.",
+    "justificativa": "Garantir a segurança jurídica e a conformidade da instituição com a Lei de Acesso à Informação e normas de Ouvidoria. O cumprimento rigoroso dos prazos em demandas complexas reduz o risco de sanções, otimiza a gestão de processos internos e fortalece a credibilidade e a sustentabilidade do órgão perante a sociedade e os órgãos de controle",
+    "indicador": "Prazo Legal\nPedido de Acesso à Informação: 20 dias corridos,  prorrogável por mais 10 dias corridos.\nManifestação de Ouvidoria: 30 dias corridos, prorrogável por mais 30 dias corridos.",
+    "fonte_dados": "Sistema Eletrônico de Informações (SEI-RJ);\nSistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ).",
+    "formula_calculo": "Nível 3: Manifestações que dependem de respostas técnicas externas solicitadas por meio de processo SEI.",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.125,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-07",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Concluir 100% das etapas de implantação da nova sede do Centro Cultural da Rua Marechal Floriano até 2028.",
+    "justificativa": "Consolidar infraestrutura permanente para ampliação das ações culturais, educativas, de memória institucional e de promoção do bem-estar.",
+    "indicador": "Percentual de implantação da nova sede.",
+    "fonte_dados": "Processos SEI da obra e relatórios de acompanhamento.",
+    "formula_calculo": "Número de etapas concluídas ÷ número total de etapas previstas × 100.",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-08",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DIN",
+    "descricao": "Publicar em sítio público no mínimo 225 artefatos de transparência de investimento até 2031.",
+    "justificativa": "Ação gerencial para cumprimento dos requisitos de transparência regulatória.",
+    "indicador": "Nº artefatos publicados",
+    "fonte_dados": "Portal da Transparência / CADPREV",
+    "formula_calculo": "Soma cumulativa de artefatos publicados  no prazo no período.",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 2.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-09",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Ter e manter 100% dos tratamentos de dados pessoais mapeados e com ROPA atualizado a partir de 2027",
+    "justificativa": "A LGPD (art. 37) exige que o controlador mantenha registro das operações de tratamento. A ausência de ROPA expõe o RIOPREVIDÊNCIA a sanções da ANPD e vulnerabilidades em auditorias do TCE-RJ.",
+    "indicador": "% de operações de tratamento de dados com ROPA atualizado",
+    "fonte_dados": "Inventário de dados — DPO / SharePoint",
+    "formula_calculo": "(Nº de operações com ROPA atualizado / Nº total de operações mapeadas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-10",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Ter e manter 100% dos Relatórios de Impacto à Proteção de Dados Pessoais (RIPD) a partir de dezembro de 2027",
+    "justificativa": "O RIPD é a documentação elaborada pelo controlador (agente de tratamento responsável) que descreve os processos de tratamento de dados pessoais que podem gerar alto risco aos direitos e liberdades dos titulares",
+    "indicador": "% de operações de tratamento de dados com RIPD atualizado",
+    "fonte_dados": "Inventário de dados — DPO / SharePoint",
+    "formula_calculo": "(Nº de operações com RIPD atualizado / Nº total de operações mapeadas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-11",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Responder 100% das manifestações do Sistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ) nível 2 no prazo legal até 2031.",
+    "justificativa": "Garantir a segurança jurídica e a conformidade da instituição com a Lei de Acesso à Informação e normas de Ouvidoria. O cumprimento rigoroso dos prazos em demandas complexas reduz o risco de sanções, otimiza a gestão de processos internos e fortalece a credibilidade e a sustentabilidade do órgão perante a sociedade e os órgãos de controle",
+    "indicador": "Prazo Legal\nPedido de Acesso à Informação: 20 dias corridos,  prorrogável por mais 10 dias corridos.\nManifestação de Ouvidoria: 30 dias corridos, prorrogável por mais 30 dias corridos.",
+    "fonte_dados": "Sistema Eletrônico de Informações (SEI-RJ);\nSistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ).",
+    "formula_calculo": "Nível 2: Manifestações que dependem de respostas técnicas internas solicitadas por meio de processo SEI.",
+    "unidade_medida": "dias corridos",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.81,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-12",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.3",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DAF",
+    "descricao": "Reduzir o percentual de licitações desertas ou fracassadas de 15,6% para 3,1% até 2031",
+    "justificativa": "Licitações desertas ou fracassadas geram retrabalho, atraso nas contratações de bens e serviços essenciais e ineficiência na aplicação de recursos públicos; a padronização de procedimentos e a qualificação técnica dos processos licitatórios reduzem esse percentual e ampliam a previsibilidade das contratações.",
+    "indicador": "Percentual de licitações desertas ou fracassadas",
+    "fonte_dados": "SEI",
+    "formula_calculo": "Percentual sobre o total de procedimentos licitatórios",
+    "unidade_medida": "%",
+    "direcao_meta": "Decrescente",
+    "linha_base": 0.15625,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-13",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.3",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "DIN",
+    "descricao": "Alcançar 100% dos imóveis da carteira com titularidade definitivamente regularizada no RGI até 2031.",
+    "justificativa": "A regularidade registral é condição primária para alienação e para requerimento de imunidade tributária, gerando valor patrimonial direto ao RPPS.",
+    "indicador": "Índice de Regularização Registral",
+    "fonte_dados": "Planilha de Controle / Sistema GERPI",
+    "formula_calculo": "(Imóveis com RGI em nome do Rioprevidência / Total de imóveis da carteira) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-14",
+    "tipo": "Institucional",
+    "id_oe": "OE 1.4",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Alcançar o nível IV do Pró-Gestão RPPS até 2027",
+    "justificativa": "O nível de maturidade IV é o padrão mais elevado de governança para RPPS, consolidando o RIOPREVIDÊNCIA como referência nacional, conforme diretriz de Governança Corporativa do Pró-Gestão.",
+    "indicador": "Nível de maturidade Pró-Gestão obtido",
+    "fonte_dados": "MPS — certificado oficial de adesão",
+    "formula_calculo": "Nível obtido na certificação vigente (I, II, III ou IV)",
+    "unidade_medida": "Nível (I a IV)",
+    "direcao_meta": "Crescente",
+    "linha_base": 2.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-15",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Realizar no mínimo 66 ações de diálogo com os segurados até 2031.",
+    "justificativa": "Orientar segurados ativos, aposentados, pensionistas e dependentes sobre direitos, deveres, serviços, benefícios e regras previdenciárias, em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária.",
+    "indicador": "Ações de diálogo realizadas",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Soma cumulativa do número total de ações de diálogo com segurados no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-16",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.1",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Realizar no mínimo 1 audiência pública por ano até 2031.",
+    "justificativa": "Orientar segurados e sociedade por meio de audiências públicas, em alinhamento ao item 3.3 do Manual do Pró-Gestão RPPS — Educação Previdenciária.",
+    "indicador": "Audiências públicas realizadas",
+    "fonte_dados": "Sistema de Gestão de Aprendizagem (LMS), planilhas de controle, relatórios de presença e Matriz de Evidências",
+    "formula_calculo": "Somatória do número total de audiências públicas realizadas no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-17",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Garantir que pelo menos 85% das avaliações da experiência com o Rioprevidência tenham nota igual ou superior a 8 até 2031.",
+    "justificativa": "A crise de imagem decorrente de escândalos de corrupção afeta a credibilidade do órgão e a percepção dos segurados sobre a segurança de seus benefícios. A pesquisa de imagem institucional permitirá medir e acompanhar a evolução da confiança ao longo do ciclo estratégico.",
+    "indicador": "% de segurados que declaram confiar na gestão do Rioprevidência",
+    "fonte_dados": "Pesquisa de Imagem Institucional (a ser retomada em 2026)",
+    "formula_calculo": "(Número total de avaliações recebidas com nota 8, 9 ou 10 no período / Número total absoluto de avaliações recebidas no mesmo período independente da nota) x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.73,
+    "ano_linha_base": 2022,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-18",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Reduzir as menções negativas ao Rioprevidência para até 10% do total de notícias por mês até 2031.",
+    "justificativa": "A imprensa pauta a percepção pública; reduzir menções negativas é um indicador de que a comunicação proativa e as pautas positivas estão funcionando.",
+    "indicador": "% de notícias negativas sobre o total de notícias monitoradas (acompanhado também em valor absoluto mensal — ver Observação)",
+    "fonte_dados": "Clipping de imprensa (manual até out/2026; ferramenta após)",
+    "formula_calculo": "(Nº de notícias negativas / Total de notícias) x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Decrescente",
+    "linha_base": 0.6,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-19",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Atualizar até o 10º dia útil do mês o dashboard de execução orçamentária no site do Rioprevidência a partir de 2027.",
+    "justificativa": "Publicidade ativa do orçamento do Rioprevidência. A divulgação contínua à sociedade e aos segurados é um resultado de transparência institucional que extravasa a governabilidade interna da ASSPLAN — é a própria instituição que se torna mais transparente, não apenas a área que ganha eficiência.",
+    "indicador": "Dashboard divulgado e atualizado",
+    "fonte_dados": "Site do Rioprevidência",
+    "formula_calculo": "(Número de atualizações no site no prazo / número de meses do exercício financeiro) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-20",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Atualizar até o 10º dia útil o dashboard de execução da folha de inativos e pensionistas no site do Rioprevidência a partir de 2027",
+    "justificativa": "Publicidade ativa da folha de pagamento dos inativos e pensionistas. A divulgação contínua à sociedade e aos beneficiários é um resultado de transparência institucional que extravasa a governabilidade interna da ASSPLAN.",
+    "indicador": "Dashboard divulgado e atualizado",
+    "fonte_dados": "Site do Rioprevidência",
+    "formula_calculo": "(Número de atualizações no site no prazo / número de meses do exercício financeiro) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-21",
+    "tipo": "Institucional",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "DAF",
+    "descricao": "Publicar até o último dia útil do mês subsequente ao de referência o Balanço Patrimonial e o Balanço Orçamentário no site do Rioprevidência a partir de 2026.",
+    "justificativa": "Este KR é vital porque cumpre as exigências legais de transparência ativa e responsabilidade fiscal junto aos órgãos de controle. A publicação tempestiva dos balanços garante aos segurados e à sociedade o acompanhamento contínuo da saúde financeira da autarquia. Além disso, a prática fortalece a governança e o controle social, mitigando riscos de apontamentos ou ressalvas em auditorias.",
+    "indicador": "Dois balanços mensais publicados  (Balanço Patrimonial e o Balanço Orçamentário)  no site do Rioprevidencia",
+    "fonte_dados": "DIRAF/Assessoria",
+    "formula_calculo": "(Boletins publicados / Boletins que devem ser publicados) * 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-22",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DJU",
+    "descricao": "Tramitar 80% dos processos de contencioso em até 5 dias úteis até 2031",
+    "justificativa": "O atraso na tramitação interna de processos de contencioso aumenta o risco de perda de prazos processuais e de exposição financeira e reputacional da instituição perante o Poder Judiciário — um resultado que extravasa a governabilidade da própria COOCJ e afeta a instituição como um todo. A COOCJ controla diretamente o prazo interno de tramitação.",
+    "indicador": "Percentual de processos de contencioso tramitados em até 5 dias úteis",
+    "fonte_dados": "SEI",
+    "formula_calculo": "(Processos tramitados em até 5 dias úteis ÷ total de processos de contencioso no período) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.3,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-23",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Estabelecer um sistema de gestão e controle  de investimentos até 2028.",
+    "justificativa": "Ação gerencial para viabilizar implantação do sistema.",
+    "indicador": "Status de conclusão (% etapas)",
+    "fonte_dados": "Documento de requisitos / SEI",
+    "formula_calculo": "Etapas concluídas / Total",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-24",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Alcançar e manter 100% das contratações com DOD, ETP, Mapa de Risco e TR padronizados e gerados com auxílio de IA, validados por checklist a partir de 2029.",
+    "justificativa": "Reduz risco de instrução incompleta, retrabalho, atraso processual e baixa comparabilidade entre processos preparatórios de contratação.",
+    "indicador": "Percentual de contratações com documentação preparatória padronizada e validada",
+    "fonte_dados": "Processos SEI; checklist COOIPA; controles GERAD/COOIPA",
+    "formula_calculo": "Quantidade de documentos de contratações recorrentes ou críticas (DOD, ETP, Mapa de Risco e TR) validados / total de contratações iniciadas no período x 4 × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-25",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Assegurar que 100% dos processos externos sejam respondidos dentro do prazo legal a partir de 2026.",
+    "justificativa": "O descumprimento de prazos em demandas de órgãos de controle e justiça gera risco legal e reputacional para a instituição como um todo, não apenas para a Chefia de Gabinete, que centraliza essa interlocução. Garantir o atendimento tempestivo fortalece a governança e a integridade institucional.",
+    "indicador": "Percentual de demandas externas atendidas dentro do prazo",
+    "fonte_dados": "SEI e planilha de controle de demandas externas da Chefia de Gabinete.",
+    "formula_calculo": "(Número de demandas externas respondidas dentro do prazo ÷ Total de demandas externas recebidas no período) × 100.",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.4,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-26",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Elevar para 100% o percentual de contratos formais elegíveis do Rioprevidência avaliados e fiscalizados conforme os procedimentos instituídos pela Instrução Normativa AGE nº 54/2025 até 2031.",
+    "justificativa": "O KR é relevante por promover a adequação institucional do Rioprevidência às exigências relacionadas à governança, ao acompanhamento e à prestação de contas na gestão contratual, com base no Decreto Estadual nº 48.817/2023 e na Instrução Normativa AGE nº 54/2025. Sua implementação contribuirá para a padronização dos procedimentos de avaliação e fiscalização da execução contratual, para o fortalecimento dos controles internos e para a ampliação da capacidade preventiva da Administração na identificação tempestiva de desconformidades, falhas de execução e riscos associados à atuação de gestores e fiscais de contratos. \nAlém disso, o KR permitirá consolidar registros, evidências e informações técnicas que subsidiem a emissão anual de nota técnica pela Gerência de Controle Interno e Auditoria, reforçando a transparência, a prestação de contas e o suporte à Alta Administração para fins de monitoramento e tomada de decisão.",
+    "indicador": "Percentual de contratos formais elegíveis do Rioprevidência avaliados e fiscalizados conforme os procedimentos instituídos pela Instrução Normativa AGE nº 54/2025.",
+    "fonte_dados": "Sistema SEI, processos administrativos e relatórios.",
+    "formula_calculo": "(Número de contratos formais elegíveis avaliados e fiscalizados conforme a IN AGE nº 54/2025 / Total de contratos formais elegíveis identificados no período) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-27",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DIN",
+    "descricao": "Identificar e resolver 100% das pendências do Demonstrativo de Política de Investimentos (DAIR) e do Demonstrativo das Aplicações e Investimentos dos Recursos (DPIN) até 2026.",
+    "justificativa": "Contribuição direta para o KR estratégico de regularização dos demonstrativos, viabilizando a emissão do CRP.",
+    "indicador": "Nº de pendências resolvidas / Total identificadas",
+    "fonte_dados": "CADPREV / SPREV",
+    "formula_calculo": "(Pendências resolvidas / Total) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-28",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Garantir e manter a conclusão de 80% das Sindicâncias Sumárias (investigativas e punitivas) dentro do prazo legal a partir de 2026.",
+    "justificativa": "A condução tempestiva das sindicâncias sumárias é essencial para a rápida apuração de irregularidades e adoção de providências cabíveis. O alcance dessa meta melhora a efetividade do controle interno, reduz a acumulação de processos e fortalece a confiança na capacidade institucional de resposta a indícios de desvios.",
+    "indicador": "Sindicâncias concluídas",
+    "fonte_dados": "SEI",
+    "formula_calculo": "(Processos no prazo/total de processos)*100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-29",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DSE",
+    "descricao": "Realizar pelo menos 85% da Prova de Vida anual através do aplicativo digital até 2031.",
+    "justificativa": "Evitar pagamento do benefício previdenciário para beneficiários falecidos",
+    "indicador": "Percentual de provas de vida realizadas através do aplicativo digital.",
+    "fonte_dados": "Base de dados de beneficiários",
+    "formula_calculo": "(Total recenseado pelo aplicativo/ Total de recenseados) *100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-INS-30",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Consolidar a governança do acervo previdenciário, alcançando 100% de inventário, classificação e rastreabilidade documental até  2031.",
+    "justificativa": "Necessidade de estruturar a transformação acervo previdenciário, integrando os resultados do inventário arquivístico em execução às ações. A iniciativa permitirá conhecer o volume documental existente, definir prioridades de tratamento, otimizar futuras contratações e ampliar o acesso eletrônico às informações institucionais, contribuindo para a modernização da gestão documental, a preservação do acervo e o aumento da eficiência operacional.",
+    "indicador": "Percentual de execução do programa",
+    "fonte_dados": "Relatório do contrato de inventário, contratos e gestão documental",
+    "formula_calculo": "(% do acervo inventariado, classificado e rastreado / Total do acervo)",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.09,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-31",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Substituir  85 Processos Manuais por Sistemas, IA ou Automação até dezembro de 2031",
+    "justificativa": "Aumento de Performance, Rastreabilidade e Segurança",
+    "indicador": "Quantidade de Módulos / Sistemas / Automações entregues",
+    "fonte_dados": "Planilha de \"Gestão de Portfólio de TI\" e \"Mapeamento Desenvolvimento nas Áreas\"",
+    "formula_calculo": "Soma cumulativa de automações entregues",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-32",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Aumentar em 46 unidades o número de soluções tecnológicas que eliminam trabalho manual até 2031.",
+    "justificativa": "Processos manuais repetitivos geram retrabalho, erros e indisponibilidade de equipe. A automação libera capacidade da equipe para atividades analíticas e de maior valor estratégico, fortalecendo a Modernização Institucional.",
+    "indicador": "Nº de soluções de automação implantadas e em operação",
+    "fonte_dados": "Inventário de soluções tecnológicas — Governança",
+    "formula_calculo": "Soma cumulativa de soluções homologadas e em produção",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-33",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.3",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Atingir 100% de implantação do sistema de gestão de bens patrimoniais até 2029",
+    "justificativa": "Implantação de sistema de gestão de bens patrimoniais",
+    "indicador": "Percentual de implantação do sistema",
+    "fonte_dados": "GERAD / COOIPA",
+    "formula_calculo": "% do sistema (Analise de requisitos 15%, modelagem 25%, prototipação 35%, desenvolvimento 65%,  homologação 75% e implantação 100%",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-34",
+    "tipo": "Institucional",
+    "id_oe": "OE 3.4",
+    "perspectiva": "Processos Internos",
+    "diretoria": "DAF",
+    "descricao": "Publicar edital de Bolsas de Formação para servidores do RP até 2027",
+    "justificativa": "Necessidade de aperfeiçoamento técnico do quadro de servidores",
+    "indicador": "Edital publicado",
+    "fonte_dados": "Publicação na Intranet",
+    "formula_calculo": "Não=0 e Sim=1",
+    "unidade_medida": "Binário",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-INS-35",
+    "tipo": "Institucional",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "DAF",
+    "descricao": "Realizar concurso público para áreas específicas necessárias ao Rioprevidência até 2031",
+    "justificativa": "A insuficiência de quadro técnico próprio nas áreas atuarial, de tecnologia, contábil e de engenharia obriga o Rioprevidência a depender de terceirização, cargos comissionados ou sobrecarga de servidores já alocados, com risco de descontinuidade de conhecimento crítico e de não conformidade técnica perante órgãos de controle. A realização de concurso público amplia e qualifica o quadro permanente nessas áreas estratégicas",
+    "indicador": "Percentual de etapas concluídas do processo de concurso público",
+    "fonte_dados": "Processo SEI de autorização e abertura de concurso; Diário Oficial (publicação do edital, homologação e atos de nomeação)",
+    "formula_calculo": "(Número de etapas concluídas / 6 etapas previstas) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-01",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Reduzir 100% do passivo de processos pendentes na caixa da Chefia de Gabinete até 2026.",
+    "justificativa": "A existência de processos acumulados impacta a celeridade administrativa e o atendimento às áreas finalísticas. O tratamento sistemático do passivo contribui para a melhoria dos fluxos de trabalho internos da unidade.",
+    "indicador": "Percentual de redução do estoque de processos pendentes na caixa da Chefia de Gabinete provenientes de períodos de gestão anteriores.",
+    "fonte_dados": "SEI, planilhas de controle.",
+    "formula_calculo": "((Estoque inicial de processos pendentes − Estoque atual de processos pendentes) / Estoque inicial de processos pendentes) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-02",
+    "tipo": "Gerencial",
+    "id_oe": "OE 1.2",
+    "perspectiva": "Resultados Institucionais",
+    "diretoria": "PRE",
+    "descricao": "Reduzir de 65% para 40% o percentual de pedidos de acesso à informação e manifestações nível 2 prorrogados no prazo da Ouvidoria até 2031",
+    "justificativa": "A agilidade na resolução de manifestações demonstra a capacidade do Estado em dar respostas rápidas à sociedade, promovendo uma gestão sustentável, transparente e focada na melhoria contínua dos serviços públicos.",
+    "indicador": "% de manifestações nível 2 prorrogadas no prazo",
+    "fonte_dados": "Sistema Eletrônico de Informações (SEI-RJ);\nSistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ).",
+    "formula_calculo": "(Número de manifestações prorrogadas / Total de manifestações nível 2) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Decrescente",
+    "linha_base": 0.65,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-03",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.2",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Responder e manter 100% das manifestações do Sistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ) nível 1 em até 2 dias úteis a partir de 2027.",
+    "justificativa": "A agilidade na resolução de manifestações simples demonstra a capacidade do Estado em dar respostas rápidas à sociedade, promovendo uma gestão sustentável, transparente e focada na melhoria contínua dos serviços públicos.",
+    "indicador": "Prazo de entrada e conclusão no OuvERJ.",
+    "fonte_dados": "Sistema Integrado de Ouvidoria e Transparência do Estado do Rio de Janeiro (OuvERJ)",
+    "formula_calculo": "Nível 1: Respostas rápidas, orientações com respostas padronizadas.",
+    "unidade_medida": "Dias úteis",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.9,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-04",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Produzir, no mínimo, 36 vídeos institucionais com gestores por ano",
+    "justificativa": "Vídeos com gestores humanizam o órgão e aumentam o engajamento.",
+    "indicador": "Nº de vídeos produzidos e publicados",
+    "fonte_dados": "Redes sociais",
+    "formula_calculo": "Número de vídeos publicados no período",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-05",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Publicar 100% dos documentos recebidos da Governança no Portal da Transparência no mesmo dia útil",
+    "justificativa": "Agilidade na publicação fortalece a transparência.",
+    "indicador": "% de documentos publicados no mesmo dia útil",
+    "fonte_dados": "Portal da Transparência + planilha a ser setada",
+    "formula_calculo": "(Docs publicados no mesmo dia útil / Total de docs recebidos) x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-PRE-06",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Ter 100% das solicitações de imprensa apuradas em até 24h úteis",
+    "justificativa": "Agilidade na resposta à imprensa fortalece a credibilidade.",
+    "indicador": "% de solicitações respondidas em 24h",
+    "fonte_dados": "Registro de demandas da imprensa",
+    "formula_calculo": "(Solicitações apuradas em 24h / Total) x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 70.0,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-07",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Alcançar 3 milhões de visualizações acumuladas nos vídeos institucionais com gestores até 2031",
+    "justificativa": "Vídeos com gestores humanizam o órgão, explicam temas complexos em linguagem simples e aproximam a gestão dos segurados, contribuindo para o KR institucional de confiança (KR-001). Indicador de alcance/produto, e não de percepção — por isso tratado como Meta Gerencial, não como KR.",
+    "indicador": "Visualizações acumuladas (Instagram + LinkedIn)",
+    "fonte_dados": "Plataformas de redes sociais (insights)",
+    "formula_calculo": "Soma de visualizações em todas as plataformas onde os vídeos forem publicados",
+    "unidade_medida": "Número",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-08",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Garantir 100% da conformidade legal no Ranking de Transparência ATIVA da CGE-RJ, para alcançar a nota 100, a partir de 2028.",
+    "justificativa": "Nº de itens do checklist CGE-RJ corrigidos/publicados no período.",
+    "indicador": "Nº de itens do checklist CGE-RJ corrigidos/publicados no período",
+    "fonte_dados": "Checklist de avaliação CGE-RJ — Ouvidoria/Governança",
+    "formula_calculo": "Contagem de itens do checklist com status 'Conforme' no período",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.6,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-09",
+    "tipo": "Gerencial",
+    "id_oe": "OE 2.3",
+    "perspectiva": "Segurados e Beneficiários",
+    "diretoria": "PRE",
+    "descricao": "Atualizar anualmente a Carta de Serviço ao Usuário.",
+    "justificativa": "Este indicador contribui diretamente para o objetivo de Fortalecer a transparência e a comunicação institucional ao assegurar que a Carta de Serviços ao Usuário reflita com precisão a realidade dos serviços prestados pela instituição. A revisão e atualização anual deste documento garante o cumprimento das obrigações legais de transparência ativa e previne ruídos de comunicação gerados por informações defasadas. Ao disponibilizar um guia claro, atual e acessível, a instituição empodera o cidadão, facilita o acesso aos seus direitos e consolida uma comunicação pública transparente, confiável e cidadã.",
+    "indicador": "Carta de serviço atualizada",
+    "fonte_dados": "SEI-040014/025558/2024;\nhttps://www.rj.gov.br/rioprevidencia/sites/default/files/arquivos_pagina_basica/Carta_de_Servicos_ao_Usuario.pdf",
+    "formula_calculo": "Binário - sim ou não",
+    "unidade_medida": "Unidade",
+    "direcao_meta": "Manter",
+    "linha_base": 1.0,
+    "ano_linha_base": 2025,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-10",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Implantar metodologia de classificação de processos por criticidade e estabelecer SLA para tramitação no âmbito da Chefia de Gabinete até 2026.",
+    "justificativa": "A classificação dos processos por criticidade permite a priorização das demandas de maior impacto, enquanto a definição de SLAs promove maior previsibilidade, controle e celeridade na tramitação processual interna da unidade.",
+    "indicador": "Percentual de processos classificados conforme metodologia de criticidade e submetidos a SLA definido.",
+    "fonte_dados": "SEI e normativos internos.",
+    "formula_calculo": "(Número de processos classificados conforme metodologia / Número total de processos elegíveis) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-11",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Classificar e manter 100% dos processos por nível de  criticidade a partir de 2027.",
+    "justificativa": "Promover maior eficiência na gestão processual, priorizando demandas estratégicas e reduzindo riscos decorrentes de atrasos na tramitação.",
+    "indicador": "Processos Classificados",
+    "fonte_dados": "SEI e controles internos da Chefia de Gabinete.",
+    "formula_calculo": "(Processos classificados e tratados via metodologia / Total de processos recebidos) x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-12",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Elaborar e manter atualizado um checklist de conformidade legal para os processos submetidos à assinatura do Presidente a partir de 2026.",
+    "justificativa": "A utilização de checklist reduz inconsistências documentais, retrabalho e devoluções processuais, contribuindo para maior eficiência e segurança na tomada de decisão.",
+    "indicador": "Percentual de processos enquadrados analisados mediante checklist de conformidade.",
+    "fonte_dados": "SEI e controles internos da Chefia de Gabinete.",
+    "formula_calculo": "(Processos analisados por checklist / Total de processos enquadrados) x 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-13",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.1",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Mapear, documentar e manter atualizado 100% dos processos críticos da Governança a partir de 2029.",
+    "justificativa": "Indicador de produção mensal/trimestral do mapeamento de processos, permitindo adequação, controle de ritmo e cumprimento de procedimentos dentro dos SLA's acordados.",
+    "indicador": "Nº de processos mapeados e documentados no período",
+    "fonte_dados": "Repositório de processos — SharePoint/SEI",
+    "formula_calculo": "Contagem de itens do checklist com status 'Conforme' no período",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-14",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Realizar 11 oficinas de conscientização, em parceria com a Escola de Educação Previdenciária, na temática ética, prevenção ao assédio e deveres funcionais até 2031.",
+    "justificativa": "A promoção de oficinas de conscientização em ética, prevenção ao assédio e deveres funcionais fortalece a cultura organizacional e contribui para a prevenção de desvios de conduta. A atuação educativa, em parceria com a Escola de Educação Previdenciária, reforça o caráter preventivo da área correicional, reduz riscos institucionais e promove um ambiente de trabalho mais íntegro, respeitoso e alinhado aos princípios da administração pública.",
+    "indicador": "Oficinas realizadas",
+    "fonte_dados": "Publicação na intranet dos eventos",
+    "formula_calculo": "Oficinas Realizadas",
+    "unidade_medida": "Oficinas",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-15",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Garantir e manter a conclusão de 80% dos Processos Administrativos Disciplinares (PAD) dentro do prazo legal a partir de 2026.",
+    "justificativa": "A observância dos prazos legais nos Processos Administrativos Disciplinares assegura eficiência, segurança jurídica e credibilidade institucional. O cumprimento dessa meta contribui para evitar prescrição, reforça a responsabilização adequada de condutas irregulares e demonstra comprometimento com os princípios da legalidade e da celeridade administrativa.",
+    "indicador": "PADs concluídos",
+    "fonte_dados": "SEI",
+    "formula_calculo": "(Processos no prazo / Total de processos)*100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-PRE-16",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Garantir 100% de apuração das denúncias anônimas apresentada pelo Sistema OuvERJ, envolvendo assédio moral e outros desvios de conduta a partir de 2026.",
+    "justificativa": "A apuração integral das denúncias, inclusive anônimas, é fundamental para assegurar transparência, accountability e confiança nos canais de denúncia. Esse compromisso demonstra que a instituição trata com seriedade indícios de assédio e outras irregularidades, incentivando o uso responsável do sistema e contribuindo para a prevenção de condutas inadequadas.",
+    "indicador": "Denúncias apuradas",
+    "fonte_dados": "SEI",
+    "formula_calculo": "(Processos no prazo / Total de processos)*100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-PRE-17",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Alcançar e manter 100% das recomendações e representações com juízo de admissibilidade realizado em até 30 dias úteis a partir do recebimento a partir de 2026.",
+    "justificativa": "A realização tempestiva do juízo de admissibilidade assegura triagem eficiente das demandas, permitindo resposta rápida às manifestações recebidas e priorização adequada dos casos. Essa meta contribui para a celeridade processual, organização do fluxo de trabalho e melhoria na governança das atividades correicionais.",
+    "indicador": "Recomendações e representações realizadas em 30 dias úteis",
+    "fonte_dados": "SEI",
+    "formula_calculo": "(Processos no prazo / Total de processos)*100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": null,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-PRE-18",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Implementar e manter as práticas de orientação e acompanhamento que assegurem a adoção, por gestores e fiscais de contratos, dos formulários de acompanhamento da gestão contratual e da execução contratual disponibilizados pela Controladoria Geral do Estado, em conformidade com a Instrução  Normativa AGE nº 54/2025 a partir de 2026.",
+    "justificativa": "A meta é relevante por estruturar uma prática padronizada de acompanhamento da gestão e da execução contratual, ampliando a rastreabilidade das informações, fortalecendo os controles internos e produzindo evidências verificáveis da atuação de gestores e fiscais de contratos. Sua implementação contribui diretamente para a futura avaliação e fiscalização dos contratos elegíveis conforme os procedimentos instituídos pela Instrução Normativa AGE nº 54/2025.",
+    "indicador": "Percentual de cumprimento das etapas previstas para implantação das práticas de orientação e acompanhamento dos gestores e fiscais de contratos quanto à utilização dos formulários padronizados.",
+    "fonte_dados": "Processos SEI relacionados à gestão contratual; processos administrativos de contratação; formulários de acompanhamento adotados; registros de utilização pelos gestores e fiscais de contratos.",
+    "formula_calculo": "(Número de etapas concluídas para implantação das práticas de orientação e acompanhamento / Total de etapas previstas para implantação) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.16,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-19",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Editar, até 2026, normativo específico que discipline a forma de prestação de contas da gestão e da fiscalização de contratos no âmbito do Rioprevidência, como medida de cumprimento e internalização das diretrizes estabelecidas pela Instrução Normativa AGE nº 54/2025, expedida pela Auditoria Geral do Estado, em observância à Lei nº 7.989/2018 e ao Decreto nº 48.817/2023.",
+    "justificativa": "A meta é relevante por criar a base normativa necessária para institucionalizar a prestação de contas contratual, fortalecer a governança, padronizar responsabilidades e assegurar maior transparência na atuação de gestores e fiscais de contratos. A edição do normativo constitui etapa estruturante para viabilizar a aplicação uniforme dos procedimentos de avaliação e fiscalização previstos no KR estratégico.",
+    "indicador": "Percentual de execução das etapas necessárias à edição e publicação do normativo específico de prestação de contas contratual.",
+    "fonte_dados": "Processo SEI de elaboração normativa; minutas e versões do normativo; manifestação das áreas competentes; publicação do ato normativo.",
+    "formula_calculo": "(Número de etapas concluídas para edição do normativo / Total de etapas previstas para edição e publicação) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.25,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-20",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Emitir nota técnica anual de avaliação da atuação dos gestores e fiscais de contratos e incorporá-la à Prestação de Contas Anual de Gestão até abril de cada exercício a partir de 2027.",
+    "justificativa": "Diferente do KR (que mede cobertura de avaliação) e da iniciativa (que mede a implantação do processo, com fim previsto em abril/2027), esta meta mede o compromisso gerencial recorrente de produzir e entregar o documento no prazo, todo ano, inclusive depois que a INI-003 for concluída.",
+    "indicador": "Nota técnica anual emitida e incorporada à Prestação de Contas Anual de Gestão dentro do prazo",
+    "fonte_dados": "Processo SEI específico; documento finalizado",
+    "formula_calculo": "Binário. Sim = 1, Não = 0",
+    "unidade_medida": "Binário",
+    "direcao_meta": "Manter",
+    "linha_base": 0.0,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  },
+  {
+    "id": "KR-PRE-21",
+    "tipo": "Gerencial",
+    "id_oe": "OE 3.2",
+    "perspectiva": "Processos Internos",
+    "diretoria": "PRE",
+    "descricao": "Manualizar e manter atualizados 100% dos processos internos de Ouvidoria a partir de 2026.",
+    "justificativa": "A manualização dos processos da Ouvidoria padroniza o atendimento a manifestações e pedidos de informação, mitigando riscos operacionais e garantindo integridade institucional através de fluxos auditáveis.",
+    "indicador": "Manuais criados e disponibilizados na rede interna da Ouvidoria",
+    "fonte_dados": "Procedimentos  da área",
+    "formula_calculo": "(Manuais publicados / Total de processos críticos) × 100",
+    "unidade_medida": "%",
+    "direcao_meta": "Crescente",
+    "linha_base": null,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": false,
+      "campos_ausentes": [
+        "linha_base"
+      ]
+    }
+  },
+  {
+    "id": "KR-PRE-22",
+    "tipo": "Gerencial",
+    "id_oe": "OE 4.1",
+    "perspectiva": "Pessoas, Tecnologia e Capacidades",
+    "diretoria": "PRE",
+    "descricao": "Capacitar 100% da equipe no programa de Ouvidoria a partir de 2026.",
+    "justificativa": "Este indicador contribui diretamente para o objetivo estratégico de Desenvolver competências e fortalecer a gestão de pessoas ao estabelecer um programa estruturado de formação continuada para os colaboradores da Ouvidoria. A meta de certificar 100% da equipe em uma trilha complexa de 10 cursos garante a retenção do conhecimento institucional e a elevação da maturidade técnica do setor. Ao investir na qualificação profissional, a instituição não apenas valoriza o seu capital humano e melhora o clima organizacional, mas também assegura uma gestão de pessoas focada na alta performance e na entrega de um serviço público de excelência.",
+    "indicador": "Certificação do Programa em Ouvidoria concedido pela Ouvidoria-Geral da União e pela Escola Nacional de Administração Pública A certificação é composta por 10 cursos.",
+    "fonte_dados": "Escola Nacional de Administração Pública - Enap (https://www.gov.br/ouvidorias/pt-br/ouvidorias/programa_em_ouvidoria)",
+    "formula_calculo": "(Servidores capacitados/ Total de servidores da Ouvidoria) × 100",
+    "unidade_medida": "certificado",
+    "direcao_meta": "Crescente",
+    "linha_base": 0.5,
+    "ano_linha_base": 2026,
+    "ativo": true,
+    "completude": {
+      "completo": true,
+      "campos_ausentes": []
+    }
+  }
+]

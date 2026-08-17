@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2026-B4",
+    "ano": 2026,
+    "tipo": "Bimestre",
+    "ordem": 1,
+    "inicio": "2026-07-01",
+    "fim": "2026-08-31",
+    "data_apuracao": "2026-08-31",
+    "status_meta": "Definida",
+    "monitorado": true,
+    "apuracao_bonus": false,
+    "status": "Aberto",
+    "semestre": "2026-S2"
+  }
+]

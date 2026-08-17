@@ -1,0 +1,248 @@
+/* ============================================================
+   Painel de Acompanhamento Estratégico — Rioprevidência
+   Tokens de design
+   Derivados do Manual de Identidade Visual e Uso da Marca (jul/2021)
+   ============================================================ */
+
+:root {
+
+  /* ---- Cores da marca (Manual, p. 11 e 14) -----------------
+     Valores transcritos do manual, sem alteração.
+     O manual proíbe alterar as cores da marca (p. 20).
+     Estas variáveis não devem ser redefinidas.                */
+
+  --marca-principal:   #175178;  /* Pantone 7701 C  — cor principal   */
+  --marca-compl-1:     #376b8e;  /* Pantone 7468 C                    */
+  --marca-compl-2:     #577385;  /* Pantone 5405 C                    */
+  --marca-compl-3:     #718ea1;  /* Pantone 549 C                     */
+  --marca-compl-4:     #98b3c4;  /* Pantone 550 C                     */
+  --marca-cinza:       #dededd;  /* Pantone Cool Gray 1C              */
+  --marca-mono:        #414141;  /* Pantone 446 C — versão monocrom.  */
+  --marca-branco:      #ffffff;  /* Pantone 663 C                     */
+
+  /* ---- Aplicação em texto ----------------------------------
+     Contraste medido sobre fundo branco (WCAG 2.1):
+       #175178  8,45:1   texto normal          AAA
+       #414141 10,21:1   texto normal          AAA
+       #376b8e  5,74:1   texto normal          AA
+       #577385  5,00:1   texto normal          AA
+       #718ea1  3,45:1   só texto grande e UI  AA
+       #98b3c4  2,19:1   apenas decorativo
+       #dededd  1,35:1   apenas fundo                          */
+
+  --texto-principal:   #175178;
+  --texto-corpo:       #2b2b2b;
+  --texto-secundario:  #577385;
+  --texto-suave:       #718ea1;   /* mínimo 18px ou 14px negrito */
+  --texto-invertido:   #ffffff;
+
+  /* ---- Superfícies ---------------------------------------- */
+
+  --fundo-pagina:      #ffffff;
+  --fundo-alt:         #f4f7fa;   /* derivado do cinza da marca, clareado */
+  --fundo-cartao:      #ffffff;
+  --fundo-cabecalho:   #175178;
+  --fundo-rodape:      #175178;
+  --borda:             #dededd;
+  --borda-forte:       #98b3c4;
+
+  /* Sobre o cabeçalho em #175178:
+       #ffffff 8,45:1 · #dededd 6,28:1 · #98b3c4 3,86:1
+     Texto de navegação em #ffffff; estado inativo em #dededd. */
+
+  /* ---- Paleta funcional -----------------------------------
+     O manual não define cores de estado. Esta paleta é
+     acrescentada para o painel e mantém-se deliberadamente
+     fora da família da marca, para que alerta não se confunda
+     com identidade. Todas passam AA sobre branco.            */
+
+  --estado-critico:      #9c3b30;  /* 6,81:1 */
+  --estado-critico-bg:   #f9ebe9;
+  --estado-atencao:      #8c6d1f;  /* 4,86:1 */
+  --estado-atencao-bg:   #fbf3e2;
+  --estado-positivo:     #2f6b4f;  /* 6,29:1 */
+  --estado-positivo-bg:  #e9f2ed;
+  --estado-neutro:       #577385;  /* 5,00:1 — "aguardando apuração" */
+  --estado-neutro-bg:    #eef2f5;
+
+  /* Cor nunca é o único portador de significado: todo estado
+     leva rótulo textual e, quando cabível, ícone.            */
+
+  /* ---- Tipografia -----------------------------------------
+     Manual (p. 22): Square721 BT (principal) e
+     Humnst777 BT Roman (complementar).
+     Ambas são fontes comerciais da Bitstream e exigem licença
+     específica para uso como webfont. Enquanto a licença não
+     for confirmada pela Comunicação, aplicam-se substitutas
+     livres de caráter próximo:
+       Square721 BT   -> Saira        (geométrica, terminais retos)
+       Humnst777 BT   -> Source Sans 3 (humanista, base Frutiger)
+     Se a licença existir, basta trocar o primeiro nome de cada
+     pilha.                                                    */
+
+  --fonte-titulo: "Square721 BT", "Saira", system-ui, sans-serif;
+  --fonte-corpo:  "Humnst777 BT Roman", "Source Sans 3", system-ui, sans-serif;
+  --fonte-dados:  "Source Sans 3", system-ui, sans-serif;
+  --fonte-mono:   ui-monospace, "SFMono-Regular", "Consolas", monospace;
+
+  --peso-normal: 400;
+  --peso-medio:  600;
+  --peso-forte:  700;
+
+  /* Escala tipográfica — razão 1,25 sobre 16px */
+  --txt-xs:   0.75rem;   /* 12px — rótulos de eixo            */
+  --txt-sm:   0.875rem;  /* 14px — legendas, notas            */
+  --txt-base: 1rem;      /* 16px — corpo                      */
+  --txt-lg:   1.25rem;   /* 20px — subtítulo                  */
+  --txt-xl:   1.563rem;  /* 25px — título de seção            */
+  --txt-2xl:  1.953rem;  /* 31px — título de página           */
+  --txt-3xl:  2.441rem;  /* 39px — número de destaque         */
+
+  --altura-linha-titulo: 1.2;
+  --altura-linha-corpo:  1.55;
+
+  /* ---- Espaçamento — base 4px ---------------------------- */
+  --esp-1: 0.25rem;  --esp-2: 0.5rem;   --esp-3: 0.75rem;
+  --esp-4: 1rem;     --esp-5: 1.5rem;   --esp-6: 2rem;
+  --esp-7: 3rem;     --esp-8: 4rem;
+
+  /* ---- Formas -------------------------------------------
+     O símbolo da marca é um quadrado de cantos generosamente
+     arredondados. Os cartões retomam essa geometria, sem
+     imitar o símbolo.                                        */
+  --raio-sm: 4px;
+  --raio-md: 8px;
+  --raio-lg: 14px;
+
+  --sombra-sm: 0 1px 2px rgba(23, 81, 120, 0.08);
+  --sombra-md: 0 2px 8px rgba(23, 81, 120, 0.10);
+
+  /* O manual proíbe sombra na marca (p. 21).
+     As sombras acima aplicam-se a cartões, nunca ao logotipo. */
+
+  /* ---- Marca ---------------------------------------------
+     Área de proteção (p. 15 e 16): 1x em todos os lados.
+       horizontal: x = altura do bloco "RIOPREVIDÊNCIA +
+                       Fundo Único de Previdência Social..."
+       vertical:   x = altura da faixa cinza inferior
+     Redução máxima (p. 17): 5cm/575px na horizontal e
+     2cm/267px na vertical. São medidas de impresso; ver nota
+     em Adaptacao_Marca_Digital.md sobre o equivalente digital. */
+
+  --marca-altura-cabecalho: 44px;
+  --marca-protecao: 1em;
+
+  /* ---- Layout -------------------------------------------- */
+  --largura-max: 1240px;
+  --largura-texto: 68ch;
+
+  /* ---- Foco — obrigatório para navegação por teclado ------ */
+  --foco-cor: #8c6d1f;
+  --foco-anel: 0 0 0 3px rgba(140, 109, 31, 0.45);
+}
+
+/* ---- Preferência por movimento reduzido ------------------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---- Foco visível ---------------------------------------- */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--foco-cor);
+  outline-offset: 2px;
+  box-shadow: var(--foco-anel);
+}
+
+/* ---- Impressão -------------------------------------------
+   Para exportação em PDF pelo navegador.                     */
+@media print {
+  :root { --fundo-alt: #ffffff; }
+  nav, .filtros, .btn { display: none !important; }
+  .cartao { break-inside: avoid; border: 1px solid var(--borda); }
+}
+
+/* ---- Fontes locais ----------------------------------------
+   Substitutas livres das fontes do manual, servidas do proprio
+   dominio. Nenhuma requisicao a Google Fonts ou CDN: e site de
+   orgao publico, e fonte remota transfere o IP do visitante a
+   terceiro (SPEC-002 §3.1 e §8).
+
+   Saira e Source Sans 3 sao variaveis — o mesmo arquivo atende
+   400 e 600; as duas declaracoes de peso apontam para ele.
+   Ambas sob SIL Open Font License 1.1 (static/fonts/LICENSE.md).
+   ---------------------------------------------------------- */
+
+@font-face {
+  font-family: "Saira";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/saira-latin-ext-400.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "Saira";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/saira-latin-400.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Saira";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/saira-latin-ext-400.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "Saira";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/saira-latin-400.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/source-sans-3-latin-ext-400.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/source-sans-3-latin-400.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/source-sans-3-latin-ext-400.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/source-sans-3-latin-400.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
