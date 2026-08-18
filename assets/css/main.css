@@ -446,14 +446,15 @@ h1, h2, h3, h4, h5, h6,
   align-items: flex-end;
   padding: 16px 18px;
   border: 1px solid var(--borda);
+  border-left: 4px solid var(--marca-principal);
   border-radius: var(--radius-md);
-  background: var(--fundo-cartao);
-  box-shadow: var(--shadow);
+  background: var(--fundo-alt);
+  box-shadow: none;
 }
 
 .objective-perspective-header h2 {
   margin: 0 0 5px;
-  font-size: 18px;
+  font-size: var(--txt-xl);
 }
 
 .objective-perspective-header p {
@@ -472,8 +473,17 @@ h1, h2, h3, h4, h5, h6,
   background: var(--fundo-cartao);
   border: 1px solid var(--borda);
   border-radius: var(--radius-md);
-  box-shadow: var(--sombra-md);
+  box-shadow: var(--sombra-sm);
   padding: 18px;
+}
+
+.objective-page-card > summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.objective-page-card > summary::-webkit-details-marker {
+  display: none;
 }
 
 .objective-page-card-top {
@@ -491,10 +501,24 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 800;
 }
 
+.objective-page-toggle {
+  flex: none;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 6px solid var(--texto-secundario);
+  transition: transform 0.15s ease;
+}
+
+.objective-page-card[open] .objective-page-toggle {
+  transform: rotate(90deg);
+}
+
 .objective-page-card h3 {
   margin: 0;
   color: var(--text);
-  font-size: 16px;
+  font-size: var(--txt-lg);
   line-height: 1.42;
 }
 
@@ -506,6 +530,50 @@ h1, h2, h3, h4, h5, h6,
   color: var(--muted);
   font-size: 13px;
   font-weight: 700;
+}
+
+.objective-page-detail {
+  display: grid;
+  gap: var(--esp-4);
+  margin-top: var(--esp-4);
+  padding-top: var(--esp-4);
+  border-top: 1px solid var(--borda);
+}
+
+.objective-detail-title {
+  margin: 0 0 var(--esp-2);
+  color: var(--texto-secundario);
+  font-size: var(--txt-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.objective-detail-list {
+  display: grid;
+  gap: var(--esp-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.objective-detail-list li {
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.objective-detail-code {
+  margin-right: var(--esp-2);
+  color: var(--accent);
+  font-family: var(--fonte-mono);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.objective-detail-empty {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
 }
 
 .distribution-list {
@@ -558,7 +626,6 @@ h1, h2, h3, h4, h5, h6,
   width: 100%;
   min-width: 760px;
   border-collapse: collapse;
-  overflow: hidden;
   border: 1px solid var(--borda);
   border-radius: var(--radius-md);
   background: var(--fundo-cartao);
@@ -566,10 +633,18 @@ h1, h2, h3, h4, h5, h6,
 
 .executive-table th,
 .executive-table td {
-  padding: 13px 14px;
+  padding: var(--esp-2) 14px;
   border-bottom: 1px solid var(--borda);
   text-align: left;
   vertical-align: top;
+}
+
+.kr-col-descricao {
+  max-width: 28rem;
+}
+
+.kr-col-indicador {
+  max-width: 16rem;
 }
 
 .executive-table th {
@@ -844,20 +919,12 @@ h1, h2, h3, h4, h5, h6,
 .quadrant-bubble {
   position: absolute;
   z-index: 3;
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
   transform: translate(-50%, 50%);
   border: 1px solid var(--texto-invertido);
   border-radius: 999px;
-  box-shadow:
-    var(--sombra-sm);
-  color: var(--texto-invertido);
+  box-shadow: var(--sombra-sm);
+  opacity: 0.55;
   cursor: default;
-  font-size: var(--txt-xs);
-  font-weight: 600;
-  line-height: 1;
-  white-space: nowrap;
 }
 
 /* Cor por quadrante — SPEC-002 §6.4. Valores da paleta do manual da marca;
@@ -891,12 +958,6 @@ h1, h2, h3, h4, h5, h6,
 .quadrant-x-axis strong {
   color: var(--texto-secundario);
   font-size: 14px;
-}
-
-.quadrant-aviso-filtro {
-  margin: 0 0 12px;
-  color: var(--muted);
-  font-size: 13px;
 }
 
 .quadrant-legend {
