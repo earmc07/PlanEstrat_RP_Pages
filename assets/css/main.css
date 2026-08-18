@@ -348,7 +348,7 @@ h1, h2, h3, h4, h5, h6,
 
 .overview-kpis {
   grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-  gap: 14px;
+  gap: var(--esp-4);
   margin-bottom: 16px;
 }
 
@@ -448,7 +448,13 @@ h1, h2, h3, h4, h5, h6,
   border: 1px solid var(--borda);
   border-left: 4px solid var(--marca-principal);
   border-radius: var(--radius-md);
-  background: var(--fundo-alt);
+  /* --fundo-alt e a mesma cor do fundo da pagina (B-06): a faixa lateral
+     azul nao bastava para o cartao ler como conteiner. --marca-cinza tem
+     contraste visivel contra --fundo-alt e contra os cartoes brancos de
+     objetivo dentro dele. Texto secundario (--muted) cai para 3,7:1 nesse
+     fundo, abaixo de AA — o paragrafo usa --texto-corpo (10,5:1) em vez
+     dele; o h2 ja herda --texto-corpo do body, sem mudanca. */
+  background: var(--marca-cinza);
   box-shadow: none;
 }
 
@@ -459,14 +465,14 @@ h1, h2, h3, h4, h5, h6,
 
 .objective-perspective-header p {
   margin: 0;
-  color: var(--muted);
+  color: var(--texto-corpo);
   font-size: 14px;
 }
 
 .objective-page-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-  gap: 14px;
+  gap: var(--esp-4);
 }
 
 .objective-page-card {
@@ -475,15 +481,6 @@ h1, h2, h3, h4, h5, h6,
   border-radius: var(--radius-md);
   box-shadow: var(--sombra-sm);
   padding: 18px;
-}
-
-.objective-page-card > summary {
-  cursor: pointer;
-  list-style: none;
-}
-
-.objective-page-card > summary::-webkit-details-marker {
-  display: none;
 }
 
 .objective-page-card-top {
@@ -499,20 +496,6 @@ h1, h2, h3, h4, h5, h6,
   font-family: var(--fonte-mono);
   font-size: 13px;
   font-weight: 800;
-}
-
-.objective-page-toggle {
-  flex: none;
-  width: 0;
-  height: 0;
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 6px solid var(--texto-secundario);
-  transition: transform 0.15s ease;
-}
-
-.objective-page-card[open] .objective-page-toggle {
-  transform: rotate(90deg);
 }
 
 .objective-page-card h3 {
@@ -546,6 +529,7 @@ h1, h2, h3, h4, h5, h6,
   font-size: var(--txt-sm);
   font-weight: 700;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .objective-detail-list {
@@ -618,6 +602,21 @@ h1, h2, h3, h4, h5, h6,
   background: var(--accent);
 }
 
+/* Duas tabelas lado a lado, metade da largura cada — SPEC-004 B-02. */
+.split-tables {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--esp-5);
+}
+
+.split-tables h3 {
+  margin: 0 0 var(--esp-2);
+  color: var(--texto-secundario);
+  font-size: var(--txt-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
 .table-wrap {
   overflow-x: auto;
 }
@@ -625,10 +624,18 @@ h1, h2, h3, h4, h5, h6,
 .executive-table {
   width: 100%;
   min-width: 760px;
+  overflow: hidden;
   border-collapse: collapse;
   border: 1px solid var(--borda);
   border-radius: var(--radius-md);
   background: var(--fundo-cartao);
+}
+
+/* Tabelas de distribuicao (perspectiva, pilar): poucas colunas, cabem
+   numa metade de coluna sem precisar da largura minima das tabelas de
+   registro completo. */
+.distribution-table {
+  min-width: 0;
 }
 
 .executive-table th,
@@ -645,6 +652,18 @@ h1, h2, h3, h4, h5, h6,
 
 .kr-col-indicador {
   max-width: 16rem;
+}
+
+/* Dezesseis colunas — sem largura minima propria, o navegador espreme as
+   colunas curtas ate quebrar em varias linhas (B-12). O piso da abaixo da
+   soma das colunas curtas mais a largura de leitura de descricao e
+   indicador; o excesso rola dentro do table-wrap. */
+.kr-table {
+  min-width: 1600px;
+}
+
+.kr-col-nowrap {
+  white-space: nowrap;
 }
 
 .executive-table th {
@@ -666,11 +685,39 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .executive-table caption {
-  padding: 0 0 10px;
+  text-align: left;
+}
+
+/* Texto descritivo da tabela, fora do <caption> — Etapa 10/B-11.
+   O <caption> herda a largura da tabela, nao da pagina: uma tabela mais
+   larga que a tela corta o texto pela rolagem horizontal do table-wrap.
+   Este paragrafo fica acima do contêiner rolavel, limitado a largura da
+   pagina; o <caption> passa a ter so uma frase curta, visualmente oculta,
+   para leitor de tela. */
+.table-description {
+  margin: 0 0 var(--esp-3);
   color: var(--muted);
   font-size: 13px;
   line-height: 1.45;
-  text-align: left;
+}
+
+.grafico-alternativa .table-description {
+  margin: 0;
+  padding: 0 var(--esp-4) var(--esp-3);
+}
+
+/* Oculta visualmente mantendo o texto acessivel a leitor de tela —
+   tecnica padrao (posicao, clip e tamanho de 1px). */
+.oculto-visual {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .table-note {
@@ -681,6 +728,31 @@ h1, h2, h3, h4, h5, h6,
 
 .kr-meta-revisao {
   font-style: italic;
+}
+
+/* Resultado apurado, numa segunda linha abaixo da meta — SPEC-004 B-07.
+   Cor pelo desempenho (positivo/critico), nunca pela marca: meta e
+   resultado usavam dois tons de azul quase indistinguiveis. */
+.kr-meta {
+  display: block;
+}
+
+.kr-resultado {
+  display: block;
+  margin-top: 2px;
+  font-weight: var(--peso-forte);
+}
+
+.kr-resultado--positivo {
+  color: var(--estado-positivo);
+}
+
+.kr-resultado--critico {
+  color: var(--estado-critico);
+}
+
+.kr-resultado--vazio {
+  color: var(--texto-suave);
 }
 
 /* ---- Selo de estado — SPEC-002 §6.2 ------------------------ */
@@ -945,6 +1017,20 @@ h1, h2, h3, h4, h5, h6,
   background: var(--marca-compl-3);
 }
 
+/* Clicar na linha da tabela destaca a bolha correspondente — SPEC-004
+   B-08, sem JavaScript, via :target. Destaca, nao filtra: as demais
+   continuam visiveis, so atenuadas. */
+.quadrant-bubble:target {
+  z-index: 4;
+  border-width: 2px;
+  box-shadow: 0 0 0 3px var(--estado-atencao);
+  opacity: 1;
+}
+
+.quadrant-chart:has(.quadrant-bubble:target) .quadrant-bubble:not(:target) {
+  opacity: 0.2;
+}
+
 .quadrant-x-axis {
   grid-column: 2;
   grid-row: 2;
@@ -1126,7 +1212,8 @@ h1, h2, h3, h4, h5, h6,
   .kpi-grid,
   .overview-kpis,
   .objective-page-list,
-  .panorama-grid {
+  .panorama-grid,
+  .split-tables {
     grid-template-columns: 1fr;
   }
 
