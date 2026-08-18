@@ -782,6 +782,7 @@ h1, h2, h3, h4, h5, h6,
 
 .kr-trajetoria-legenda {
   display: flex;
+  flex-wrap: wrap;
   gap: 18px;
   margin: 0 0 12px;
   color: var(--muted);
@@ -805,11 +806,23 @@ h1, h2, h3, h4, h5, h6,
   background: var(--marca-principal);
 }
 
-.kr-trajetoria-swatch--resultado {
-  background: var(--marca-compl-1);
+/* A linha de resultado e colorida por desempenho desde a Etapa 10 (B-07):
+   verde quando a meta foi atingida, vermelho quando nao. A legenda mostra as
+   duas cores possiveis — uma amostra unica em --marca-compl-1 contradiria a
+   tela a partir da primeira apuracao. O tracejado se mantem, e o que separa
+   resultado de meta no minigrafico. */
+.kr-trajetoria-swatch--resultado-positivo {
   background-image: repeating-linear-gradient(
     90deg,
-    var(--marca-compl-1) 0 3px,
+    var(--estado-positivo) 0 3px,
+    transparent 3px 5px
+  );
+}
+
+.kr-trajetoria-swatch--resultado-critico {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--estado-critico) 0 3px,
     transparent 3px 5px
   );
 }
