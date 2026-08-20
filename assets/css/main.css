@@ -78,6 +78,17 @@ h1, h2, h3, h4, h5, h6,
     1px solid var(--border);
 
   padding: 32px 24px;
+
+  /* Acompanha a rolagem — Etapa 15, Tarefa 1.1. .layout e flex, entao
+     align-self:flex-start impede o item de esticar para a altura toda do
+     container, o que apagaria o efeito do sticky (o item ja ocuparia o
+     espaco inteiro, nao haveria "colar" visivel). Se a barra for mais
+     alta que a janela, rola por dentro dela mesma. */
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  max-height: 100vh;
+  overflow-y: auto;
 }
 
 .brand {
@@ -234,7 +245,7 @@ h1, h2, h3, h4, h5, h6,
   grid-template-columns:
     repeat(auto-fit, minmax(220px, 1fr));
 
-  gap: 18px;
+  gap: var(--esp-5);
 
   margin-bottom: 24px;
 }
@@ -341,19 +352,19 @@ h1, h2, h3, h4, h5, h6,
 
   border-radius: var(--radius);
 
-  padding: 24px;
+  padding: var(--esp-4);
 
   box-shadow: var(--shadow);
 }
 
 .overview-kpis {
   grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-  gap: var(--esp-4);
+  gap: var(--esp-5);
   margin-bottom: 16px;
 }
 
 .overview-kpis .kpi-card {
-  padding: 18px;
+  padding: var(--esp-4);
 }
 
 .overview-kpis .kpi-label {
@@ -414,13 +425,20 @@ h1, h2, h3, h4, h5, h6,
 
   border-radius: var(--radius);
 
-  padding: 24px;
+  padding: var(--esp-5);
 
   box-shadow: var(--shadow);
 }
 
+/* Respiro entre paineis — Etapa 15, Tarefa 2. So entre eles (nao antes do
+   primeiro nem depois do ultimo): .content nao e grid com gap, e cada
+   pagina encadeia varios .panel como irmaos diretos. */
+.panel + .panel {
+  margin-top: var(--esp-6);
+}
+
 .panel-header {
-  margin-bottom: 20px;
+  margin-bottom: var(--esp-4);
 }
 
 .panel-header h2 {
@@ -472,7 +490,7 @@ h1, h2, h3, h4, h5, h6,
 .objective-page-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-  gap: var(--esp-4);
+  gap: var(--esp-5);
 }
 
 .objective-page-card {
@@ -480,7 +498,7 @@ h1, h2, h3, h4, h5, h6,
   border: 1px solid var(--borda);
   border-radius: var(--radius-md);
   box-shadow: var(--sombra-sm);
-  padding: 18px;
+  padding: var(--esp-4);
 }
 
 .objective-page-card-top {
@@ -654,6 +672,13 @@ h1, h2, h3, h4, h5, h6,
   max-width: 16rem;
 }
 
+/* Unidade tem valor longo o bastante para estourar a coluna sem quebrar
+   — "Comparação com 2025 (2025 = 100)", em KR-DSE-04 (Etapa 15,
+   Tarefa 4). Sem white-space: nowrap, ao contrario das colunas curtas. */
+.kr-col-unidade {
+  max-width: 10rem;
+}
+
 /* Dezesseis colunas — sem largura minima propria, o navegador espreme as
    colunas curtas ate quebrar em varias linhas (B-12). O piso da abaixo da
    soma das colunas curtas mais a largura de leitura de descricao e
@@ -699,11 +724,6 @@ h1, h2, h3, h4, h5, h6,
   color: var(--muted);
   font-size: 13px;
   line-height: 1.45;
-}
-
-.grafico-alternativa .table-description {
-  margin: 0;
-  padding: 0 var(--esp-4) var(--esp-3);
 }
 
 /* Oculta visualmente mantendo o texto acessivel a leitor de tela —
@@ -778,6 +798,19 @@ h1, h2, h3, h4, h5, h6,
 .selo-status--neutro {
   background: var(--estado-neutro-bg);
   color: var(--estado-neutro);
+}
+
+/* SPEC-002 §6.2 lista quatro estados; estes dois faltavam no
+   componente compartilhado ate a Etapa 12 os pedir na tabela de
+   alertas do painel interno. */
+.selo-status--critico {
+  background: var(--estado-critico-bg);
+  color: var(--estado-critico);
+}
+
+.selo-status--atencao {
+  background: var(--estado-atencao-bg);
+  color: var(--estado-atencao);
 }
 
 .kr-trajetoria-legenda {
@@ -897,6 +930,15 @@ h1, h2, h3, h4, h5, h6,
   transform: rotate(180deg);
 }
 
+/* As quatro regiões do gráfico — Etapa 15, Tarefa 5. Um conic-gradient
+   centrado no ponto de corte (esforço, valor) divide o retângulo em
+   exatamente quatro setores de 90°, cada um coincidindo com um quadrante
+   retangular real, porque o centro é o próprio ponto de corte dos dois
+   eixos. 0deg aponta para cima e o ângulo cresce em sentido horário:
+   0-90° é o setor de cima-direita (Q1), 90-180° de baixo-direita (Q3),
+   180-270° de baixo-esquerda (Q4), 270-360° de cima-esquerda (Q2). Antes,
+   dois gradientes lineares empilhados deixavam Q1 e Q3 com a mesma tinta
+   genérica e Q4 sem tinta nenhuma. */
 .quadrant-chart {
   position: relative;
   grid-column: 2;
@@ -905,18 +947,13 @@ h1, h2, h3, h4, h5, h6,
   overflow: hidden;
   border: 1px solid var(--borda);
   border-radius: var(--radius-md);
-  background:
-    linear-gradient(
-      90deg,
-      transparent 0 var(--corte-esforco, 50%),
-      var(--fundo-alt) var(--corte-esforco, 50%) 100%
-    ),
-    linear-gradient(
-      0deg,
-      transparent 0 var(--corte-valor, 50%),
-      var(--fundo-alt) var(--corte-valor, 50%) 100%
-    ),
-    var(--fundo-cartao);
+  background: conic-gradient(
+    from 0deg at var(--corte-esforco, 50%) calc(100% - var(--corte-valor, 50%)),
+    var(--quadrante-q1-bg) 0deg 90deg,
+    var(--quadrante-q3-bg) 90deg 180deg,
+    var(--quadrante-q4-bg) 180deg 270deg,
+    var(--quadrante-q2-bg) 270deg 360deg
+  );
 }
 
 .quadrant-axis {
@@ -982,23 +1019,27 @@ h1, h2, h3, h4, h5, h6,
 .quadrant-label--q1 {
   top: 12px;
   right: 12px;
+  border-left: 3px solid var(--quadrante-q1);
   text-align: right;
 }
 
 .quadrant-label--q2 {
   top: 12px;
   left: 12px;
+  border-left: 3px solid var(--quadrante-q2);
 }
 
 .quadrant-label--q3 {
   right: 12px;
   bottom: 12px;
+  border-left: 3px solid var(--quadrante-q3);
   text-align: right;
 }
 
 .quadrant-label--q4 {
   left: 12px;
   bottom: 12px;
+  border-left: 3px solid var(--quadrante-q4);
 }
 
 .quadrant-bubble {
@@ -1012,22 +1053,23 @@ h1, h2, h3, h4, h5, h6,
   cursor: default;
 }
 
-/* Cor por quadrante — SPEC-002 §6.4. Valores da paleta do manual da marca;
-   migram para tokens.css na etapa de identidade visual. */
+/* Cor por quadrante — SPEC-002 §6.4. Tokens de tokens.css: cada um carrega
+   o juizo do quadrante (favoravel ou que exige atencao), nao mais um tom
+   de azul institucional so distinguivel entre si. */
 .quadrant-bubble--q1 {
-  background: var(--marca-principal);
+  background: var(--quadrante-q1);
 }
 
 .quadrant-bubble--q2 {
-  background: var(--marca-compl-1);
+  background: var(--quadrante-q2);
 }
 
 .quadrant-bubble--q3 {
-  background: var(--marca-compl-2);
+  background: var(--quadrante-q3);
 }
 
 .quadrant-bubble--q4 {
-  background: var(--marca-compl-3);
+  background: var(--quadrante-q4);
 }
 
 /* Clicar na linha da tabela destaca a bolha correspondente — SPEC-004
@@ -1170,25 +1212,6 @@ h1, h2, h3, h4, h5, h6,
   line-height: var(--altura-linha-corpo);
 }
 
-/* ---- Alternativa textual do grafico (SPEC-002 §4) --------- */
-.grafico-alternativa {
-  margin-top: var(--esp-4);
-  border: 1px solid var(--borda);
-  border-radius: var(--raio-md);
-  background: var(--fundo-alt);
-}
-
-.grafico-alternativa > summary {
-  padding: var(--esp-3) var(--esp-4);
-  color: var(--texto-principal);
-  cursor: pointer;
-  font-weight: var(--peso-medio);
-}
-
-.grafico-alternativa .table-wrap {
-  padding: 0 var(--esp-4) var(--esp-4);
-}
-
 /* ============================================================
    Ponto de quebra unico em 768px — SPEC-002 §5.4.
    Acima disso as grades sao fluidas (auto-fit), o que dispensa
@@ -1268,8 +1291,7 @@ h1, h2, h3, h4, h5, h6,
 
   .sidebar,
   .filters-panel,
-  .pular-conteudo,
-  .grafico-alternativa {
+  .pular-conteudo {
     display: none !important;
   }
 

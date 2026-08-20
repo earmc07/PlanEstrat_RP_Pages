@@ -68,6 +68,25 @@
   /* Cor nunca é o único portador de significado: todo estado
      leva rótulo textual e, quando cabível, ícone.            */
 
+  /* ---- Quadrantes do gráfico de priorização ----------------
+     Cada token carrega o juízo do quadrante — favorável (Q1/Q2)
+     ou que exige atenção (Q3/Q4) — derivado dos tokens acima,
+     nunca um valor novo. O tom pastel vem da opacidade de 0,55
+     aplicada à bolha no gráfico, não de clarear a cor aqui. */
+  --quadrante-q1: var(--marca-principal);
+  --quadrante-q2: var(--estado-positivo);
+  --quadrante-q3: var(--estado-atencao);
+  --quadrante-q4: var(--estado-critico);
+
+  /* Tinta de fundo das quatro regiões do gráfico — Etapa 15, Tarefa 5.
+     Mesma mistura (9%) para as quatro, derivada do token do próprio
+     quadrante: nenhuma região fica sem tinta, e nenhuma fica mais forte
+     que as outras. Bem mais fraca que a bolha, que usa opacidade 0,55. */
+  --quadrante-q1-bg: color-mix(in srgb, var(--quadrante-q1) 9%, var(--fundo-cartao));
+  --quadrante-q2-bg: color-mix(in srgb, var(--quadrante-q2) 9%, var(--fundo-cartao));
+  --quadrante-q3-bg: color-mix(in srgb, var(--quadrante-q3) 9%, var(--fundo-cartao));
+  --quadrante-q4-bg: color-mix(in srgb, var(--quadrante-q4) 9%, var(--fundo-cartao));
+
   /* ---- Tipografia -----------------------------------------
      Manual (p. 22): Square721 BT (principal) e
      Humnst777 BT Roman (complementar).

@@ -52,7 +52,7 @@ const applyGlobalFilters = () => {
   const selects = document.querySelectorAll("[data-filter]");
   const activeText = document.querySelector("[data-active-filters]");
   const filterableElements = document.querySelectorAll(
-    ".objective-card, .objective-perspective-group, .initiative-item, .management-goal-row, .quadrant-bubble, .status-card, .kr-row, .kr-detail-panel, .kr-history-row"
+    ".objective-card, .objective-perspective-group, .initiative-item, .management-goal-row, .quadrant-bubble, .status-card, .kr-row, .kr-detail-panel, .kr-history-row, .risco-row"
   );
   const filters = getActiveFilters(selects);
 
