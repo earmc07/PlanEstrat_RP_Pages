@@ -117,11 +117,17 @@ h1, h2, h3, h4, h5, h6,
 
   flex-direction: column;
 
-  gap: 6px;
+  gap: var(--esp-1);
 }
 
 .menu-item {
-  padding: 12px 14px;
+  padding: var(--esp-2) 14px;
+
+  /* Sem isto, a linha do texto usa a altura padrao do navegador (~22px):
+     22 + 2*var(--esp-2) (16px) = 38px, abaixo do minimo de 40px por item
+     (Etapa 16, Tarefa 1). Com --altura-linha-corpo, ~41px — sem alterar
+     o padding pedido nem inventar valor fora de tokens.css. */
+  line-height: var(--altura-linha-corpo);
 
   border-radius: var(--radius-md);
 
