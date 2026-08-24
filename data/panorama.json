@@ -1,13 +1,18 @@
 {
   "kr_atingimento": {
-    "ano": null,
-    "media_percentual_sucesso": null,
-    "apurado": false
+    "ano": 2026,
+    "media_percentual_sucesso": 0.875,
+    "apurado": true
   },
   "execucao_portfolio": {
     "ciclo": "2026-B4",
-    "media_execucao": null,
-    "apurado": false
+    "media_execucao": 0.0333333,
+    "apurado": true
   },
-  "evolucao": []
+  "evolucao": [
+    {
+      "ciclo": "2026-B4",
+      "media_percentual_sucesso": 0.875
+    }
+  ]
 }

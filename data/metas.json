@@ -3117,7 +3117,7 @@
   {
     "id_kr": "KR-DSE-04",
     "ano": 2027,
-    "meta": 20.79,
+    "meta": 20.790000000000003,
     "status_meta": "Definida",
     "origem": "2027-T4"
   },
@@ -3537,7 +3537,7 @@
   {
     "id_kr": "KR-INS-02",
     "ano": 2027,
-    "meta": 4045955.388,
+    "meta": 4045955.3880000003,
     "status_meta": "Definida",
     "origem": "2027-T4"
   },

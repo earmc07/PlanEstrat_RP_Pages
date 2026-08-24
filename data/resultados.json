@@ -1682,12 +1682,12 @@
   {
     "id_kr": "KR-DAF-29",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 100.0,
+    "meta": 0.6,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-29",
@@ -1742,12 +1742,12 @@
   {
     "id_kr": "KR-DAF-30",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 4.93,
+    "meta": 3.0,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-30",
@@ -1802,12 +1802,12 @@
   {
     "id_kr": "KR-DAF-31",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 76.0,
+    "meta": 0.7,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-31",
@@ -1862,12 +1862,12 @@
   {
     "id_kr": "KR-DAF-32",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 0.0,
+    "meta": 0.01,
+    "percentual_sucesso": 0.0,
+    "meta_atingida": false,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-32",
@@ -2042,12 +2042,12 @@
   {
     "id_kr": "KR-DAF-35",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 32.0,
+    "meta": 0.36,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-35",
@@ -2162,12 +2162,12 @@
   {
     "id_kr": "KR-DAF-37",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 100.0,
+    "meta": 0.6,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-37",
@@ -2282,12 +2282,12 @@
   {
     "id_kr": "KR-DAF-39",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 31.0,
+    "meta": 0.15,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-DAF-39",
@@ -6782,12 +6782,12 @@
   {
     "id_kr": "KR-INS-31",
     "ano": 2026,
-    "resultado": null,
-    "meta": null,
-    "percentual_sucesso": null,
-    "meta_atingida": null,
-    "origem": null,
-    "apurado": false
+    "resultado": 2.0,
+    "meta": 2.0,
+    "percentual_sucesso": 1.0,
+    "meta_atingida": true,
+    "origem": "2026-B4",
+    "apurado": true
   },
   {
     "id_kr": "KR-INS-31",
